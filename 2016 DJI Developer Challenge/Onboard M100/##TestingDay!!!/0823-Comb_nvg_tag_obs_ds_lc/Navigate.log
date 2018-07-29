@@ -1,0 +1,3020 @@
+Received data from moblie : 1
+
+Received data from moblie : 1
+
+Received data from moblie : 1
+
+Navigate : 0..
+State: Init.
+GPS Corners:
+[0]->
+Latitude:  0.556527397255627
+Longitude: 2.07362961098558
+[1]->
+Latitude:  0.556527083684438
+Longitude: 2.07363478119421
+[2]->
+Latitude:  0.55652896511157
+Longitude: 2.07363478119723
+[3]->
+Latitude:  0.55652896511157
+Longitude: 2.07362961098558
+Total GPS counts:8
+StepOffsetX:2.9999999999972
+StepOffsetY:4.09696364967993e-06
+
+Navigate : 1..
+State: Prepare yaw.
+OffsetX:-1.99999999995516
+OffsetY:27.9999999990502
+Theoretical Current GPS ->
+Latitude:  0.556527397255627
+Longitude: 2.07362961098558
+Theoretical Next GPS ->
+Latitude:  0.556527083684438
+Longitude: 2.07363478119421
+Base Line K:-13.999999999839
+Yaw:70.7958145141602
+
+Navigate : 2..
+State: Yawing.
+Dest yaw angle:70.7958145141602	Crnt yaw angle:69.6184768676758
+Dist to length:12.8047475466338 || Dist to width:2.58355853636088
+##OFA
+
+Navigate : 3..
+State: Back to line.
+Distance:12.8047475466338
+Dist to length:12.8047475466338 || Dist to width:2.58355853636088
+##OFA
+
+Navigate : 4..
+State: Back to line.
+Distance:12.8047475466338
+Dist to length:12.8047475466338 || Dist to width:2.58355853636088
+##OFA
+
+Navigate : 5..
+State: Back to line.
+Distance:12.8284841360096
+Dist to length:12.8284841360096 || Dist to width:2.60227304789268
+##OFA
+
+Navigate : 6..
+State: Back to line.
+Distance:12.8284841360096
+Dist to length:12.8284841360096 || Dist to width:2.60227304789268
+##OFA
+
+Navigate : 7..
+State: Back to line.
+Distance:12.8284841360096
+Dist to length:12.8284841360096 || Dist to width:2.60227304789268
+##OFA
+
+Navigate : 8..
+State: Back to line.
+Distance:12.8284841360096
+Dist to length:12.8284841360096 || Dist to width:2.60227304789268
+##OFA
+
+Navigate : 9..
+State: Back to line.
+Distance:12.8284841360096
+Dist to length:12.8284841360096 || Dist to width:2.60227304789268
+##OFA
+
+Navigate : 10..
+State: Back to line.
+Distance:12.8284841360096
+Dist to length:12.8284841360096 || Dist to width:2.60227304789268
+##OFA
+
+Navigate : 11..
+State: Back to line.
+Distance:12.8284841360096
+Dist to length:12.8284841360096 || Dist to width:2.60227304789268
+##OFA
+
+Navigate : 12..
+State: Back to line.
+Distance:12.8283848724973
+Dist to length:12.8283848724973 || Dist to width:2.60205671307201
+##OFA
+
+Navigate : 13..
+State: Back to line.
+Distance:12.8283848724973
+Dist to length:12.8283848724973 || Dist to width:2.60205671307201
+##OFA
+
+Navigate : 14..
+State: Back to line.
+Distance:12.8283848724973
+Dist to length:12.8283848724973 || Dist to width:2.60205671307201
+##OFA
+
+Navigate : 15..
+State: Back to line.
+Distance:12.8283848724973
+Dist to length:12.8283848724973 || Dist to width:2.60205671307201
+##OFA
+
+Navigate : 16..
+State: Back to line.
+Distance:12.8283848724973
+Dist to length:12.8283848724973 || Dist to width:2.60205671307201
+##OFA
+
+Navigate : 17..
+State: Back to line.
+Distance:12.8283848724973
+Dist to length:12.8283848724973 || Dist to width:2.60205671307201
+##OFA
+
+Navigate : 18..
+State: Back to line.
+Distance:12.8283848724973
+Dist to length:12.8283848724973 || Dist to width:2.60205671307201
+##OFA
+
+Navigate : 19..
+State: Back to line.
+Distance:12.8291773042633
+Dist to length:12.8291773042633 || Dist to width:2.61189726172334
+##OFA
+
+Navigate : 20..
+State: Back to line.
+Distance:12.8291773042633
+Dist to length:12.8291773042633 || Dist to width:2.61189726172334
+##OFA
+
+Navigate : 21..
+State: Back to line.
+Distance:12.8291773042633
+Dist to length:12.8291773042633 || Dist to width:2.61189726172334
+##OFA
+
+Navigate : 22..
+State: Back to line.
+Distance:12.8291773042633
+Dist to length:12.8291773042633 || Dist to width:2.61189726172334
+##OFA
+
+Navigate : 23..
+State: Back to line.
+Distance:12.8291773042633
+Dist to length:12.8291773042633 || Dist to width:2.61189726172334
+##OFA
+
+Navigate : 24..
+State: Back to line.
+Distance:12.8291773042633
+Dist to length:12.8291773042633 || Dist to width:2.61189726172334
+##OFA
+
+Navigate : 25..
+State: Back to line.
+Distance:12.8291773042633
+Dist to length:12.8291773042633 || Dist to width:2.61189726172334
+##OFA
+
+Navigate : 26..
+State: Back to line.
+Distance:12.8414153734602
+Dist to length:12.8414153734602 || Dist to width:2.62137993623792
+##OFA
+
+Navigate : 27..
+State: Back to line.
+Distance:12.8414153734602
+Dist to length:12.8414153734602 || Dist to width:2.62137993623792
+##OFA
+
+Navigate : 28..
+State: Back to line.
+Distance:12.8414153734602
+Dist to length:12.8414153734602 || Dist to width:2.62137993623792
+##OFA
+
+Navigate : 29..
+State: Back to line.
+Distance:12.8414153734602
+Dist to length:12.8414153734602 || Dist to width:2.62137993623792
+##OFA
+
+Navigate : 30..
+State: Back to line.
+Distance:12.8414153734602
+Dist to length:12.8414153734602 || Dist to width:2.62137993623792
+##OFA
+
+Navigate : 31..
+State: Back to line.
+Distance:12.8414153734602
+Dist to length:12.8414153734602 || Dist to width:2.62137993623792
+##OFA
+
+Navigate : 32..
+State: Back to line.
+Distance:12.8414153734602
+Dist to length:12.8414153734602 || Dist to width:2.62137993623792
+##OFA
+
+Navigate : 33..
+State: Back to line.
+Distance:12.8640528452851
+Dist to length:12.8640528452851 || Dist to width:2.6311419129866
+##OFA
+
+Navigate : 34..
+State: Back to line.
+Distance:12.8640528452851
+Dist to length:12.8640528452851 || Dist to width:2.6311419129866
+##OFA
+
+Navigate : 35..
+State: Back to line.
+Distance:12.8640528452851
+Dist to length:12.8640528452851 || Dist to width:2.6311419129866
+##OFA
+
+Navigate : 36..
+State: Back to line.
+Distance:12.8640528452851
+Dist to length:12.8640528452851 || Dist to width:2.6311419129866
+##OFA
+
+Navigate : 37..
+State: Back to line.
+Distance:12.8640528452851
+Dist to length:12.8640528452851 || Dist to width:2.6311419129866
+##OFA
+
+Navigate : 38..
+State: Back to line.
+Distance:12.8640528452851
+Dist to length:12.8640528452851 || Dist to width:2.6311419129866
+##OFA
+
+Navigate : 39..
+State: Back to line.
+Distance:12.8640528452851
+Dist to length:12.8640528452851 || Dist to width:2.6311419129866
+##OFA
+
+Navigate : 40..
+State: Back to line.
+Distance:12.8644329936637
+Dist to length:12.8644329936637 || Dist to width:2.63168165937558
+##OFA
+
+Navigate : 41..
+State: Back to line.
+Distance:12.8644329936637
+Dist to length:12.8644329936637 || Dist to width:2.63168165937558
+##OFA
+
+Navigate : 42..
+State: Back to line.
+Distance:12.8644329936637
+Dist to length:12.8644329936637 || Dist to width:2.63168165937558
+##OFA
+
+Navigate : 43..
+State: Back to line.
+Distance:12.8644329936637
+Dist to length:12.8644329936637 || Dist to width:2.63168165937558
+##OFA
+
+Navigate : 44..
+State: Back to line.
+Distance:12.8644329936637
+Dist to length:12.8644329936637 || Dist to width:2.63168165937558
+##OFA
+
+Navigate : 45..
+State: Back to line.
+Distance:12.8644329936637
+Dist to length:12.8644329936637 || Dist to width:2.63168165937558
+##OFA
+
+Navigate : 46..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 47..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 48..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 49..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 50..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 51..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 52..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 53..
+State: Back to line.
+Distance:12.8762162844823
+Dist to length:12.8762162844823 || Dist to width:2.64160313149046
+##OFA
+
+Navigate : 54..
+State: Back to line.
+Distance:12.8660493726045
+Dist to length:12.8660493726045 || Dist to width:2.65102662979271
+##OFA
+
+Navigate : 55..
+State: Back to line.
+Distance:12.8660493726045
+Dist to length:12.8660493726045 || Dist to width:2.65102662979271
+##OFA
+
+Navigate : 56..
+State: Back to line.
+Distance:12.8660493726045
+Dist to length:12.8660493726045 || Dist to width:2.65102662979271
+##OFA
+
+Navigate : 57..
+State: Back to line.
+Distance:12.8660493726045
+Dist to length:12.8660493726045 || Dist to width:2.65102662979271
+##OFA
+
+Navigate : 58..
+State: Back to line.
+Distance:12.8660493726045
+Dist to length:12.8660493726045 || Dist to width:2.65102662979271
+##OFA
+
+Navigate : 59..
+State: Back to line.
+Distance:12.8660493726045
+Dist to length:12.8660493726045 || Dist to width:2.65102662979271
+##OFA
+
+Navigate : 60..
+State: Back to line.
+Distance:12.8660493726045
+Dist to length:12.8660493726045 || Dist to width:2.65102662979271
+##OFA
+
+Navigate : 61..
+State: Back to line.
+Distance:12.8776208114255
+Dist to length:12.8776208114255 || Dist to width:2.65002244970564
+##OFA
+
+Navigate : 62..
+State: Back to line.
+Distance:12.8776208114255
+Dist to length:12.8776208114255 || Dist to width:2.65002244970564
+##OFA
+
+Navigate : 63..
+State: Back to line.
+Distance:12.8776208114255
+Dist to length:12.8776208114255 || Dist to width:2.65002244970564
+##OFA
+
+Navigate : 64..
+State: Back to line.
+Distance:12.8776208114255
+Dist to length:12.8776208114255 || Dist to width:2.65002244970564
+##OFA
+
+Navigate : 65..
+State: Back to line.
+Distance:12.8776208114255
+Dist to length:12.8776208114255 || Dist to width:2.65002244970564
+##OFA
+
+Navigate : 66..
+State: Back to line.
+Distance:12.8776208114255
+Dist to length:12.8776208114255 || Dist to width:2.65002244970564
+##OFA
+
+Navigate : 67..
+State: Back to line.
+Distance:12.8774393818428
+Dist to length:12.8774393818428 || Dist to width:2.64992406233035
+##OFA
+
+Navigate : 68..
+State: Back to line.
+Distance:12.8774393818428
+Dist to length:12.8774393818428 || Dist to width:2.64992406233035
+##OFA
+
+Navigate : 69..
+State: Back to line.
+Distance:12.8774393818428
+Dist to length:12.8774393818428 || Dist to width:2.64992406233035
+##OFA
+
+Navigate : 70..
+State: Back to line.
+Distance:12.8774393818428
+Dist to length:12.8774393818428 || Dist to width:2.64992406233035
+##OFA
+
+Navigate : 71..
+State: Back to line.
+Distance:12.8774393818428
+Dist to length:12.8774393818428 || Dist to width:2.64992406233035
+##OFA
+
+Navigate : 72..
+State: Back to line.
+Distance:12.8774393818428
+Dist to length:12.8774393818428 || Dist to width:2.64992406233035
+##OFA
+
+Navigate : 73..
+State: Back to line.
+Distance:12.8774393818428
+Dist to length:12.8774393818428 || Dist to width:2.64992406233035
+##OFA
+
+Navigate : 74..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 75..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 76..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 77..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 78..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 79..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 80..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 81..
+State: Back to line.
+Distance:12.8783834084732
+Dist to length:12.8783834084732 || Dist to width:2.65974931984601
+##OFA
+
+Navigate : 82..
+State: Back to line.
+Distance:12.8914929369239
+Dist to length:12.8914929369239 || Dist to width:2.67910426543762
+##OFA
+
+Navigate : 83..
+State: Back to line.
+Distance:12.8914929369239
+Dist to length:12.8914929369239 || Dist to width:2.67910426543762
+##OFA
+
+Navigate : 84..
+State: Back to line.
+Distance:12.8914929369239
+Dist to length:12.8914929369239 || Dist to width:2.67910426543762
+##OFA
+
+Navigate : 85..
+State: Back to line.
+Distance:12.8914929369239
+Dist to length:12.8914929369239 || Dist to width:2.67910426543762
+##OFA
+
+Navigate : 86..
+State: Back to line.
+Distance:12.8914929369239
+Dist to length:12.8914929369239 || Dist to width:2.67910426543762
+##OFA
+
+Navigate : 87..
+State: Back to line.
+Distance:12.8914929369239
+Dist to length:12.8914929369239 || Dist to width:2.67910426543762
+##OFA
+
+Navigate : 88..
+State: Back to line.
+Distance:12.8912672262534
+Dist to length:12.8912672262534 || Dist to width:2.67977868378056
+##OFA
+
+Navigate : 89..
+State: Back to line.
+Distance:12.8912672262534
+Dist to length:12.8912672262534 || Dist to width:2.67977868378056
+##OFA
+
+Navigate : 90..
+State: Back to line.
+Distance:12.8912672262534
+Dist to length:12.8912672262534 || Dist to width:2.67977868378056
+##OFA
+
+Navigate : 91..
+State: Back to line.
+Distance:12.8912672262534
+Dist to length:12.8912672262534 || Dist to width:2.67977868378056
+##OFA
+
+Navigate : 92..
+State: Back to line.
+Distance:12.8912672262534
+Dist to length:12.8912672262534 || Dist to width:2.67977868378056
+##OFA
+
+Navigate : 93..
+State: Back to line.
+Distance:12.8912672262534
+Dist to length:12.8912672262534 || Dist to width:2.67977868378056
+##OFA
+
+Navigate : 94..
+State: Back to line.
+Distance:12.8912672262534
+Dist to length:12.8912672262534 || Dist to width:2.67977868378056
+##OFA
+
+Navigate : 95..
+State: Back to line.
+Distance:12.8918721142778
+Dist to length:12.8918721142778 || Dist to width:2.69008321072636
+##OFA
+
+Navigate : 96..
+State: Back to line.
+Distance:12.8918721142778
+Dist to length:12.8918721142778 || Dist to width:2.69008321072636
+##OFA
+
+Navigate : 97..
+State: Back to line.
+Distance:12.8918721142778
+Dist to length:12.8918721142778 || Dist to width:2.69008321072636
+##OFA
+
+Navigate : 98..
+State: Back to line.
+Distance:12.8918721142778
+Dist to length:12.8918721142778 || Dist to width:2.69008321072636
+##OFA
+
+Navigate : 99..
+State: Back to line.
+Distance:12.8918721142778
+Dist to length:12.8918721142778 || Dist to width:2.69008321072636
+##OFA
+
+Navigate : 100..
+State: Back to line.
+Distance:12.8918721142778
+Dist to length:12.8918721142778 || Dist to width:2.69008321072636
+##OFA
+
+Navigate : 101..
+State: Back to line.
+Distance:12.8918721142778
+Dist to length:12.8918721142778 || Dist to width:2.69008321072636
+##OFA
+
+Navigate : 102..
+State: Back to line.
+Distance:12.8919578155435
+Dist to length:12.8919578155435 || Dist to width:2.68959657706854
+##OFA
+
+Navigate : 103..
+State: Back to line.
+Distance:12.8919578155435
+Dist to length:12.8919578155435 || Dist to width:2.68959657706854
+##OFA
+
+Navigate : 104..
+State: Back to line.
+Distance:12.8919578155435
+Dist to length:12.8919578155435 || Dist to width:2.68959657706854
+##OFA
+
+Navigate : 105..
+State: Back to line.
+Distance:12.8919578155435
+Dist to length:12.8919578155435 || Dist to width:2.68959657706854
+##OFA
+
+Navigate : 106..
+State: Back to line.
+Distance:12.8919578155435
+Dist to length:12.8919578155435 || Dist to width:2.68959657706854
+##OFA
+
+Navigate : 107..
+State: Back to line.
+Distance:12.8919578155435
+Dist to length:12.8919578155435 || Dist to width:2.68959657706854
+##OFA
+
+Navigate : 108..
+State: Back to line.
+Distance:12.8919578155435
+Dist to length:12.8919578155435 || Dist to width:2.68959657706854
+##OFA
+
+Navigate : 109..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 110..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 111..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 112..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 113..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 114..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 115..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 116..
+State: Back to line.
+Distance:12.9033007266671
+Dist to length:12.9033007266671 || Dist to width:2.69814874802636
+##OFA
+
+Navigate : 117..
+State: Back to line.
+Distance:12.9036176275999
+Dist to length:12.9036176275999 || Dist to width:2.69723349725615
+##OFA
+
+Navigate : 118..
+State: Back to line.
+Distance:12.9036176275999
+Dist to length:12.9036176275999 || Dist to width:2.69723349725615
+##OFA
+
+Navigate : 119..
+State: Back to line.
+Distance:12.9036176275999
+Dist to length:12.9036176275999 || Dist to width:2.69723349725615
+##OFA
+
+Navigate : 120..
+State: Back to line.
+Distance:12.9036176275999
+Dist to length:12.9036176275999 || Dist to width:2.69723349725615
+##OFA
+
+Navigate : 121..
+State: Back to line.
+Distance:12.9036176275999
+Dist to length:12.9036176275999 || Dist to width:2.69723349725615
+##OFA
+
+Navigate : 122..
+State: Back to line.
+Distance:12.9036176275999
+Dist to length:12.9036176275999 || Dist to width:2.69723349725615
+##OFA
+
+Navigate : 123..
+State: Back to line.
+Distance:12.9036176275999
+Dist to length:12.9050215711835 || Dist to width:2.70619812465719
+##OFA
+
+Navigate : 124..
+State: Back to line.
+Distance:12.9050215711835
+Dist to length:12.9050215711835 || Dist to width:2.70619812465719
+##OFA
+
+Navigate : 125..
+State: Back to line.
+Distance:12.9050215711835
+Dist to length:12.9050215711835 || Dist to width:2.70619812465719
+##OFA
+
+Navigate : 126..
+State: Back to line.
+Distance:12.9050215711835
+Dist to length:12.9050215711835 || Dist to width:2.70619812465719
+##OFA
+
+Navigate : 127..
+State: Back to line.
+Distance:12.9050215711835
+Dist to length:12.9050215711835 || Dist to width:2.70619812465719
+##OFA
+
+Navigate : 128..
+State: Back to line.
+Distance:12.9050215711835
+Dist to length:12.9050215711835 || Dist to width:2.70619812465719
+##OFA
+
+Navigate : 129..
+State: Back to line.
+Distance:12.9050215711835
+Dist to length:12.9050215711835 || Dist to width:2.70619812465719
+##OFA
+
+Navigate : 130..
+State: Back to line.
+Distance:12.9065590696735
+Dist to length:12.9065590696735 || Dist to width:2.71631560296823
+##OFA
+
+Navigate : 131..
+State: Back to line.
+Distance:12.9065590696735
+Dist to length:12.9065590696735 || Dist to width:2.71631560296823
+##OFA
+
+Navigate : 132..
+State: Back to line.
+Distance:12.9065590696735
+Dist to length:12.9065590696735 || Dist to width:2.71631560296823
+##OFA
+
+Navigate : 133..
+State: Back to line.
+Distance:12.9065590696735
+Dist to length:12.9065590696735 || Dist to width:2.71631560296823
+##OFA
+
+Navigate : 134..
+State: Back to line.
+Distance:12.9065590696735
+Dist to length:12.9065590696735 || Dist to width:2.71631560296823
+##OFA
+
+Navigate : 135..
+State: Back to line.
+Distance:12.9065590696735
+Dist to length:12.9065590696735 || Dist to width:2.71631560296823
+##OFA
+
+Navigate : 136..
+State: Back to line.
+Distance:12.906667879603
+Dist to length:12.906667879603 || Dist to width:2.71719862639939
+##OFA
+
+Navigate : 137..
+State: Back to line.
+Distance:12.906667879603
+Dist to length:12.906667879603 || Dist to width:2.71719862639939
+##OFA
+
+Navigate : 138..
+State: Back to line.
+Distance:12.906667879603
+Dist to length:12.906667879603 || Dist to width:2.71719862639939
+##OFA
+
+Navigate : 139..
+State: Back to line.
+Distance:12.906667879603
+Dist to length:12.906667879603 || Dist to width:2.71719862639939
+##OFA
+
+Navigate : 140..
+State: Back to line.
+Distance:12.906667879603
+Dist to length:12.906667879603 || Dist to width:2.71719862639939
+##OFA
+
+Navigate : 141..
+State: Back to line.
+Distance:12.906667879603
+Dist to length:12.906667879603 || Dist to width:2.71719862639939
+##OFA
+
+Navigate : 142..
+State: Back to line.
+Distance:12.906667879603
+Dist to length:12.906667879603 || Dist to width:2.71719862639939
+##OFA
+
+Navigate : 143..
+State: Back to line.
+Distance:12.906952099139
+Dist to length:12.906952099139 || Dist to width:2.72662272010872
+##OFA
+
+Navigate : 144..
+State: Back to line.
+Distance:12.906952099139
+Dist to length:12.906952099139 || Dist to width:2.72662272010872
+##OFA
+
+Navigate : 145..
+State: Back to line.
+Distance:12.906952099139
+Dist to length:12.906952099139 || Dist to width:2.72662272010872
+##OFA
+
+Navigate : 146..
+State: Back to line.
+Distance:12.906952099139
+Dist to length:12.906952099139 || Dist to width:2.72662272010872
+##OFA
+
+Navigate : 147..
+State: Back to line.
+Distance:12.906952099139
+Dist to length:12.906952099139 || Dist to width:2.72662272010872
+##OFA
+
+Navigate : 148..
+State: Back to line.
+Distance:12.906952099139
+Dist to length:12.906952099139 || Dist to width:2.72662272010872
+##OFA
+
+Navigate : 149..
+State: Back to line.
+Distance:12.906952099139
+Dist to length:12.906952099139 || Dist to width:2.72662272010872
+##OFA
+
+Navigate : 150..
+State: Back to line.
+Distance:12.9066221670364
+Dist to length:12.9066221670364 || Dist to width:2.7356299355419
+##OFA
+
+Navigate : 151..
+State: Back to line.
+Distance:12.9066221670364
+Dist to length:12.9066221670364 || Dist to width:2.7356299355419
+##OFA
+
+Navigate : 152..
+State: Back to line.
+Distance:12.9066221670364
+Dist to length:12.9066221670364 || Dist to width:2.7356299355419
+##OFA
+
+Navigate : 153..
+State: Back to line.
+Distance:12.9066221670364
+Dist to length:12.9066221670364 || Dist to width:2.7356299355419
+##OFA
+
+Navigate : 154..
+State: Back to line.
+Distance:12.9066221670364
+Dist to length:12.9066221670364 || Dist to width:2.7356299355419
+##OFA
+
+Navigate : 155..
+State: Back to line.
+Distance:12.9066221670364
+Dist to length:12.9066221670364 || Dist to width:2.7356299355419
+##OFA
+
+Navigate : 156..
+State: Back to line.
+Distance:12.9066221670364
+Dist to length:12.9066221670364 || Dist to width:2.7356299355419
+##OFA
+
+Navigate : 157..
+State: Back to line.
+Distance:12.9182487927103
+Dist to length:12.9182487927103 || Dist to width:2.74484467535944
+##OFA
+
+Navigate : 158..
+State: Back to line.
+Distance:12.9182487927103
+Dist to length:12.9182487927103 || Dist to width:2.74484467535944
+##OFA
+
+Navigate : 159..
+State: Back to line.
+Distance:12.9182487927103
+Dist to length:12.9182487927103 || Dist to width:2.74484467535944
+##OFA
+
+Navigate : 160..
+State: Back to line.
+Distance:12.9182487927103
+Dist to length:12.9182487927103 || Dist to width:2.74484467535944
+##OFA
+
+Navigate : 161..
+State: Back to line.
+Distance:12.9182487927103
+Dist to length:12.9182487927103 || Dist to width:2.74484467535944
+##OFA
+
+Navigate : 162..
+State: Back to line.
+Distance:12.9182487927103
+Dist to length:12.9182487927103 || Dist to width:2.74484467535944
+##OFA
+
+Navigate : 163..
+State: Back to line.
+Distance:12.9182487927103
+Dist to length:12.9182487927103 || Dist to width:2.74484467535944
+##OFA
+
+Navigate : 164..
+State: Back to line.
+Distance:12.91863311787
+Dist to length:12.91863311787 || Dist to width:2.74524592331813
+##OFA
+
+Navigate : 165..
+State: Back to line.
+Distance:12.91863311787
+Dist to length:12.91863311787 || Dist to width:2.74524592331813
+##OFA
+
+Navigate : 166..
+State: Back to line.
+Distance:12.91863311787
+Dist to length:12.91863311787 || Dist to width:2.74524592331813
+##OFA
+
+Navigate : 167..
+State: Back to line.
+Distance:12.91863311787
+Dist to length:12.91863311787 || Dist to width:2.74524592331813
+##OFA
+
+Navigate : 168..
+State: Back to line.
+Distance:12.91863311787
+Dist to length:12.91863311787 || Dist to width:2.74524592331813
+##OFA
+
+Navigate : 169..
+State: Back to line.
+Distance:12.91863311787
+Dist to length:12.91863311787 || Dist to width:2.74524592331813
+##OFA
+
+Navigate : 170..
+State: Back to line.
+Distance:12.9082852844676
+Dist to length:12.9082852844676 || Dist to width:2.75520522124459
+##OFA
+
+Navigate : 171..
+State: Back to line.
+Distance:12.9082852844676
+Dist to length:12.9082852844676 || Dist to width:2.75520522124459
+##OFA
+
+Navigate : 172..
+State: Back to line.
+Distance:12.9082852844676
+Dist to length:12.9082852844676 || Dist to width:2.75520522124459
+##OFA
+
+Navigate : 173..
+State: Back to line.
+Distance:12.9082852844676
+Dist to length:12.9082852844676 || Dist to width:2.75520522124459
+##OFA
+
+Navigate : 174..
+State: Back to line.
+Distance:12.9082852844676
+Dist to length:12.9082852844676 || Dist to width:2.75520522124459
+##OFA
+
+Navigate : 175..
+State: Back to line.
+Distance:12.9082852844676
+Dist to length:12.9082852844676 || Dist to width:2.75520522124459
+##OFA
+
+Navigate : 176..
+State: Back to line.
+Distance:12.9082852844676
+Dist to length:12.9082852844676 || Dist to width:2.75520522124459
+##OFA
+
+Navigate : 177..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 178..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 179..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 180..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 181..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 182..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 183..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 184..
+State: Back to line.
+Distance:12.9087603945381
+Dist to length:12.9087603945381 || Dist to width:2.76476489611159
+##OFA
+
+Navigate : 185..
+State: Back to line.
+Distance:12.9082968436434
+Dist to length:12.9082968436434 || Dist to width:2.7642192309306
+##OFA
+
+Navigate : 186..
+State: Back to line.
+Distance:12.9082968436434
+Dist to length:12.9082968436434 || Dist to width:2.7642192309306
+##OFA
+
+Navigate : 187..
+State: Back to line.
+Distance:12.9082968436434
+Dist to length:12.9082968436434 || Dist to width:2.7642192309306
+##OFA
+
+Navigate : 188..
+State: Back to line.
+Distance:12.9082968436434
+Dist to length:12.9082968436434 || Dist to width:2.7642192309306
+##OFA
+
+Navigate : 189..
+State: Back to line.
+Distance:12.9082968436434
+Dist to length:12.9082968436434 || Dist to width:2.7642192309306
+##OFA
+
+Navigate : 190..
+State: Back to line.
+Distance:12.9082968436434
+Dist to length:12.9082968436434 || Dist to width:2.7642192309306
+##OFA
+
+Navigate : 191..
+State: Back to line.
+Distance:12.9085182458592
+Dist to length:12.9085182458592 || Dist to width:2.76489922178654
+##OFA
+
+Navigate : 192..
+State: Back to line.
+Distance:12.9085182458592
+Dist to length:12.9085182458592 || Dist to width:2.76489922178654
+##OFA
+
+Navigate : 193..
+State: Back to line.
+Distance:12.9085182458592
+Dist to length:12.9085182458592 || Dist to width:2.76489922178654
+##OFA
+
+Navigate : 194..
+State: Back to line.
+Distance:12.9085182458592
+Dist to length:12.9085182458592 || Dist to width:2.76489922178654
+##OFA
+
+Navigate : 195..
+State: Back to line.
+Distance:12.9085182458592
+Dist to length:12.9085182458592 || Dist to width:2.76489922178654
+##OFA
+
+Navigate : 196..
+State: Back to line.
+Distance:12.9085182458592
+Dist to length:12.9085182458592 || Dist to width:2.76489922178654
+##OFA
+
+Navigate : 197..
+State: Back to line.
+Distance:12.9085182458592
+Dist to length:12.9085182458592 || Dist to width:2.76489922178654
+##OFA
+
+Navigate : 198..
+State: Back to line.
+Distance:12.8993982378332
+Dist to length:12.8993982378332 || Dist to width:2.78480792969107
+##OFA
+
+Navigate : 199..
+State: Back to line.
+Distance:12.8993982378332
+Dist to length:12.8993982378332 || Dist to width:2.78480792969107
+##OFA
+
+Navigate : 200..
+State: Back to line.
+Distance:12.8993982378332
+Dist to length:12.8993982378332 || Dist to width:2.78480792969107
+##OFA
+
+Navigate : 201..
+State: Back to line.
+Distance:12.8993982378332
+Dist to length:12.8993982378332 || Dist to width:2.78480792969107
+##OFA
+
+Navigate : 202..
+State: Back to line.
+Distance:12.8993982378332
+Dist to length:12.8993982378332 || Dist to width:2.78480792969107
+##OFA
+
+Navigate : 203..
+State: Back to line.
+Distance:12.8993982378332
+Dist to length:12.8993982378332 || Dist to width:2.78480792969107
+##OFA
+
+Navigate : 204..
+State: Back to line.
+Distance:12.8993982378332
+Dist to length:12.8993982378332 || Dist to width:2.78480792969107
+##OFA
+
+Navigate : 205..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 206..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 207..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 208..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 209..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 210..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 211..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 212..
+State: Back to line.
+Distance:12.9215273468017
+Dist to length:12.9215273468017 || Dist to width:2.78508333263248
+##OFA
+
+Navigate : 213..
+State: Back to line.
+Distance:12.9222728205034
+Dist to length:12.9222728205034 || Dist to width:2.78579773231747
+##OFA
+
+Navigate : 214..
+State: Back to line.
+Distance:12.9222728205034
+Dist to length:12.9222728205034 || Dist to width:2.78579773231747
+##OFA
+
+Navigate : 215..
+State: Back to line.
+Distance:12.9222728205034
+Dist to length:12.9222728205034 || Dist to width:2.78579773231747
+##OFA
+
+Navigate : 216..
+State: Back to line.
+Distance:12.9222728205034
+Dist to length:12.9222728205034 || Dist to width:2.78579773231747
+##OFA
+
+Navigate : 217..
+State: Back to line.
+Distance:12.9222728205034
+Dist to length:12.9222728205034 || Dist to width:2.78579773231747
+##OFA
+
+Navigate : 218..
+State: Back to line.
+Distance:12.9222728205034
+Dist to length:12.9222728205034 || Dist to width:2.78579773231747
+##OFA
+
+Navigate : 219..
+State: Back to line.
+Distance:12.9243476708764
+Dist to length:12.9243476708764 || Dist to width:2.78619586358895
+##OFA
+
+Navigate : 220..
+State: Back to line.
+Distance:12.9243476708764
+Dist to length:12.9243476708764 || Dist to width:2.78619586358895
+##OFA
+
+Navigate : 221..
+State: Back to line.
+Distance:12.9243476708764
+Dist to length:12.9243476708764 || Dist to width:2.78619586358895
+##OFA
+
+Navigate : 222..
+State: Back to line.
+Distance:12.9243476708764
+Dist to length:12.9243476708764 || Dist to width:2.78619586358895
+##OFA
+
+Navigate : 223..
+State: Back to line.
+Distance:12.9243476708764
+Dist to length:12.9243476708764 || Dist to width:2.78619586358895
+##OFA
+
+Navigate : 224..
+State: Back to line.
+Distance:12.9243476708764
+Dist to length:12.9243476708764 || Dist to width:2.78619586358895
+##OFA
+
+Navigate : 225..
+State: Back to line.
+Distance:12.9243476708764
+Dist to length:12.9243476708764 || Dist to width:2.78619586358895
+##OFA
+
+Navigate : 226..
+State: Back to line.
+Distance:12.913568194786
+Dist to length:12.913568194786 || Dist to width:2.79534075351076
+##OFA
+
+Navigate : 227..
+State: Back to line.
+Distance:12.9129948197908
+Dist to length:12.9129948197908 || Dist to width:2.79511317030077
+##OFA
+
+Navigate : 228..
+State: Back to line.
+Distance:12.9129948197908
+Dist to length:12.9129948197908 || Dist to width:2.79511317030077
+##OFA
+
+Navigate : 229..
+State: Back to line.
+Distance:12.9129948197908
+Dist to length:12.9129948197908 || Dist to width:2.79511317030077
+##OFA
+
+Navigate : 230..
+State: Back to line.
+Distance:12.9129948197908
+Dist to length:12.9129948197908 || Dist to width:2.79511317030077
+##OFA
+
+Navigate : 231..
+State: Back to line.
+Distance:12.9129948197908
+Dist to length:12.9129948197908 || Dist to width:2.79511317030077
+##OFA
+
+Navigate : 232..
+State: Back to line.
+Distance:12.9129948197908
+Dist to length:12.9129948197908 || Dist to width:2.79511317030077
+##OFA
+
+Navigate : 233..
+State: Back to line.
+Distance:12.9233303973785
+Dist to length:12.9233303973785 || Dist to width:2.79495934362129
+##OFA
+
+Navigate : 234..
+State: Back to line.
+Distance:12.9233303973785
+Dist to length:12.9233303973785 || Dist to width:2.79495934362129
+##OFA
+
+Navigate : 235..
+State: Back to line.
+Distance:12.9233303973785
+Dist to length:12.9233303973785 || Dist to width:2.79495934362129
+##OFA
+
+Navigate : 236..
+State: Back to line.
+Distance:12.9233303973785
+Dist to length:12.9233303973785 || Dist to width:2.79495934362129
+##OFA
+
+Navigate : 237..
+State: Back to line.
+Distance:12.9233303973785
+Dist to length:12.9233303973785 || Dist to width:2.79495934362129
+##OFA
+
+Navigate : 238..
+State: Back to line.
+Distance:12.9233303973785
+Dist to length:12.9233303973785 || Dist to width:2.79495934362129
+##OFA
+
+Navigate : 239..
+State: Back to line.
+Distance:12.9233303973785
+Dist to length:12.9233303973785 || Dist to width:2.79495934362129
+##OFA
+
+Navigate : 240..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 241..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 242..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 243..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 244..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 245..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 246..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 247..
+State: Back to line.
+Distance:12.9232124544901
+Dist to length:12.9232124544901 || Dist to width:2.79535502386893
+##OFA
+
+Navigate : 248..
+State: Back to line.
+Distance:12.9346468747718
+Dist to length:12.9346468747718 || Dist to width:2.80431966467965
+##OFA
+
+Navigate : 249..
+State: Back to line.
+Distance:12.9346468747718
+Dist to length:12.9346468747718 || Dist to width:2.80431966467965
+##OFA
+
+Navigate : 250..
+State: Back to line.
+Distance:12.9346468747718
+Dist to length:12.9346468747718 || Dist to width:2.80431966467965
+##OFA
+
+Navigate : 251..
+State: Back to line.
+Distance:12.9346468747718
+Dist to length:12.9346468747718 || Dist to width:2.80431966467965
+##OFA
+
+Navigate : 252..
+State: Back to line.
+Distance:12.9346468747718
+Dist to length:12.9346468747718 || Dist to width:2.80431966467965
+##OFA
+
+Navigate : 253..
+State: Back to line.
+Distance:12.9346468747718
+Dist to length:12.9346468747718 || Dist to width:2.80431966467965
+##OFA
+
+Navigate : 254..
+State: Back to line.
+Distance:12.9348522119259
+Dist to length:12.9348522119259 || Dist to width:2.81237670594643
+##OFA
+
+Navigate : 255..
+State: Back to line.
+Distance:12.9348522119259
+Dist to length:12.9348522119259 || Dist to width:2.81237670594643
+##OFA
+
+Navigate : 256..
+State: Back to line.
+Distance:12.9348522119259
+Dist to length:12.9348522119259 || Dist to width:2.81237670594643
+##OFA
+
+Navigate : 257..
+State: Back to line.
+Distance:12.9348522119259
+Dist to length:12.9348522119259 || Dist to width:2.81237670594643
+##OFA
+
+Navigate : 258..
+State: Back to line.
+Distance:12.9348522119259
+Dist to length:12.9348522119259 || Dist to width:2.81237670594643
+##OFA
+
+Navigate : 259..
+State: Back to line.
+Distance:12.9348522119259
+Dist to length:12.9348522119259 || Dist to width:2.81237670594643
+##OFA
+
+Navigate : 260..
+State: Back to line.
+Distance:12.9348522119259
+Dist to length:12.9348522119259 || Dist to width:2.81237670594643
+##OFA
+
+Navigate : 261..
+State: Back to line.
+Distance:12.9352954201775
+Dist to length:12.9352954201775 || Dist to width:2.81174000330671
+##OFA
+
+Navigate : 262..
+State: Back to line.
+Distance:12.9352954201775
+Dist to length:12.9352954201775 || Dist to width:2.81174000330671
+##OFA
+
+Navigate : 263..
+State: Back to line.
+Distance:12.9352954201775
+Dist to length:12.9352954201775 || Dist to width:2.81174000330671
+##OFA
+
+Navigate : 264..
+State: Back to line.
+Distance:12.9352954201775
+Dist to length:12.9352954201775 || Dist to width:2.81174000330671
+##OFA
+
+Navigate : 265..
+State: Back to line.
+Distance:12.9352954201775
+Dist to length:12.9352954201775 || Dist to width:2.81174000330671
+##OFA
+
+Navigate : 266..
+State: Back to line.
+Distance:12.9352954201775
+Dist to length:12.9352954201775 || Dist to width:2.81174000330671
+##OFA
+
+Navigate : 267..
+State: Back to line.
+Distance:12.9461428026028
+Dist to length:12.9461428026028 || Dist to width:2.81188942206602
+##OFA
+
+Navigate : 268..
+State: Back to line.
+Distance:12.9461428026028
+Dist to length:12.9461428026028 || Dist to width:2.81188942206602
+##OFA
+
+Navigate : 269..
+State: Back to line.
+Distance:12.9461428026028
+Dist to length:12.9461428026028 || Dist to width:2.81188942206602
+##OFA
+
+Navigate : 270..
+State: Back to line.
+Distance:12.9461428026028
+Dist to length:12.9461428026028 || Dist to width:2.81188942206602
+##OFA
+
+Navigate : 271..
+State: Back to line.
+Distance:12.9461428026028
+Dist to length:12.9461428026028 || Dist to width:2.81188942206602
+##OFA
+
+Navigate : 272..
+State: Back to line.
+Distance:12.9461428026028
+Dist to length:12.9461428026028 || Dist to width:2.81188942206602
+##OFA
+
+Navigate : 273..
+State: Back to line.
+Distance:12.9461428026028
+Dist to length:12.9461428026028 || Dist to width:2.81188942206602
+##OFA
+
+Navigate : 274..
+State: Back to line.
+Distance:12.946647910994
+Dist to length:12.946647910994 || Dist to width:2.83081076809462
+##OFA
+
+Navigate : 275..
+State: Back to line.
+Distance:12.946647910994
+Dist to length:12.946647910994 || Dist to width:2.83081076809462
+##OFA
+
+Navigate : 276..
+State: Back to line.
+Distance:12.946647910994
+Dist to length:12.946647910994 || Dist to width:2.83081076809462
+##OFA
+
+Navigate : 277..
+State: Back to line.
+Distance:12.946647910994
+Dist to length:12.946647910994 || Dist to width:2.83081076809462
+##OFA
+
+Navigate : 278..
+State: Back to line.
+Distance:12.946647910994
+Dist to length:12.946647910994 || Dist to width:2.83081076809462
+##OFA
+
+Navigate : 279..
+State: Back to line.
+Distance:12.946647910994
+Dist to length:12.946647910994 || Dist to width:2.83081076809462
+##OFA
+
+Navigate : 280..
+State: Back to line.
+Distance:12.946647910994
+Dist to length:12.946647910994 || Dist to width:2.83081076809462
+##OFA
+
+Navigate : 281..
+State: Back to line.
+Distance:12.9582133661799
+Dist to length:12.9582133661799 || Dist to width:2.83992307054796
+##OFA
+
+Navigate : 282..
+State: Back to line.
+Distance:12.9582133661799
+Dist to length:12.9582133661799 || Dist to width:2.83992307054796
+##OFA
+
+Navigate : 283..
+State: Back to line.
+Distance:12.9582133661799
+Dist to length:12.9582133661799 || Dist to width:2.83992307054796
+##OFA
+
+Navigate : 284..
+State: Back to line.
+Distance:12.9582133661799
+Dist to length:12.9582133661799 || Dist to width:2.83992307054796
+##OFA
+
+Navigate : 285..
+State: Back to line.
+Distance:12.9582133661799
+Dist to length:12.9582133661799 || Dist to width:2.83992307054796
+##OFA
+
+Navigate : 286..
+State: Back to line.
+Distance:12.9582133661799
+Dist to length:12.9582133661799 || Dist to width:2.83992307054796
+##OFA
+
+Navigate : 287..
+State: Back to line.
+Distance:12.9582133661799
+Dist to length:12.9582133661799 || Dist to width:2.83992307054796
+##OFA
+
+Navigate : 288..
+State: Back to line.
+Distance:12.9583456612822
+Dist to length:12.9583456612822 || Dist to width:2.83979243898371
+##OFA
+
+Navigate : 289..
+State: Back to line.
+Distance:12.9583456612822
+Dist to length:12.9583456612822 || Dist to width:2.83979243898371
+##OFA
+
+Navigate : 290..
+State: Back to line.
+Distance:12.9583456612822
+Dist to length:12.9583456612822 || Dist to width:2.83979243898371
+##OFA
+
+Navigate : 291..
+State: Back to line.
+Distance:12.9583456612822
+Dist to length:12.9583456612822 || Dist to width:2.83979243898371
+##OFA
+
+Navigate : 292..
+State: Back to line.
+Distance:12.9583456612822
+Dist to length:12.9583456612822 || Dist to width:2.83979243898371
+##OFA
+
+Navigate : 293..
+State: Back to line.
+Distance:12.9583456612822
+Dist to length:12.9583456612822 || Dist to width:2.83979243898371
+##OFA
+
+Navigate : 294..
+State: Back to line.
+Distance:12.9705277912812
+Dist to length:12.9705277912812 || Dist to width:2.8492208706362
+##OFA
+
+Navigate : 295..
+State: Back to line.
+Distance:12.9705277912812
+Dist to length:12.9705277912812 || Dist to width:2.8492208706362
+##OFA
+
+Navigate : 296..
+State: Back to line.
+Distance:12.9705277912812
+Dist to length:12.9705277912812 || Dist to width:2.8492208706362
+##OFA
+
+Navigate : 297..
+State: Back to line.
+Distance:12.9705277912812
+Dist to length:12.9705277912812 || Dist to width:2.8492208706362
+##OFA
+
+Navigate : 298..
+State: Back to line.
+Distance:12.9705277912812
+Dist to length:12.9705277912812 || Dist to width:2.8492208706362
+##OFA
+
+Navigate : 299..
+State: Back to line.
+Distance:12.9705277912812
+Dist to length:12.9705277912812 || Dist to width:2.8492208706362
+##OFA
+
+Navigate : 300..
+State: Back to line.
+Distance:12.9705277912812
+Dist to length:12.9705277912812 || Dist to width:2.8492208706362
+##OFA
+
+Navigate : 301..
+State: Back to line.
+Distance:12.9601941205339
+Dist to length:12.9601941205339 || Dist to width:2.84908803220193
+##OFA
+
+Navigate : 302..
+State: Back to line.
+Distance:12.9601941205339
+Dist to length:12.9601941205339 || Dist to width:2.84908803220193
+##OFA
+
+Navigate : 303..
+State: Back to line.
+Distance:12.9601941205339
+Dist to length:12.9601941205339 || Dist to width:2.84908803220193
+##OFA
+
+Navigate : 304..
+State: Back to line.
+Distance:12.9601941205339
+Dist to length:12.9601941205339 || Dist to width:2.84908803220193
+##OFA
+
+Navigate : 305..
+State: Back to line.
+Distance:12.9601941205339
+Dist to length:12.9601941205339 || Dist to width:2.84908803220193
+##OFA
+
+Navigate : 306..
+State: Back to line.
+Distance:12.9601941205339
+Dist to length:12.9601941205339 || Dist to width:2.84908803220193
+##OFA
+
+Navigate : 307..
+State: Back to line.
+Distance:12.9601941205339
+Dist to length:12.9601941205339 || Dist to width:2.84908803220193
+##OFA
+
+Navigate : 308..
+State: Back to line.
+Distance:12.9714563979063
+Dist to length:12.9714563979063 || Dist to width:2.84975539819361
+##OFA
+
+Navigate : 309..
+State: Back to line.
+Distance:12.9714563979063
+Dist to length:12.9714563979063 || Dist to width:2.84975539819361
+##OFA
+
+Navigate : 310..
+State: Back to line.
+Distance:12.9714563979063
+Dist to length:12.9714563979063 || Dist to width:2.84975539819361
+##OFA
+
+Navigate : 311..
+State: Back to line.
+Distance:12.9714563979063
+Dist to length:12.9714563979063 || Dist to width:2.84975539819361
+##OFA
+
+Navigate : 312..
+State: Back to line.
+Distance:12.9714563979063
+Dist to length:12.9714563979063 || Dist to width:2.84975539819361
+##OFA
+
+Navigate : 313..
+State: Back to line.
+Distance:12.9714563979063
+Dist to length:12.9714563979063 || Dist to width:2.84975539819361
+##OFA
+
+Navigate : 314..
+State: Back to line.
+Distance:12.9714563979063
+Dist to length:12.9714563979063 || Dist to width:2.84975539819361
+##OFA
+
+Navigate : 315..
+State: Back to line.
+Distance:12.970857193698
+Dist to length:12.970857193698 || Dist to width:2.85032219381904
+##OFA
+
+Navigate : 316..
+State: Back to line.
+Distance:12.970857193698
+Dist to length:12.970857193698 || Dist to width:2.85032219381904
+##OFA
+
+Navigate : 317..
+State: Back to line.
+Distance:12.970857193698
+Dist to length:12.970857193698 || Dist to width:2.85032219381904
+##OFA
+
+Navigate : 318..
+State: Back to line.
+Distance:12.970857193698
+Dist to length:12.970857193698 || Dist to width:2.85032219381904
+##OFA
+
+Navigate : 319..
+State: Back to line.
+Distance:12.970857193698
+Dist to length:12.970857193698 || Dist to width:2.85032219381904
+##OFA
+
+Navigate : 320..
+State: Back to line.
+Distance:12.970857193698
+Dist to length:12.970857193698 || Dist to width:2.85032219381904
+##OFA
+
+Navigate : 321..
+State: Back to line.
+Distance:12.970857193698
+Dist to length:12.970857193698 || Dist to width:2.85032219381904
+##OFA
+
+Navigate : 322..
+State: Back to line.
+Distance:12.9703802404873
+Dist to length:12.9703802404873 || Dist to width:2.85947248205038
+##OFA
+
+Navigate : 323..
+State: Back to line.
+Distance:12.9703802404873
+Dist to length:12.9703802404873 || Dist to width:2.85947248205038
+##OFA
+
+Navigate : 324..
+State: Back to line.
+Distance:12.9703802404873
+Dist to length:12.9703802404873 || Dist to width:2.85947248205038
+##OFA
+
+Navigate : 325..
+State: Back to line.
+Distance:12.9703802404873
+Dist to length:12.9703802404873 || Dist to width:2.85947248205038
+##OFA
+
+Navigate : 326..
+State: Back to line.
+Distance:12.9703802404873
+Dist to length:12.9703802404873 || Dist to width:2.85947248205038
+##OFA
+
+Navigate : 327..
+State: Back to line.
+Distance:12.9703802404873
+Dist to length:12.9703802404873 || Dist to width:2.85947248205038
+##OFA
+
+Navigate : 328..
+State: Back to line.
+Distance:12.9593213979673
+Dist to length:12.9593213979673 || Dist to width:2.86885422643106
+##OFA
+
+Navigate : 329..
+State: Back to line.
+Distance:12.9593213979673
+Dist to length:12.9593213979673 || Dist to width:2.86885422643106
+##OFA
+
+Navigate : 330..
+State: Back to line.
+Distance:12.9593213979673
+Dist to length:12.9593213979673 || Dist to width:2.86885422643106
+##OFA
+
+Navigate : 331..
+State: Back to line.
+Distance:12.9593213979673
+Dist to length:12.9593213979673 || Dist to width:2.86885422643106
+##OFA
+
+Navigate : 332..
+State: Back to line.
+Distance:12.9593213979673
+Dist to length:12.9593213979673 || Dist to width:2.86885422643106
+##OFA
+
+Navigate : 333..
+State: Back to line.
+Distance:12.9593213979673
+Dist to length:12.9593213979673 || Dist to width:2.86885422643106
+##OFA
+
+Navigate : 334..
+State: Back to line.
+Distance:12.9593213979673
+Dist to length:12.9593213979673 || Dist to width:2.86885422643106
+##OFA
+
+Navigate : 335..
+State: Back to line.
+Distance:12.9597098585129
+Dist to length:12.9597098585129 || Dist to width:2.86973180251178
+##OFA
+
+Navigate : 336..
+State: Back to line.
+Distance:12.9597098585129
+Dist to length:12.9597098585129 || Dist to width:2.86973180251178
+##OFA
+
+Navigate : 337..
+State: Back to line.
+Distance:12.9597098585129
+Dist to length:12.9597098585129 || Dist to width:2.86973180251178
+##OFA
+
+Navigate : 338..
+State: Back to line.
+Distance:12.9597098585129
+Dist to length:12.9597098585129 || Dist to width:2.86973180251178
+##OFA
+
+Navigate : 339..
+State: Back to line.
+Distance:12.9597098585129
+Dist to length:12.9597098585129 || Dist to width:2.86973180251178
+##OFA
+
+Navigate : 340..
+State: Back to line.
+Distance:12.9597098585129
+Dist to length:12.9597098585129 || Dist to width:2.86973180251178
+##OFA
+
+Navigate : 341..
+State: Back to line.
+Distance:12.9597098585129
+Dist to length:12.9597098585129 || Dist to width:2.86973180251178
+##OFA
+
+Navigate : 342..
+State: Back to line.
+Distance:12.9600412712131
+Dist to length:12.9600412712131 || Dist to width:2.86941453828103
+##OFA
+
+Navigate : 343..
+State: Back to line.
+Distance:12.9600412712131
+Dist to length:12.9600412712131 || Dist to width:2.86941453828103
+##OFA
+
+Navigate : 344..
+State: Back to line.
+Distance:12.9600412712131
+Dist to length:12.9600412712131 || Dist to width:2.86941453828103
+##OFA
+
+Navigate : 345..
+State: Back to line.
+Distance:12.9600412712131
+Dist to length:12.9600412712131 || Dist to width:2.86941453828103
+##OFA
+
+Navigate : 346..
+State: Back to line.
+Distance:12.9600412712131
+Dist to length:12.9600412712131 || Dist to width:2.86941453828103
+##OFA
+
+Navigate : 347..
+State: Back to line.
+Distance:12.9600412712131
+Dist to length:12.9600412712131 || Dist to width:2.86941453828103
+##OFA
+
+Navigate : 348..
+State: Back to line.
+Distance:12.9600412712131
+Dist to length:12.9600412712131 || Dist to width:2.86941453828103
+##OFA
+
+Navigate : 349..
+State: Back to line.
+Distance:12.9279678075326
+Dist to length:12.9279678075326 || Dist to width:2.87855270792523
+##OFA
+
+Navigate : 350..
+State: Back to line.
+Distance:12.9279678075326
+Dist to length:12.9279678075326 || Dist to width:2.87855270792523
+##OFA
+
+Navigate : 351..
+State: Back to line.
+Distance:12.9279678075326
+Dist to length:12.9279678075326 || Dist to width:2.87855270792523
+##OFA
+
+Navigate : 352..
+State: Back to line.
+Distance:12.9279678075326
+Dist to length:12.9279678075326 || Dist to width:2.87855270792523
+##OFA
+
+Navigate : 353..
+State: Back to line.
+Distance:12.9279678075326
+Dist to length:12.9279678075326 || Dist to width:2.87855270792523
+##OFA
+
+Navigate : 354..
+State: Back to line.
+Distance:12.9279678075326
+Dist to length:12.9279678075326 || Dist to width:2.87855270792523
+##OFA
+
+Navigate : 355..
+State: Back to line.
+Distance:12.9279678075326
+Dist to length:12.9279678075326 || Dist to width:2.87855270792523
+##OFA
+
+Navigate : 356..
+State: Back to line.
+Distance:12.9289637982963
+Dist to length:12.9289637982963 || Dist to width:2.88814427837088
+##OFA
+
+Navigate : 357..
+State: Back to line.
+Distance:12.9289637982963
+Dist to length:12.9289637982963 || Dist to width:2.88814427837088
+##OFA
+
+Navigate : 358..
+State: Back to line.
+Distance:12.9289637982963
+Dist to length:12.9289637982963 || Dist to width:2.88814427837088
+##OFA
+
+Navigate : 359..
+State: Back to line.
+Distance:12.9289637982963
+Dist to length:12.9289637982963 || Dist to width:2.88814427837088
+##OFA
+
+Navigate : 360..
+State: Back to line.
+Distance:12.9289637982963
+Dist to length:12.9289637982963 || Dist to width:2.88814427837088
+##OFA
+
+Navigate : 361..
+State: Back to line.
+Distance:12.9289637982963
+Dist to length:12.9289637982963 || Dist to width:2.88814427837088
+##OFA
+
+Navigate : 362..
+State: Back to line.
+Distance:12.9279829972941
+Dist to length:12.9279829972941 || Dist to width:2.88827422438136
+##OFA
+
+Navigate : 363..
+State: Back to line.
+Distance:12.9279829972941
+Dist to length:12.9279829972941 || Dist to width:2.88827422438136
+##OFA
+
+Navigate : 364..
+State: Back to line.
+Distance:12.9279829972941
+Dist to length:12.9279829972941 || Dist to width:2.88827422438136
+##OFA
+
+Navigate : 365..
+State: Back to line.
+Distance:12.9279829972941
+Dist to length:12.9279829972941 || Dist to width:2.88827422438136
+##OFA
+
+Navigate : 366..
+State: Back to line.
+Distance:12.9279829972941
+Dist to length:12.9279829972941 || Dist to width:2.88827422438136
+##OFA
+
+Navigate : 367..
+State: Back to line.
+Distance:12.9279829972941
+Dist to length:12.9279829972941 || Dist to width:2.88827422438136
+##OFA
+
+Navigate : 368..
+State: Back to line.
+Distance:12.9279829972941
+Dist to length:12.9279829972941 || Dist to width:2.88827422438136
+##OFA
+
+Navigate : 369..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 370..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 371..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 372..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 373..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 374..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 375..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 376..
+State: Back to line.
+Distance:12.9284484700393
+Dist to length:12.9284484700393 || Dist to width:2.88824280754672
+##OFA
+
+Navigate : 377..
+State: Back to line.
+Distance:12.9300607973997
+Dist to length:12.9300607973997 || Dist to width:2.89736141459814
+##OFA
+
+Navigate : 378..
+State: Back to line.
+Distance:12.9300607973997
+Dist to length:12.9300607973997 || Dist to width:2.89736141459814
+##OFA
+
+Navigate : 379..
+State: Back to line.
+Distance:12.9300607973997
+Dist to length:12.9300607973997 || Dist to width:2.89736141459814
+##OFA
+
+Navigate : 380..
+State: Back to line.
+Distance:12.9300607973997
+Dist to length:12.9300607973997 || Dist to width:2.89736141459814
+##OFA
+
+Navigate : 381..
+State: Back to line.
+Distance:12.9300607973997
+Dist to length:12.9300607973997 || Dist to width:2.89736141459814
+##OFA
+
+Navigate : 382..
+State: Back to line.
+Distance:12.9300607973997
+Dist to length:12.9300607973997 || Dist to width:2.89736141459814
+##OFA
+
+Navigate : 383..
+State: Back to line.
+Distance:12.9300607973997
+Dist to length:12.9300607973997 || Dist to width:2.89736141459814
+##OFA
+
+Navigate : 384..
+State: Back to line.
+Distance:12.929942626808
+Dist to length:12.929942626808 || Dist to width:2.89832822441577
+##OFA
+
+Navigate : 385..
+State: Back to line.
+Distance:12.929942626808
+Dist to length:12.929942626808 || Dist to width:2.89832822441577
+##OFA
+
+Navigate : 386..
+State: Back to line.
+Distance:12.929942626808
+Dist to length:12.929942626808 || Dist to width:2.89832822441577
+##OFA
+
+Navigate : 387..
+State: Back to line.
+Distance:12.929942626808
+Dist to length:12.929942626808 || Dist to width:2.89832822441577
+##OFA
+
+Navigate : 388..
+State: Back to line.
+Distance:12.929942626808
+Dist to length:12.929942626808 || Dist to width:2.89832822441577
+##OFA
+
+Navigate : 389..
+State: Back to line.
+Distance:12.929942626808
+Dist to length:12.929942626808 || Dist to width:2.89832822441577
+##OFA
+
+Navigate : 390..
+State: Back to line.
+Distance:12.9086563103664
+Dist to length:12.9086563103664 || Dist to width:2.90870576735918
+##OFA
+
+Navigate : 391..
+State: Back to line.
+Distance:12.9086563103664
+Dist to length:12.9086563103664 || Dist to width:2.90870576735918
+##OFA
+
+Navigate : 392..
+State: Back to line.
+Distance:12.9086563103664
+Dist to length:12.9086563103664 || Dist to width:2.90870576735918
+##OFA
+
+Navigate : 393..
+State: Back to line.
+Distance:12.9086563103664
+Dist to length:12.9086563103664 || Dist to width:2.90870576735918
+##OFA
+
+Navigate : 394..
+State: Back to line.
+Distance:12.9086563103664
+Dist to length:12.9086563103664 || Dist to width:2.90870576735918
+##OFA
+
+Navigate : 395..
+State: Back to line.
+Distance:12.9086563103664
+Dist to length:12.9086563103664 || Dist to width:2.90870576735918
+##OFA
+
+Navigate : 396..
+State: Back to line.
+Distance:12.9086563103664
+Dist to length:12.9086563103664 || Dist to width:2.90870576735918
+##OFA
+
+Navigate : 397..
+State: Back to line.
+Distance:12.8979408099058
+Dist to length:12.8979408099058 || Dist to width:2.90878093262715
+##OFA
+
+Navigate : 398..
+State: Back to line.
+Distance:12.8979408099058
+Dist to length:12.8979408099058 || Dist to width:2.90878093262715
+##OFA
+
+Navigate : 399..
+State: Back to line.
+Distance:12.8979408099058
+Dist to length:12.8979408099058 || Dist to width:2.90878093262715
+##OFA
+
+Navigate : 400..
+State: Back to line.
+Distance:12.8979408099058
+Dist to length:12.8979408099058 || Dist to width:2.90878093262715
+##OFA
+
+Navigate : 401..
+State: Back to line.
+Distance:12.8979408099058
+Dist to length:12.8979408099058 || Dist to width:2.90878093262715
+##OFA
+
+Navigate : 402..
+State: Back to line.
+Distance:12.8979408099058
+Dist to length:12.8979408099058 || Dist to width:2.90878093262715
+##OFA
+
+Navigate : 403..
+State: Back to line.
+Distance:12.8979408099058
+Dist to length:12.8979408099058 || Dist to width:2.90878093262715
+##OFA
+
+Navigate : 404..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 405..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 406..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 407..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 408..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 409..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 410..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 411..
+State: Back to line.
+Distance:12.898745501675
+Dist to length:12.898745501675 || Dist to width:2.90864608995276
+##OFA
+
+Navigate : 412..
+State: Back to line.
+Distance:12.8991065415129
+Dist to length:12.8991065415129 || Dist to width:2.90804019092281
+##OFA
+
+Navigate : 413..
+State: Back to line.
+Distance:12.8991065415129
+Dist to length:12.8991065415129 || Dist to width:2.90804019092281
+##OFA
+
+Navigate : 414..
+State: Back to line.
+Distance:12.8991065415129
+Dist to length:12.8991065415129 || Dist to width:2.90804019092281
+##OFA
+
+Navigate : 415..
+State: Back to line.
+Distance:12.8991065415129
+Dist to length:12.8991065415129 || Dist to width:2.90804019092281
+##OFA
+
+Navigate : 416..
+State: Back to line.
+Distance:12.8991065415129
+Dist to length:12.8991065415129 || Dist to width:2.90804019092281
+##OFA
+
+Navigate : 417..
+State: Back to line.
+Distance:12.8991065415129
+Dist to length:12.8991065415129 || Dist to width:2.90804019092281
+##OFA
+
+Navigate : 418..
+State: Back to line.
+Distance:12.8989886017463
+Dist to length:12.8989886017463 || Dist to width:2.90799568102513
+##OFA
+
+Navigate : 419..
+State: Back to line.
+Distance:12.8989886017463
+Dist to length:12.8989886017463 || Dist to width:2.90799568102513
+##OFA
+
+Navigate : 420..
+State: Back to line.
+Distance:12.8989886017463
+Dist to length:12.8989886017463 || Dist to width:2.90799568102513
+##OFA
+
+Navigate : 421..
+State: Back to line.
+Distance:12.8989886017463
+Dist to length:12.8989886017463 || Dist to width:2.90799568102513
+##OFA
+
+Navigate : 422..
+State: Back to line.
+Distance:12.8989886017463
+Dist to length:12.8989886017463 || Dist to width:2.90799568102513
+##OFA
+
+Navigate : 423..
+State: Back to line.
+Distance:12.8989886017463
+Dist to length:12.8989886017463 || Dist to width:2.90799568102513
+##OFA
+
+Navigate : 424..
+State: Back to line.
+Distance:12.8989886017463
+Dist to length:12.8989886017463 || Dist to width:2.90799568102513
+##OFA
+
+Navigate : 425..
+State: Back to line.
+Distance:12.8880442580384
+Dist to length:12.8880442580384 || Dist to width:2.9084392799445
+##OFA
+
+Navigate : 426..
+State: Back to line.
+Distance:12.8880442580384
+Dist to length:12.8880442580384 || Dist to width:2.9084392799445
+##OFA
+
+Navigate : 427..
+State: Back to line.
+Distance:12.8880442580384
+Dist to length:12.8880442580384 || Dist to width:2.9084392799445
+##OFA
+
+Navigate : 428..
+State: Back to line.
+Distance:12.8880442580384
+Dist to length:12.8880442580384 || Dist to width:2.9084392799445
+##OFA
+
+Navigate : 429..
+State: Back to line.
+Distance:12.8880442580384
+Dist to length:12.8880442580384 || Dist to width:2.9084392799445
+##OFA
+
+Navigate : 430..
+State: Back to line.
+Distance:12.8880442580384
+Dist to length:12.8880442580384 || Dist to width:2.9084392799445
+##OFA
+
+Navigate : 431..
+State: Back to line.
+Distance:12.8880442580384
+Dist to length:12.8880442580384 || Dist to width:2.9084392799445
+##OFA
+
+Navigate : 432..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 433..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 434..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 435..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 436..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 437..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 438..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 439..
+State: Back to line.
+Distance:12.8874184699922
+Dist to length:12.8874184699922 || Dist to width:2.90911495365221
+##OFA
+
+Navigate : 440..
+State: Back to line.
+Distance:12.876486120847
+Dist to length:12.876486120847 || Dist to width:2.92746797507891
+##OFA
+
+Navigate : 441..
+State: Back to line.
+Distance:12.876486120847
+Dist to length:12.876486120847 || Dist to width:2.92746797507891
+##OFA
+
+Navigate : 442..
+State: Back to line.
+Distance:12.876486120847
+Dist to length:12.876486120847 || Dist to width:2.92746797507891
+##OFA
+
+Navigate : 443..
+State: Back to line.
+Distance:12.876486120847
+Dist to length:12.876486120847 || Dist to width:2.92746797507891
+##OFA
+
+Navigate : 444..
+State: Back to line.
+Distance:12.876486120847
+Dist to length:12.876486120847 || Dist to width:2.92746797507891
+##OFA
+
+Navigate : 445..
+State: Back to line.
+Distance:12.876486120847
+Dist to length:12.876486120847 || Dist to width:2.92746797507891
+##OFA
+
+Navigate : 446..
+State: Back to line.
+Distance:12.876486120847
+Dist to length:12.876486120847 || Dist to width:2.92746797507891
+##OFA
+
+Navigate : 447..
+State: Back to line.
+Distance:12.8760589733956
+Dist to length:12.8760589733956 || Dist to width:2.92706913935659
+##OFA
+
+Navigate : 448..
+State: Back to line.
+Distance:12.8760589733956
+Dist to length:12.8760589733956 || Dist to width:2.92706913935659
+##OFA
+
+Navigate : 449..
+State: Back to line.
+Distance:12.8760589733956
+Dist to length:12.8760589733956 || Dist to width:2.92706913935659
+##OFA
+
+Navigate : 450..
+State: Back to line.
+Distance:12.8760589733956
+Dist to length:12.8760589733956 || Dist to width:2.92706913935659
+##OFA
+
+Navigate : 451..
+State: Back to line.
+Distance:12.8760589733956
+Dist to length:12.8760589733956 || Dist to width:2.92706913935659
+##OFA
+
+Navigate : 452..
+State: Back to line.
+Distance:12.8760589733956
+Dist to length:12.8760589733956 || Dist to width:2.92706913935659
+##OFA
+
+Navigate : 453..
+State: Back to line.
+Distance:12.8763109601948
+Dist to length:12.8763109601948 || Dist to width:2.92782084098127
+##OFA
+
+Navigate : 454..
+State: Back to line.
+Distance:12.8763109601948
+Dist to length:12.8763109601948 || Dist to width:2.92782084098127
+##OFA
+
+Navigate : 455..
+State: Back to line.
+Distance:12.8763109601948
+Dist to length:12.8763109601948 || Dist to width:2.92782084098127
+##OFA
+
+Navigate : 456..
+State: Back to line.
+Distance:12.8763109601948
+Dist to length:12.8763109601948 || Dist to width:2.92782084098127
+##OFA
+
+Navigate : 457..
+State: Back to line.
+Distance:12.8763109601948
+Dist to length:12.8763109601948 || Dist to width:2.92782084098127
+##OFA
+
+Navigate : 458..
+State: Back to line.
+Distance:12.8763109601948
+Dist to length:12.8763109601948 || Dist to width:2.92782084098127
+##OFA
+
+Navigate : 459..
+State: Back to line.
+Distance:12.8763109601948
+Dist to length:12.8763109601948 || Dist to width:2.92782084098127
+##OFA
+
+Navigate : 460..
+State: Back to line.
+Distance:12.8758801871152
+Dist to length:12.8758801871152 || Dist to width:2.92790808817457
+##OFA
+
+Navigate : 461..
+State: Back to line.
+Distance:12.8758801871152
+Dist to length:12.8758801871152 || Dist to width:2.92790808817457
+##OFA
+
+Navigate : 462..
+State: Back to line.
+Distance:12.8758801871152
+Dist to length:12.8758801871152 || Dist to width:2.92790808817457
+##OFA
+
+Navigate : 463..
+State: Back to line.
+Distance:12.8758801871152
+Dist to length:12.8758801871152 || Dist to width:2.92790808817457
+##OFA
+
+Navigate : 464..
+State: Back to line.
+Distance:12.8758801871152
+Dist to length:12.8758801871152 || Dist to width:2.92790808817457
+##OFA
+
+Navigate : 465..
+State: Back to line.
+Distance:12.8758801871152
+Dist to length:12.8758801871152 || Dist to width:2.92790808817457
+##OFA
+
+Navigate : 466..
+State: Back to line.
+Distance:12.8758801871152
+Dist to length:12.8758801871152 || Dist to width:2.92790808817457
+##OFA
+
+Navigate : 467..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 468..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 469..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 470..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 471..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 472..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 473..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 474..
+State: Back to line.
+Distance:12.865609264747
+Dist to length:12.865609264747 || Dist to width:2.93721663070091
+##OFA
+
+Navigate : 475..
+State: Back to line.
+Distance:12.8654849005037
+Dist to length:12.8654849005037 || Dist to width:2.93703004127989
+##OFA
+
+Navigate : 476..
+State: Back to line.
+Distance:12.8654849005037
+Dist to length:12.8654849005037 || Dist to width:2.93703004127989
+##OFA
+
+Navigate : 477..
+State: Back to line.
+Distance:12.8654849005037
+Dist to length:12.8654849005037 || Dist to width:2.93703004127989
+##OFA
+
+Navigate : 478..
+State: Back to line.
+Distance:12.8654849005037
+Dist to length:12.8654849005037 || Dist to width:2.93703004127989
+##OFA
+
+Navigate : 479..
+State: Back to line.
+Distance:12.8654849005037
+Dist to length:12.8654849005037 || Dist to width:2.93703004127989
+##OFA
+
+Navigate : 480..
+State: Back to line.
+Distance:12.8654849005037
+Dist to length:12.8654849005037 || Dist to width:2.93703004127989
+##OFA
+
+Navigate : 481..
+State: Back to line.
+Distance:12.876887357822
+Dist to length:12.876887357822 || Dist to width:2.94578008134928
+##OFA
+
+Navigate : 482..
+State: Back to line.
+Distance:12.876887357822
+Dist to length:12.876887357822 || Dist to width:2.94578008134928
+##OFA
+
+Navigate : 483..
+State: Back to line.
+Distance:12.876887357822
+Dist to length:12.876887357822 || Dist to width:2.94578008134928
+##OFA
+
+Navigate : 484..
+State: Back to line.
+Distance:12.876887357822
+Dist to length:12.876887357822 || Dist to width:2.94578008134928
+##OFA
+
+Navigate : 485..
+State: Back to line.
+Distance:12.876887357822
+Dist to length:12.876887357822 || Dist to width:2.94578008134928
+##OFA
+
+Navigate : 486..
+State: Back to line.
+Distance:12.876887357822
+Dist to length:12.876887357822 || Dist to width:2.94578008134928
+##OFA
+
+Navigate : 487..
+State: Back to line.
+Distance:12.876887357822
+Dist to length:12.876887357822 || Dist to width:2.94578008134928
+##OFA
+
+Navigate : 488..
+State: Back to line.
+Distance:12.8762486927125
+Dist to length:12.8762486927125 || Dist to width:2.94587177060173
+##OFA
+
+Navigate : 489..
+State: Back to line.
+Distance:12.8762486927125
+Dist to length:12.8762486927125 || Dist to width:2.94587177060173
+##OFA
+
+Navigate : 490..
+State: Back to line.
+Distance:12.8762486927125
+Dist to length:12.8762486927125 || Dist to width:2.94587177060173
+##OFA
+
+Navigate : 491..
+State: Back to line.
+Distance:12.8762486927125
+Dist to length:12.8762486927125 || Dist to width:2.94587177060173
+##OFA
+
+Navigate : 492..
+State: Back to line.
+Distance:12.8762486927125
+Dist to length:12.8762486927125 || Dist to width:2.94587177060173
+##OFA
+
+Navigate : 493..
+State: Back to line.
+Distance:12.8762486927125
+Dist to length:12.8762486927125 || Dist to width:2.94587177060173
+##OFA
+
+Navigate : 494..
+State: Back to line.
+Distance:12.8762486927125
+Dist to length:12.8762486927125 || Dist to width:2.94587177060173
+##OFA
+
+Navigate : 495..
+State: Back to line.
+Distance:12.8878912324774
+Dist to length:12.8878912324774 || Dist to width:2.95493050106059
+##OFA
+
+Navigate : 496..
+State: Back to line.
+Distance:12.8878912324774
+Dist to length:12.8878912324774 || Dist to width:2.95493050106059
+##OFA
+
+Navigate : Respose Quit message..
+
+Navigate : SearchInArea Finished..
+
+Navigate : (W)Respose Quit message..
+
+Received data from moblie : 2
+
+Received data from moblie : 2
+
+Received data from moblie : 2
+

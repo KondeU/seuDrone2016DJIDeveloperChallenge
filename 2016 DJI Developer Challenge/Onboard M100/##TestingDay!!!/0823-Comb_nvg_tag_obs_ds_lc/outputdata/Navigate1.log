@@ -1,0 +1,11939 @@
+
+Received data from moblie : 1
+
+
+Received data from moblie : 1
+
+
+Received data from moblie : 1
+
+Navigate : 0..
+State: Init.
+
+Navigate : 1..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 2..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 3..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 4..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 5..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 6..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 7..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 8..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 9..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 10..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 11..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 12..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 13..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 14..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 15..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 16..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 17..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 18..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 19..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 20..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 21..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 22..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 23..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 24..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 25..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 26..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 27..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 28..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 29..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 30..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 31..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 32..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 33..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 34..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 35..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 36..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 37..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 38..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 39..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 40..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 41..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 42..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 43..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 44..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 45..
+State: Init altitude.
+Range:1.5~2, Crnt:-1
+
+Navigate : 46..
+State: Init altitude.
+Range:1.5~2, Crnt:0
+
+Navigate : 47..
+State: Init GPS.
+GPS Corners:
+[0]->
+Latitude:  0.556548145079059
+Longitude: 2.07366311369623
+[1]->
+Latitude:  0.556545793295145
+Longitude: 2.07366588348485
+[2]->
+Latitude:  0.556548145079059
+Longitude: 2.07366865327752
+[3]->
+Latitude:  0.556550496862974
+Longitude: 2.0736658834889
+Total GPS counts:15
+StepOffsetX:2.1213187917014
+StepOffsetY:2.12132189541675
+
+Navigate : 48..
+State: Prepare yaw.
+OffsetX:-14.9999999996637
+OffsetY:15.0000000006479
+Theoretical Current GPS ->
+Latitude:  0.556548145079059
+Longitude: 2.07366311369623
+Theoretical Next GPS ->
+Latitude:  0.556545793295145
+Longitude: 2.07366588348485
+Base Line K:-1.00000000006561
+Yaw:135
+
+Navigate : 49..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 50..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 51..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 52..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 53..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 54..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 55..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 56..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:70.5258026123047
+
+Navigate : 57..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 58..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 59..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 60..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 61..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 62..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 63..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 64..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:21.2951774597168
+
+Navigate : 65..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:10.1183462142944
+
+Navigate : 66..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:3.07832670211792
+
+Navigate : 67..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:3.07832670211792
+
+Navigate : 68..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:3.07832670211792
+
+Navigate : 69..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:3.07832670211792
+
+Navigate : 70..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:3.07832670211792
+
+Navigate : 71..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:3.07832670211792
+
+Navigate : 72..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:3.07832670211792
+
+Navigate : 73..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.42683243751526
+
+Navigate : 74..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 75..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 76..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 77..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 78..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 79..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 80..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 81..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 82..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 83..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 84..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 85..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 86..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 87..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 88..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 89..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:2.47435164451599
+
+Navigate : 90..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:46.5757331848145
+
+Navigate : 91..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:46.5757331848145
+
+Navigate : 92..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:62.0264053344727
+
+Navigate : 93..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:62.0264053344727
+
+Navigate : 94..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:62.0264053344727
+
+Navigate : 95..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:62.0264053344727
+
+Navigate : 96..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:62.0264053344727
+
+Navigate : 97..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 98..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 99..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 100..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 101..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 102..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 103..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 104..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 105..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 106..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 107..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 108..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 109..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:78.3341217041016
+
+Navigate : 110..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:114.802955627441
+
+Navigate : 111..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 112..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 113..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 114..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 115..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 116..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 117..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 118..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:130.498565673828
+
+Navigate : 119..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:150.144882202148
+
+Navigate : 120..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:150.144882202148
+
+Navigate : 121..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.966354370117
+
+Navigate : 122..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.966354370117
+
+Navigate : 123..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.966354370117
+
+Navigate : 124..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.966354370117
+
+Navigate : 125..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.966354370117
+
+Navigate : 126..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 127..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 128..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 129..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 130..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 131..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 132..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 133..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 134..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:153.034240722656
+
+Navigate : 135..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 136..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 137..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 138..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 139..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 140..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 141..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 142..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 143..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 144..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 145..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 146..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 147..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:142.287445068359
+
+Navigate : 148..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:128.377487182617
+
+Navigate : 149..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:128.377487182617
+
+Navigate : 150..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:128.377487182617
+
+Navigate : 151..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:128.377487182617
+
+Navigate : 152..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.452293395996
+
+Navigate : 153..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.452293395996
+
+Navigate : 154..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 155..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 156..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 157..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 158..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 159..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 160..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 161..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 162..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 163..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 164..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 165..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:127.945686340332
+
+Navigate : 166..
+State: Yawing.
+Dest yaw angle:135	Crnt yaw angle:134.161880493164
+
+Navigate : 167..
+State: Forward.
+
+Navigate : 168..
+State: Forward.
+
+Navigate : 169..
+State: Forward.
+
+Navigate : 170..
+State: Forward.
+
+Navigate : 171..
+State: Forward.
+
+Navigate : 172..
+State: Forward.
+
+Navigate : 173..
+State: Forward.
+
+Navigate : 174..
+State: Forward.
+
+Navigate : 175..
+State: Forward.
+
+Navigate : 176..
+State: Forward.
+
+Navigate : 177..
+State: Forward.
+
+Navigate : 178..
+State: Forward.
+
+Navigate : 179..
+State: Forward.
+
+Navigate : 180..
+State: Forward.
+
+Navigate : 181..
+State: Forward.
+
+Navigate : 182..
+State: Forward.
+
+Navigate : 183..
+State: Forward.
+
+Navigate : 184..
+State: Forward.
+
+Navigate : 185..
+State: Forward.
+
+Navigate : 186..
+State: Forward.
+
+Navigate : 187..
+State: Forward.
+
+Navigate : 188..
+State: Forward.
+
+Navigate : 189..
+State: Forward.
+
+Navigate : 190..
+State: Forward.
+
+Navigate : 191..
+State: Forward.
+
+Navigate : 192..
+State: Forward.
+
+Navigate : 193..
+State: Forward.
+
+Navigate : 194..
+State: Forward.
+
+Navigate : 195..
+State: Forward.
+
+Navigate : 196..
+State: Forward.
+
+Navigate : 197..
+State: Forward.
+
+Navigate : 198..
+State: Forward.
+
+Navigate : 199..
+State: Forward.
+
+Navigate : 200..
+State: Forward.
+
+Navigate : 201..
+State: Forward.
+
+Navigate : 202..
+State: Forward.
+
+Navigate : 203..
+State: Forward.
+
+Navigate : 204..
+State: Forward.
+
+Navigate : 205..
+State: Forward.
+
+Navigate : 206..
+State: Forward.
+
+Navigate : 207..
+State: Forward.
+
+Navigate : 208..
+State: Forward.
+
+Navigate : 209..
+State: Forward.
+
+Navigate : 210..
+State: Forward.
+
+Navigate : 211..
+State: Forward.
+
+Navigate : 212..
+State: Forward.
+
+Navigate : 213..
+State: Forward.
+
+Navigate : 214..
+State: Forward.
+
+Navigate : 215..
+State: Forward.
+
+Navigate : 216..
+State: Forward.
+
+Navigate : 217..
+State: Forward.
+
+Navigate : 218..
+State: Forward.
+
+Navigate : 219..
+State: Forward.
+
+Navigate : 220..
+State: Forward.
+
+Navigate : 221..
+State: Forward.
+
+Navigate : 222..
+State: Forward.
+
+Navigate : 223..
+State: Forward.
+
+Navigate : 224..
+State: Forward.
+
+Navigate : 225..
+State: Forward.
+
+Navigate : 226..
+State: Forward.
+
+Navigate : 227..
+State: Forward.
+
+Navigate : 228..
+State: Forward.
+
+Navigate : 229..
+State: Forward.
+
+Navigate : 230..
+State: Forward.
+
+Navigate : 231..
+State: Forward.
+
+Navigate : 232..
+State: Forward.
+
+Navigate : 233..
+State: Forward.
+
+Navigate : 234..
+State: Forward.
+
+Navigate : 235..
+State: Forward.
+
+Navigate : 236..
+State: Forward.
+
+Navigate : 237..
+State: Forward.
+
+Navigate : 238..
+State: Forward.
+
+Navigate : 239..
+State: Forward.
+
+Navigate : 240..
+State: Forward.
+
+Navigate : 241..
+State: Forward.
+
+Navigate : 242..
+State: Forward.
+
+Navigate : 243..
+State: Forward.
+
+Navigate : 244..
+State: Forward.
+
+Navigate : 245..
+State: Forward.
+
+Navigate : 246..
+State: Forward.
+
+Navigate : 247..
+State: Forward.
+
+Navigate : 248..
+State: Forward.
+
+Navigate : 249..
+State: Forward.
+
+Navigate : 250..
+State: Forward.
+
+Navigate : 251..
+State: Forward.
+
+Navigate : 252..
+State: Forward.
+
+Navigate : 253..
+State: Forward.
+
+Navigate : 254..
+State: Forward.
+
+Navigate : 255..
+State: Forward.
+
+Navigate : 256..
+State: Forward.
+
+Navigate : 257..
+State: Forward.
+
+Navigate : 258..
+State: Forward.
+
+Navigate : 259..
+State: Forward.
+
+Navigate : 260..
+State: Forward.
+
+Navigate : 261..
+State: Forward.
+
+Navigate : 262..
+State: Forward.
+
+Navigate : 263..
+State: Forward.
+
+Navigate : 264..
+State: Forward.
+
+Navigate : 265..
+State: Forward.
+
+Navigate : 266..
+State: Forward.
+
+Navigate : 267..
+State: Forward.
+
+Navigate : 268..
+State: Forward.
+
+Navigate : 269..
+State: Forward.
+
+Navigate : 270..
+State: Forward.
+
+Navigate : 271..
+State: Forward.
+
+Navigate : 272..
+State: Forward.
+
+Navigate : 273..
+State: Forward.
+
+Navigate : 274..
+State: Forward.
+
+Navigate : 275..
+State: Forward.
+
+Navigate : 276..
+State: Forward.
+
+Navigate : 277..
+State: Forward.
+
+Navigate : 278..
+State: Forward.
+
+Navigate : 279..
+State: Forward.
+
+Navigate : 280..
+State: Forward.
+
+Navigate : 281..
+State: Forward.
+
+Navigate : 282..
+State: Forward.
+
+Navigate : 283..
+State: Forward.
+
+Navigate : 284..
+State: Forward.
+
+Navigate : 285..
+State: Forward.
+
+Navigate : 286..
+State: Forward.
+
+Navigate : 287..
+State: Forward.
+
+Navigate : 288..
+State: Forward.
+
+Navigate : 289..
+State: Forward.
+
+Navigate : 290..
+State: Forward.
+
+Navigate : 291..
+State: Forward.
+
+Navigate : 292..
+State: Forward.
+
+Navigate : 293..
+State: Forward.
+
+Navigate : 294..
+State: Forward.
+
+Navigate : 295..
+State: Forward.
+
+Navigate : 296..
+State: Forward.
+
+Navigate : 297..
+State: Forward.
+
+Navigate : 298..
+State: Forward.
+
+Navigate : 299..
+State: Forward.
+
+Navigate : 300..
+State: Forward.
+
+Navigate : 301..
+State: Forward.
+
+Navigate : 302..
+State: Forward.
+
+Navigate : 303..
+State: Forward.
+
+Navigate : 304..
+State: Forward.
+
+Navigate : 305..
+State: Forward.
+
+Navigate : 306..
+State: Forward.
+
+Navigate : 307..
+State: Forward.
+
+Navigate : 308..
+State: Forward.
+
+Navigate : 309..
+State: Forward.
+
+Navigate : 310..
+State: Forward.
+
+Navigate : 311..
+State: Forward.
+
+Navigate : 312..
+State: Forward.
+
+Navigate : 313..
+State: Forward.
+
+Navigate : 314..
+State: Forward.
+
+Navigate : 315..
+State: Forward.
+
+Navigate : 316..
+State: Forward.
+
+Navigate : 317..
+State: Forward.
+
+Navigate : 318..
+State: Forward.
+
+Navigate : 319..
+State: Forward.
+
+Navigate : 320..
+State: Forward.
+
+Navigate : 321..
+State: Forward.
+
+Navigate : 322..
+State: Forward.
+
+Navigate : 323..
+State: Forward.
+
+Navigate : 324..
+State: Forward.
+
+Navigate : 325..
+State: Forward.
+
+Navigate : 326..
+State: Forward.
+
+Navigate : 327..
+State: Forward.
+
+Navigate : 328..
+State: Forward.
+
+Navigate : 329..
+State: Forward.
+
+Navigate : 330..
+State: Forward.
+
+Navigate : 331..
+State: Forward.
+
+Navigate : 332..
+State: Forward.
+
+Navigate : 333..
+State: Forward.
+
+Navigate : 334..
+State: Forward.
+
+Navigate : 335..
+State: Forward.
+
+Navigate : 336..
+State: Forward.
+
+Navigate : 337..
+State: Forward.
+
+Navigate : 338..
+State: Forward.
+
+Navigate : 339..
+State: Forward.
+
+Navigate : 340..
+State: Forward.
+
+Navigate : 341..
+State: Forward.
+
+Navigate : 342..
+State: Forward.
+
+Navigate : 343..
+State: Forward.
+
+Navigate : 344..
+State: Forward.
+
+Navigate : 345..
+State: Forward.
+
+Navigate : 346..
+State: Forward.
+
+Navigate : 347..
+State: Forward.
+
+Navigate : 348..
+State: Forward.
+
+Navigate : 349..
+State: Forward.
+
+Navigate : 350..
+State: Forward.
+
+Navigate : 351..
+State: Forward.
+
+Navigate : 352..
+State: Forward.
+
+Navigate : 353..
+State: Forward.
+
+Navigate : 354..
+State: Forward.
+
+Navigate : 355..
+State: Forward.
+
+Navigate : 356..
+State: Forward.
+
+Navigate : 357..
+State: Forward.
+
+Navigate : 358..
+State: Forward.
+
+Navigate : 359..
+State: Forward.
+
+Navigate : 360..
+State: Forward.
+
+Navigate : 361..
+State: Forward.
+
+Navigate : 362..
+State: Forward.
+
+Navigate : 363..
+State: Forward.
+
+Navigate : 364..
+State: Forward.
+
+Navigate : 365..
+State: Forward.
+
+Navigate : 366..
+State: Forward.
+
+Navigate : 367..
+State: Forward.
+
+Navigate : 368..
+State: Forward.
+
+Navigate : 369..
+State: Forward.
+
+Navigate : 370..
+State: Forward.
+
+Navigate : 371..
+State: Forward.
+
+Navigate : 372..
+State: Forward.
+
+Navigate : 373..
+State: Forward.
+
+Navigate : 374..
+State: Forward.
+
+Navigate : 375..
+State: Forward.
+
+Navigate : 376..
+State: Forward.
+
+Navigate : 377..
+State: Forward.
+
+Navigate : 378..
+State: Forward.
+
+Navigate : 379..
+State: Forward.
+
+Navigate : 380..
+State: Forward.
+
+Navigate : 381..
+State: Forward.
+
+Navigate : 382..
+State: Forward.
+
+Navigate : 383..
+State: Forward.
+
+Navigate : 384..
+State: Forward.
+
+Navigate : 385..
+State: Forward.
+
+Navigate : 386..
+State: Forward.
+
+Navigate : 387..
+State: Forward.
+
+Navigate : 388..
+State: Forward.
+
+Navigate : 389..
+State: Forward.
+
+Navigate : 390..
+State: Forward.
+
+Navigate : 391..
+State: Forward.
+
+Navigate : 392..
+State: Forward.
+
+Navigate : 393..
+State: Forward.
+
+Navigate : 394..
+State: Forward.
+
+Navigate : 395..
+State: Forward.
+
+Navigate : 396..
+State: Forward.
+
+Navigate : 397..
+State: Forward.
+
+Navigate : 398..
+State: Forward.
+
+Navigate : 399..
+State: Forward.
+
+Navigate : 400..
+State: Forward.
+
+Navigate : 401..
+State: Forward.
+
+Navigate : 402..
+State: Forward.
+
+Navigate : 403..
+State: Forward.
+
+Navigate : 404..
+State: Forward.
+
+Navigate : 405..
+State: Forward.
+
+Navigate : 406..
+State: Forward.
+
+Navigate : 407..
+State: Forward.
+
+Navigate : 408..
+State: Forward.
+
+Navigate : 409..
+State: Forward.
+
+Navigate : 410..
+State: Forward.
+
+Navigate : 411..
+State: Forward.
+
+Navigate : 412..
+State: Forward.
+
+Navigate : 413..
+State: Forward.
+
+Navigate : 414..
+State: Forward.
+
+Navigate : 415..
+State: Forward.
+
+Navigate : 416..
+State: Forward.
+
+Navigate : 417..
+State: Forward.
+
+Navigate : 418..
+State: Forward.
+
+Navigate : 419..
+State: Forward.
+
+Navigate : 420..
+State: Forward.
+
+Navigate : 421..
+State: Forward.
+
+Navigate : 422..
+State: Forward.
+
+Navigate : 423..
+State: Forward.
+
+Navigate : 424..
+State: Forward.
+
+Navigate : 425..
+State: Forward.
+
+Navigate : 426..
+State: Forward.
+
+Navigate : 427..
+State: Forward.
+
+Navigate : 428..
+State: Forward.
+
+Navigate : 429..
+State: Forward.
+
+Navigate : 430..
+State: Forward.
+
+Navigate : 431..
+State: Forward.
+
+Navigate : 432..
+State: Forward.
+
+Navigate : 433..
+State: Forward.
+
+Navigate : 434..
+State: Forward.
+
+Navigate : 435..
+State: Forward.
+
+Navigate : 436..
+State: Forward.
+
+Navigate : 437..
+State: Forward.
+
+Navigate : 438..
+State: Forward.
+
+Navigate : 439..
+State: Forward.
+
+Navigate : 440..
+State: Forward.
+
+Navigate : 441..
+State: Forward.
+
+Navigate : 442..
+State: Forward.
+
+Navigate : 443..
+State: Forward.
+
+Navigate : 444..
+State: Forward.
+
+Navigate : 445..
+State: Forward.
+
+Navigate : 446..
+State: Forward.
+
+Navigate : 447..
+State: Forward.
+
+Navigate : 448..
+State: Forward.
+
+Navigate : 449..
+State: Forward.
+
+Navigate : 450..
+State: Forward.
+
+Navigate : 451..
+State: Forward.
+
+Navigate : 452..
+State: Forward.
+
+Navigate : 453..
+State: Forward.
+
+Navigate : 454..
+State: Forward.
+
+Navigate : 455..
+State: Forward.
+
+Navigate : 456..
+State: Forward.
+
+Navigate : 457..
+State: Forward.
+
+Navigate : 458..
+State: Forward.
+
+Navigate : 459..
+State: Forward.
+
+Navigate : 460..
+State: Forward.
+
+Navigate : 461..
+State: Forward.
+
+Navigate : 462..
+State: Forward.
+
+Navigate : 463..
+State: Forward.
+
+Navigate : 464..
+State: Forward.
+
+Navigate : 465..
+State: Forward.
+
+Navigate : 466..
+State: Forward.
+
+Navigate : 467..
+State: Forward.
+
+Navigate : 468..
+State: Forward.
+
+Navigate : 469..
+State: Forward.
+
+Navigate : 470..
+State: Forward.
+
+Navigate : 471..
+State: Forward.
+
+Navigate : 472..
+State: Forward.
+
+Navigate : 473..
+State: Forward.
+
+Navigate : 474..
+State: Forward.
+
+Navigate : 475..
+State: Forward.
+
+Navigate : 476..
+State: Forward.
+
+Navigate : 477..
+State: Forward.
+
+Navigate : 478..
+State: Forward.
+
+Navigate : 479..
+State: Forward.
+
+Navigate : 480..
+State: Forward.
+
+Navigate : 481..
+State: Forward.
+
+Navigate : 482..
+State: Forward.
+
+Navigate : 483..
+State: Forward.
+
+Navigate : 484..
+State: Forward.
+
+Navigate : 485..
+State: Forward.
+
+Navigate : 486..
+State: Forward.
+
+Navigate : 487..
+State: Forward.
+
+Navigate : 488..
+State: Forward.
+
+Navigate : 489..
+State: Forward.
+
+Navigate : 490..
+State: Forward.
+
+Navigate : 491..
+State: Forward.
+
+Navigate : 492..
+State: Forward.
+
+Navigate : 493..
+State: Forward.
+
+Navigate : 494..
+State: Forward.
+
+Navigate : 495..
+State: Forward.
+
+Navigate : 496..
+State: Forward.
+
+Navigate : 497..
+State: Forward.
+
+Navigate : 498..
+State: Forward.
+
+Navigate : 499..
+State: Forward.
+
+Navigate : 500..
+State: Forward.
+
+Navigate : 501..
+State: Forward.
+
+Navigate : 502..
+State: Forward.
+
+Navigate : 503..
+State: Forward.
+
+Navigate : 504..
+State: Forward.
+
+Navigate : 505..
+State: Forward.
+
+Navigate : 506..
+State: Forward.
+
+Navigate : 507..
+State: Forward.
+
+Navigate : 508..
+State: Forward.
+
+Navigate : 509..
+State: Forward.
+
+Navigate : 510..
+State: Forward.
+
+Navigate : 511..
+State: Forward.
+
+Navigate : 512..
+State: Forward.
+
+Navigate : 513..
+State: Forward.
+
+Navigate : 514..
+State: Forward.
+
+Navigate : 515..
+State: Forward.
+
+Navigate : 516..
+State: Forward.
+
+Navigate : 517..
+State: Forward.
+
+Navigate : 518..
+State: Forward.
+
+Navigate : 519..
+State: Forward.
+
+Navigate : 520..
+State: Forward.
+
+Navigate : 521..
+State: Forward.
+
+Navigate : 522..
+State: Forward.
+
+Navigate : 523..
+State: Forward.
+
+Navigate : 524..
+State: Forward.
+
+Navigate : 525..
+State: Forward.
+
+Navigate : 526..
+State: Forward.
+
+Navigate : 527..
+State: Forward.
+
+Navigate : 528..
+State: Forward.
+
+Navigate : 529..
+State: Forward.
+
+Navigate : 530..
+State: Forward.
+
+Navigate : 531..
+State: Forward.
+
+Navigate : 532..
+State: Forward.
+
+Navigate : 533..
+State: Forward.
+
+Navigate : 534..
+State: Forward.
+
+Navigate : 535..
+State: Forward.
+
+Navigate : 536..
+State: Forward.
+
+Navigate : 537..
+State: Forward.
+
+Navigate : 538..
+State: Forward.
+
+Navigate : 539..
+State: Forward.
+
+Navigate : 540..
+State: Forward.
+
+Navigate : 541..
+State: Forward.
+
+Navigate : 542..
+State: Forward.
+
+Navigate : 543..
+State: Forward.
+
+Navigate : 544..
+State: Forward.
+
+Navigate : 545..
+State: Forward.
+
+Navigate : 546..
+State: Forward.
+
+Navigate : 547..
+State: Forward.
+
+Navigate : 548..
+State: Forward.
+
+Navigate : 549..
+State: Forward.
+
+Navigate : 550..
+State: Forward.
+
+Navigate : 551..
+State: Forward.
+
+Navigate : 552..
+State: Forward.
+
+Navigate : 553..
+State: Forward.
+
+Navigate : 554..
+State: Forward.
+
+Navigate : 555..
+State: Forward.
+
+Navigate : 556..
+State: Forward.
+
+Navigate : 557..
+State: Forward.
+
+Navigate : 558..
+State: Forward.
+
+Navigate : 559..
+State: Forward.
+
+Navigate : 560..
+State: Forward.
+
+Navigate : 561..
+State: Forward.
+
+Navigate : 562..
+State: Forward.
+
+Navigate : 563..
+State: Forward.
+
+Navigate : 564..
+State: Forward.
+
+Navigate : 565..
+State: Forward.
+
+Navigate : 566..
+State: Forward.
+
+Navigate : 567..
+State: Forward.
+
+Navigate : 568..
+State: Forward.
+
+Navigate : 569..
+State: Forward.
+
+Navigate : 570..
+State: Forward.
+
+Navigate : 571..
+State: Forward.
+
+Navigate : 572..
+State: Forward.
+
+Navigate : 573..
+State: Forward.
+
+Navigate : 574..
+State: Forward.
+
+Navigate : 575..
+State: Forward.
+
+Navigate : 576..
+State: Forward.
+
+Navigate : 577..
+State: Forward.
+
+Navigate : 578..
+State: Forward.
+
+Navigate : 579..
+State: Forward.
+
+Navigate : 580..
+State: Forward.
+
+Navigate : 581..
+State: Forward.
+
+Navigate : 582..
+State: Forward.
+
+Navigate : 583..
+State: Forward.
+
+Navigate : 584..
+State: Forward.
+
+Navigate : 585..
+State: Forward.
+
+Navigate : 586..
+State: Forward.
+
+Navigate : 587..
+State: Forward.
+
+Navigate : 588..
+State: Forward.
+
+Navigate : 589..
+State: Forward.
+
+Navigate : 590..
+State: Forward.
+
+Navigate : 591..
+State: Forward.
+
+Navigate : 592..
+State: Forward.
+
+Navigate : 593..
+State: Forward.
+
+Navigate : 594..
+State: Forward.
+
+Navigate : 595..
+State: Forward.
+
+Navigate : 596..
+State: Forward.
+
+Navigate : 597..
+State: Forward.
+
+Navigate : 598..
+State: Forward.
+
+Navigate : 599..
+State: Forward.
+
+Navigate : 600..
+State: Forward.
+
+Navigate : 601..
+State: Forward.
+
+Navigate : 602..
+State: Forward.
+
+Navigate : 603..
+State: Forward.
+
+Navigate : 604..
+State: Forward.
+
+Navigate : 605..
+State: Forward.
+
+Navigate : 606..
+State: Forward.
+
+Navigate : 607..
+State: Forward.
+
+Navigate : 608..
+State: Forward.
+
+Navigate : 609..
+State: Forward.
+
+Navigate : 610..
+State: Forward.
+
+Navigate : 611..
+State: Forward.
+
+Navigate : 612..
+State: Forward.
+
+Navigate : 613..
+State: Forward.
+
+Navigate : 614..
+State: Forward.
+
+Navigate : 615..
+State: Forward.
+
+Navigate : 616..
+State: Forward.
+
+Navigate : 617..
+State: Forward.
+
+Navigate : 618..
+State: Forward.
+
+Navigate : 619..
+State: Forward.
+
+Navigate : 620..
+State: Forward.
+
+Navigate : 621..
+State: Forward.
+
+Navigate : 622..
+State: Forward.
+
+Navigate : 623..
+State: Forward.
+
+Navigate : 624..
+State: Forward.
+
+Navigate : 625..
+State: Forward.
+
+Navigate : 626..
+State: Forward.
+
+Navigate : 627..
+State: Forward.
+
+Navigate : 628..
+State: Forward.
+
+Navigate : 629..
+State: Forward.
+
+Navigate : 630..
+State: Forward.
+
+Navigate : 631..
+State: Forward.
+
+Navigate : 632..
+State: Forward.
+
+Navigate : 633..
+State: Forward.
+
+Navigate : 634..
+State: Forward.
+
+Navigate : 635..
+State: Forward.
+
+Navigate : 636..
+State: Forward.
+
+Navigate : 637..
+State: Forward.
+
+Navigate : 638..
+State: Forward.
+
+Navigate : 639..
+State: Forward.
+
+Navigate : 640..
+State: Forward.
+
+Navigate : 641..
+State: Forward.
+
+Navigate : 642..
+State: Forward.
+
+Navigate : 643..
+State: Forward.
+
+Navigate : 644..
+State: Forward.
+
+Navigate : 645..
+State: Forward.
+
+Navigate : 646..
+State: Forward.
+
+Navigate : 647..
+State: Forward.
+
+Navigate : 648..
+State: Forward.
+
+Navigate : 649..
+State: Forward.
+
+Navigate : 650..
+State: Forward.
+
+Navigate : 651..
+State: Forward.
+
+Navigate : 652..
+State: Forward.
+
+Navigate : 653..
+State: Forward.
+
+Navigate : 654..
+State: Forward.
+
+Navigate : 655..
+State: Forward.
+
+Navigate : 656..
+State: Forward.
+
+Navigate : 657..
+State: Forward.
+
+Navigate : 658..
+State: Forward.
+
+Navigate : 659..
+State: Forward.
+
+Navigate : 660..
+State: Forward.
+
+Navigate : 661..
+State: Forward.
+
+Navigate : 662..
+State: Forward.
+
+Navigate : 663..
+State: Forward.
+
+Navigate : 664..
+State: Forward.
+
+Navigate : 665..
+State: Forward.
+
+Navigate : 666..
+State: Forward.
+
+Navigate : 667..
+State: Forward.
+
+Navigate : 668..
+State: Forward.
+
+Navigate : 669..
+State: Forward.
+
+Navigate : 670..
+State: Forward.
+
+Navigate : 671..
+State: Forward.
+
+Navigate : 672..
+State: Forward.
+
+Navigate : 673..
+State: Forward.
+
+Navigate : 674..
+State: Forward.
+
+Navigate : 675..
+State: Forward.
+
+Navigate : 676..
+State: Forward.
+
+Navigate : 677..
+State: Forward.
+
+Navigate : 678..
+State: Forward.
+
+Navigate : 679..
+State: Forward.
+
+Navigate : 680..
+State: Forward.
+
+Navigate : 681..
+State: Forward.
+
+Navigate : 682..
+State: Forward.
+
+Navigate : 683..
+State: Forward.
+
+Navigate : 684..
+State: Forward.
+
+Navigate : 685..
+State: Forward.
+
+Navigate : 686..
+State: Forward.
+
+Navigate : 687..
+State: Forward.
+
+Navigate : 688..
+State: Forward.
+
+Navigate : 689..
+State: Forward.
+
+Navigate : 690..
+State: Forward.
+
+Navigate : 691..
+State: Forward.
+
+Navigate : 692..
+State: Forward.
+
+Navigate : 693..
+State: Forward.
+
+Navigate : 694..
+State: Forward.
+
+Navigate : 695..
+State: Forward.
+
+Navigate : 696..
+State: Forward.
+
+Navigate : 697..
+State: Forward.
+
+Navigate : 698..
+State: Forward.
+
+Navigate : 699..
+State: Forward.
+
+Navigate : 700..
+State: Forward.
+
+Navigate : 701..
+State: Forward.
+
+Navigate : 702..
+State: Forward.
+
+Navigate : 703..
+State: Forward.
+
+Navigate : 704..
+State: Forward.
+
+Navigate : 705..
+State: Forward.
+
+Navigate : 706..
+State: Forward.
+
+Navigate : 707..
+State: Forward.
+
+Navigate : 708..
+State: Forward.
+
+Navigate : 709..
+State: Forward.
+
+Navigate : 710..
+State: Forward.
+
+Navigate : 711..
+State: Forward.
+
+Navigate : 712..
+State: Forward.
+
+Navigate : 713..
+State: Forward.
+
+Navigate : 714..
+State: Forward.
+
+Navigate : 715..
+State: Forward.
+
+Navigate : 716..
+State: Forward.
+
+Navigate : 717..
+State: Forward.
+
+Navigate : 718..
+State: Forward.
+
+Navigate : 719..
+State: Forward.
+
+Navigate : 720..
+State: Forward.
+
+Navigate : 721..
+State: Forward.
+
+Navigate : 722..
+State: Forward.
+
+Navigate : 723..
+State: Forward.
+
+Navigate : 724..
+State: Forward.
+
+Navigate : 725..
+State: Forward.
+
+Navigate : 726..
+State: Forward.
+
+Navigate : 727..
+State: Forward.
+
+Navigate : 728..
+State: Forward.
+
+Navigate : 729..
+State: Forward.
+
+Navigate : 730..
+State: Forward.
+
+Navigate : 731..
+State: Forward.
+
+Navigate : 732..
+State: Forward.
+
+Navigate : 733..
+State: Forward.
+
+Navigate : 734..
+State: Forward.
+
+Navigate : 735..
+State: Forward.
+
+Navigate : 736..
+State: Forward.
+
+Navigate : 737..
+State: Forward.
+
+Navigate : 738..
+State: Forward.
+
+Navigate : 739..
+State: Forward.
+
+Navigate : 740..
+State: Forward.
+
+Navigate : 741..
+State: Forward.
+
+Navigate : 742..
+State: Forward.
+
+Navigate : 743..
+State: Forward.
+
+Navigate : 744..
+State: Forward.
+
+Navigate : 745..
+State: Forward.
+
+Navigate : 746..
+State: Forward.
+
+Navigate : 747..
+State: Forward.
+
+Navigate : 748..
+State: Forward.
+
+Navigate : 749..
+State: Forward.
+
+Navigate : 750..
+State: Forward.
+
+Navigate : 751..
+State: Forward.
+
+Navigate : 752..
+State: Forward.
+
+Navigate : 753..
+State: Forward.
+
+Navigate : 754..
+State: Forward.
+
+Navigate : 755..
+State: Forward.
+
+Navigate : 756..
+State: Forward.
+
+Navigate : 757..
+State: Forward.
+
+Navigate : 758..
+State: Forward.
+
+Navigate : 759..
+State: Forward.
+
+Navigate : 760..
+State: Forward.
+
+Navigate : 761..
+State: Forward.
+
+Navigate : 762..
+State: Forward.
+
+Navigate : 763..
+State: Forward.
+
+Navigate : 764..
+State: Forward.
+
+Navigate : 765..
+State: Forward.
+
+Navigate : 766..
+State: Forward.
+
+Navigate : 767..
+State: Forward.
+
+Navigate : 768..
+State: Forward.
+
+Navigate : 769..
+State: Forward.
+
+Navigate : 770..
+State: Forward.
+
+Navigate : 771..
+State: Forward.
+
+Navigate : 772..
+State: Forward.
+
+Navigate : 773..
+State: Forward.
+
+Navigate : 774..
+State: Forward.
+
+Navigate : 775..
+State: Forward.
+
+Navigate : 776..
+State: Forward.
+
+Navigate : 777..
+State: Forward.
+
+Navigate : 778..
+State: Forward.
+
+Navigate : 779..
+State: Forward.
+
+Navigate : 780..
+State: Forward.
+
+Navigate : 781..
+State: Forward.
+
+Navigate : 782..
+State: Forward.
+
+Navigate : 783..
+State: Forward.
+
+Navigate : 784..
+State: Forward.
+
+Navigate : 785..
+State: Forward.
+
+Navigate : 786..
+State: Forward.
+
+Navigate : 787..
+State: Forward.
+
+Navigate : 788..
+State: Obstacle Avoidance.
+
+Navigate : 789..
+State: Obstacle Avoidance.
+
+Navigate : 790..
+State: Obstacle Avoidance.
+
+Navigate : 791..
+State: Obstacle Avoidance.
+
+Navigate : 792..
+State: Obstacle Avoidance.
+
+Navigate : 793..
+State: Obstacle Avoidance.
+
+Navigate : 794..
+State: Obstacle Avoidance.
+
+Navigate : 795..
+State: Obstacle Avoidance.
+
+Navigate : 796..
+State: Obstacle Avoidance.
+
+Navigate : 797..
+State: Obstacle Avoidance.
+
+Navigate : 798..
+State: Obstacle Avoidance.
+
+Navigate : 799..
+State: Obstacle Avoidance.
+
+Navigate : 800..
+State: Obstacle Avoidance.
+
+Navigate : 801..
+State: Obstacle Avoidance.
+
+Navigate : 802..
+State: Obstacle Avoidance.
+
+Navigate : 803..
+State: Obstacle Avoidance.
+
+Navigate : 804..
+State: Obstacle Avoidance.
+
+Navigate : 805..
+State: Obstacle Avoidance.
+
+Navigate : 806..
+State: Obstacle Avoidance.
+
+Navigate : 807..
+State: Obstacle Avoidance.
+
+Navigate : 808..
+State: Obstacle Avoidance.
+
+Navigate : 809..
+State: Obstacle Avoidance.
+
+Navigate : 810..
+State: Obstacle Avoidance.
+
+Navigate : 811..
+State: Obstacle Avoidance.
+
+Navigate : 812..
+State: Obstacle Avoidance.
+
+Navigate : 813..
+State: Obstacle Avoidance.
+
+Navigate : 814..
+State: Obstacle Avoidance.
+
+Navigate : 815..
+State: Obstacle Avoidance.
+
+Navigate : 816..
+State: Obstacle Avoidance.
+
+Navigate : 817..
+State: Obstacle Avoidance.
+
+Navigate : 818..
+State: Obstacle Avoidance.
+
+Navigate : 819..
+State: Obstacle Avoidance.
+
+Navigate : 820..
+State: Obstacle Avoidance.
+
+Navigate : 821..
+State: Obstacle Avoidance.
+
+Navigate : 822..
+State: Obstacle Avoidance.
+
+Navigate : 823..
+State: Obstacle Avoidance.
+
+Navigate : 824..
+State: Obstacle Avoidance.
+
+Navigate : 825..
+State: Obstacle Avoidance.
+
+Navigate : 826..
+State: Obstacle Avoidance.
+
+Navigate : 827..
+State: Obstacle Avoidance.
+
+Navigate : 828..
+State: Obstacle Avoidance.
+
+Navigate : 829..
+State: Obstacle Avoidance.
+
+Navigate : 830..
+State: Obstacle Avoidance.
+
+Navigate : 831..
+State: Obstacle Avoidance.
+
+Navigate : 832..
+State: Obstacle Avoidance.
+
+Navigate : 833..
+State: Obstacle Avoidance.
+
+Navigate : 834..
+State: Obstacle Avoidance.
+
+Navigate : 835..
+State: Obstacle Avoidance.
+
+Navigate : 836..
+State: Obstacle Avoidance.
+
+Navigate : 837..
+State: Obstacle Avoidance.
+
+Navigate : 838..
+State: Obstacle Avoidance.
+
+Navigate : 839..
+State: Obstacle Avoidance.
+
+Navigate : 840..
+State: Obstacle Avoidance.
+
+Navigate : 841..
+State: Back to line.
+Distance:0.237586330826503
+
+Navigate : 842..
+State: Forward.
+
+Navigate : 843..
+State: Forward.
+
+Navigate : 844..
+State: Forward.
+
+Navigate : 845..
+State: Forward.
+
+Navigate : 846..
+State: Forward.
+
+Navigate : 847..
+State: Forward.
+
+Navigate : 848..
+State: Forward.
+
+Navigate : 849..
+State: Forward.
+
+Navigate : 850..
+State: Forward.
+
+Navigate : 851..
+State: Forward.
+
+Navigate : 852..
+State: Forward.
+
+Navigate : 853..
+State: Forward.
+
+Navigate : 854..
+State: Forward.
+
+Navigate : 855..
+State: Forward.
+
+Navigate : 856..
+State: Forward.
+
+Navigate : 857..
+State: Forward.
+
+Navigate : 858..
+State: Forward.
+
+Navigate : 859..
+State: Forward.
+
+Navigate : 860..
+State: Forward.
+
+Navigate : 861..
+State: Forward.
+
+Navigate : 862..
+State: Forward.
+
+Navigate : 863..
+State: Forward.
+
+Navigate : 864..
+State: Forward.
+
+Navigate : 865..
+State: Forward.
+
+Navigate : 866..
+State: Forward.
+
+Navigate : 867..
+State: Forward.
+
+Navigate : 868..
+State: Forward.
+
+Navigate : 869..
+State: Forward.
+
+Navigate : 870..
+State: Forward.
+
+Navigate : 871..
+State: Forward.
+
+Navigate : 872..
+State: Forward.
+
+Navigate : 873..
+State: Forward.
+
+Navigate : 874..
+State: Forward.
+
+Navigate : 875..
+State: Forward.
+
+Navigate : 876..
+State: Forward.
+
+Navigate : 877..
+State: Forward.
+
+Navigate : 878..
+State: Forward.
+
+Navigate : 879..
+State: Forward.
+
+Navigate : 880..
+State: Forward.
+
+Navigate : 881..
+State: Forward.
+
+Navigate : 882..
+State: Forward.
+
+Navigate : 883..
+State: Forward.
+
+Navigate : 884..
+State: Forward.
+
+Navigate : 885..
+State: Forward.
+
+Navigate : 886..
+State: Forward.
+
+Navigate : 887..
+State: Forward.
+
+Navigate : 888..
+State: Forward.
+
+Navigate : 889..
+State: Forward.
+
+Navigate : 890..
+State: Forward.
+
+Navigate : 891..
+State: Forward.
+
+Navigate : 892..
+State: Forward.
+
+Navigate : 893..
+State: Forward.
+
+Navigate : 894..
+State: Forward.
+
+Navigate : 895..
+State: Forward.
+
+Navigate : 896..
+State: Forward.
+
+Navigate : 897..
+State: Forward.
+
+Navigate : 898..
+State: Forward.
+
+Navigate : 899..
+State: Forward.
+
+Navigate : 900..
+State: Forward.
+
+Navigate : 901..
+State: Forward.
+
+Navigate : 902..
+State: Forward.
+
+Navigate : 903..
+State: Forward.
+
+Navigate : 904..
+State: Forward.
+
+Navigate : 905..
+State: Forward.
+
+Navigate : 906..
+State: Forward.
+
+Navigate : 907..
+State: Forward.
+
+Navigate : 908..
+State: Forward.
+
+Navigate : 909..
+State: Forward.
+
+Navigate : 910..
+State: Forward.
+
+Navigate : 911..
+State: Forward.
+
+Navigate : 912..
+State: Forward.
+
+Navigate : 913..
+State: Forward.
+
+Navigate : 914..
+State: Forward.
+
+Navigate : 915..
+State: Forward.
+
+Navigate : 916..
+State: Forward.
+
+Navigate : 917..
+State: Forward.
+
+Navigate : 918..
+State: Forward.
+
+Navigate : 919..
+State: Forward.
+
+Navigate : 920..
+State: Forward.
+
+Navigate : 921..
+State: Forward.
+
+Navigate : 922..
+State: Forward.
+
+Navigate : 923..
+State: Forward.
+
+Navigate : 924..
+State: Forward.
+
+Navigate : 925..
+State: Forward.
+
+Navigate : 926..
+State: Forward.
+
+Navigate : 927..
+State: Forward.
+
+Navigate : 928..
+State: Forward.
+
+Navigate : 929..
+State: Forward.
+
+Navigate : 930..
+State: Forward.
+
+Navigate : 931..
+State: Forward.
+
+Navigate : 932..
+State: Forward.
+
+Navigate : 933..
+State: Forward.
+
+Navigate : 934..
+State: Forward.
+
+Navigate : 935..
+State: Forward.
+
+Navigate : 936..
+State: Forward.
+
+Navigate : 937..
+State: Forward.
+
+Navigate : 938..
+State: Forward.
+
+Navigate : 939..
+State: Forward.
+
+Navigate : 940..
+State: Forward.
+
+Navigate : 941..
+State: Forward.
+
+Navigate : 942..
+State: Forward.
+
+Navigate : 943..
+State: Forward.
+
+Navigate : 944..
+State: Forward.
+
+Navigate : 945..
+State: Prepare yaw.
+OffsetX:2.1213187917014
+OffsetY:2.12132189541675
+Theoretical Current GPS ->
+Latitude:  0.556545793295145
+Longitude: 2.07366588348485
+Theoretical Next GPS ->
+Latitude:  0.556546125887373
+Longitude: 2.07366627519216
+Base Line K:1.00000146310652
+Yaw:34.1496429443359
+
+Navigate : 946..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 947..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 948..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 949..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 950..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 951..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 952..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 953..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 954..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 955..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 956..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 957..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:110.593055725098
+
+Navigate : 958..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:109.799278259277
+
+Navigate : 959..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:109.799278259277
+
+Navigate : 960..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:109.799278259277
+
+Navigate : 961..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:109.799278259277
+
+Navigate : 962..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:108.142402648926
+
+Navigate : 963..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:108.142402648926
+
+Navigate : 964..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:107.21411895752
+
+Navigate : 965..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:107.21411895752
+
+Navigate : 966..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 967..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 968..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 969..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 970..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 971..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 972..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 973..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 974..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 975..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 976..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 977..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 978..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 979..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 980..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 981..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 982..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 983..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 984..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 985..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 986..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 987..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 988..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 989..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 990..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 991..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 992..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 993..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 994..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 995..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 996..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 997..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 998..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 999..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1000..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1001..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1002..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1003..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1004..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1005..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1006..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1007..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1008..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1009..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1010..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:102.567611694336
+
+Navigate : 1011..
+State: Yawing.
+Dest yaw angle:34.1496429443359	Crnt yaw angle:37.1172828674316
+
+Navigate : 1012..
+State: Forward.
+
+Navigate : 1013..
+State: Forward.
+
+Navigate : 1014..
+State: Forward.
+
+Navigate : 1015..
+State: Forward.
+
+Navigate : 1016..
+State: Forward.
+
+Navigate : 1017..
+State: Forward.
+
+Navigate : 1018..
+State: Forward.
+
+Navigate : 1019..
+State: Forward.
+
+Navigate : 1020..
+State: Forward.
+
+Navigate : 1021..
+State: Forward.
+
+Navigate : 1022..
+State: Forward.
+
+Navigate : 1023..
+State: Forward.
+
+Navigate : 1024..
+State: Forward.
+
+Navigate : 1025..
+State: Forward.
+
+Navigate : 1026..
+State: Forward.
+
+Navigate : 1027..
+State: Forward.
+
+Navigate : 1028..
+State: Forward.
+
+Navigate : 1029..
+State: Forward.
+
+Navigate : 1030..
+State: Forward.
+
+Navigate : 1031..
+State: Forward.
+
+Navigate : 1032..
+State: Forward.
+
+Navigate : 1033..
+State: Forward.
+
+Navigate : 1034..
+State: Forward.
+
+Navigate : 1035..
+State: Forward.
+
+Navigate : 1036..
+State: Forward.
+
+Navigate : 1037..
+State: Forward.
+
+Navigate : 1038..
+State: Forward.
+
+Navigate : 1039..
+State: Forward.
+
+Navigate : 1040..
+State: Forward.
+
+Navigate : 1041..
+State: Forward.
+
+Navigate : 1042..
+State: Forward.
+
+Navigate : 1043..
+State: Forward.
+
+Navigate : 1044..
+State: Forward.
+
+Navigate : 1045..
+State: Forward.
+
+Navigate : 1046..
+State: Forward.
+
+Navigate : 1047..
+State: Forward.
+
+Navigate : 1048..
+State: Forward.
+
+Navigate : 1049..
+State: Forward.
+
+Navigate : 1050..
+State: Forward.
+
+Navigate : 1051..
+State: Forward.
+
+Navigate : 1052..
+State: Forward.
+
+Navigate : 1053..
+State: Forward.
+
+Navigate : 1054..
+State: Forward.
+
+Navigate : 1055..
+State: Forward.
+
+Navigate : 1056..
+State: Forward.
+
+Navigate : 1057..
+State: Forward.
+
+Navigate : 1058..
+State: Forward.
+
+Navigate : 1059..
+State: Forward.
+
+Navigate : 1060..
+State: Forward.
+
+Navigate : 1061..
+State: Forward.
+
+Navigate : 1062..
+State: Forward.
+
+Navigate : 1063..
+State: Forward.
+
+Navigate : 1064..
+State: Forward.
+
+Navigate : 1065..
+State: Forward.
+
+Navigate : 1066..
+State: Forward.
+
+Navigate : 1067..
+State: Forward.
+
+Navigate : 1068..
+State: Forward.
+
+Navigate : 1069..
+State: Forward.
+
+Navigate : 1070..
+State: Forward.
+
+Navigate : 1071..
+State: Forward.
+
+Navigate : 1072..
+State: Forward.
+
+Navigate : 1073..
+State: Forward.
+
+Navigate : 1074..
+State: Forward.
+
+Navigate : 1075..
+State: Forward.
+
+Navigate : 1076..
+State: Forward.
+
+Navigate : 1077..
+State: Forward.
+
+Navigate : 1078..
+State: Forward.
+
+Navigate : 1079..
+State: Forward.
+
+Navigate : 1080..
+State: Forward.
+
+Navigate : 1081..
+State: Forward.
+
+Navigate : 1082..
+State: Forward.
+
+Navigate : 1083..
+State: Forward.
+
+Navigate : 1084..
+State: Forward.
+
+Navigate : 1085..
+State: Forward.
+
+Navigate : 1086..
+State: Forward.
+
+Navigate : 1087..
+State: Forward.
+
+Navigate : 1088..
+State: Forward.
+
+Navigate : 1089..
+State: Forward.
+
+Navigate : 1090..
+State: Forward.
+
+Navigate : 1091..
+State: Forward.
+
+Navigate : 1092..
+State: Forward.
+
+Navigate : 1093..
+State: Forward.
+
+Navigate : 1094..
+State: Forward.
+
+Navigate : 1095..
+State: Forward.
+
+Navigate : 1096..
+State: Forward.
+
+Navigate : 1097..
+State: Forward.
+
+Navigate : 1098..
+State: Forward.
+
+Navigate : 1099..
+State: Forward.
+
+Navigate : 1100..
+State: Forward.
+
+Navigate : 1101..
+State: Forward.
+
+Navigate : 1102..
+State: Forward.
+
+Navigate : 1103..
+State: Forward.
+
+Navigate : 1104..
+State: Forward.
+
+Navigate : 1105..
+State: Forward.
+
+Navigate : 1106..
+State: Forward.
+
+Navigate : 1107..
+State: Forward.
+
+Navigate : 1108..
+State: Forward.
+
+Navigate : 1109..
+State: Forward.
+
+Navigate : 1110..
+State: Forward.
+
+Navigate : 1111..
+State: Forward.
+
+Navigate : 1112..
+State: Forward.
+
+Navigate : 1113..
+State: Forward.
+
+Navigate : 1114..
+State: Forward.
+
+Navigate : 1115..
+State: Forward.
+
+Navigate : 1116..
+State: Forward.
+
+Navigate : 1117..
+State: Forward.
+
+Navigate : 1118..
+State: Forward.
+
+Navigate : 1119..
+State: Forward.
+
+Navigate : 1120..
+State: Forward.
+
+Navigate : 1121..
+State: Forward.
+
+Navigate : 1122..
+State: Forward.
+
+Navigate : 1123..
+State: Forward.
+
+Navigate : 1124..
+State: Forward.
+
+Navigate : 1125..
+State: Forward.
+
+Navigate : 1126..
+State: Forward.
+
+Navigate : 1127..
+State: Forward.
+
+Navigate : 1128..
+State: Forward.
+
+Navigate : 1129..
+State: Forward.
+
+Navigate : 1130..
+State: Forward.
+
+Navigate : 1131..
+State: Forward.
+
+Navigate : 1132..
+State: Forward.
+
+Navigate : 1133..
+State: Forward.
+
+Navigate : 1134..
+State: Forward.
+
+Navigate : 1135..
+State: Forward.
+
+Navigate : 1136..
+State: Forward.
+
+Navigate : 1137..
+State: Forward.
+
+Navigate : 1138..
+State: Forward.
+
+Navigate : 1139..
+State: Forward.
+
+Navigate : 1140..
+State: Forward.
+
+Navigate : 1141..
+State: Forward.
+
+Navigate : 1142..
+State: Forward.
+
+Navigate : 1143..
+State: Forward.
+
+Navigate : 1144..
+State: Forward.
+
+Navigate : 1145..
+State: Forward.
+
+Navigate : 1146..
+State: Forward.
+
+Navigate : 1147..
+State: Forward.
+
+Navigate : 1148..
+State: Forward.
+
+Navigate : 1149..
+State: Forward.
+
+Navigate : 1150..
+State: Forward.
+
+Navigate : 1151..
+State: Forward.
+
+Navigate : 1152..
+State: Forward.
+
+Navigate : 1153..
+State: Forward.
+
+Navigate : 1154..
+State: Prepare yaw.
+OffsetX:14.9999999996637
+OffsetY:-15.0000000006479
+Theoretical Current GPS ->
+Latitude:  0.556546125887373
+Longitude: 2.07366627519216
+Theoretical Next GPS ->
+Latitude:  0.556548477671287
+Longitude: 2.07366350540296
+Base Line K:-1.00000000013362
+Yaw:-43.7985954284668
+
+Navigate : 1155..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1156..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1157..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1158..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1159..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1160..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1161..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1162..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1163..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1164..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1165..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1166..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1167..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1168..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1169..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1170..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1171..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1172..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5190467834473
+
+Navigate : 1173..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:47.5038795471191
+
+Navigate : 1174..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1175..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1176..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1177..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1178..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1179..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1180..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1181..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1182..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1183..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1184..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1185..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1186..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1187..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1188..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:46.0734672546387
+
+Navigate : 1189..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1190..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1191..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1192..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1193..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1194..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1195..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1196..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1197..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1198..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1199..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1200..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1201..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1202..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1203..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1204..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1205..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1206..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1207..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1208..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1209..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1210..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1211..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1212..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1213..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1214..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1215..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1216..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1217..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1218..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1219..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1220..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1221..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:19.4184455871582
+
+Navigate : 1222..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1223..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1224..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1225..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1226..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1227..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1228..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1229..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1230..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1231..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1232..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1233..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1234..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1235..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1236..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1237..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1238..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1239..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1240..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1241..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1242..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1243..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1244..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1245..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1246..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1247..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1248..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1249..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1250..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1251..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1252..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1253..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1254..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-59.4319610595703
+
+Navigate : 1255..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-37.0293350219727
+
+Navigate : 1256..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-37.0293350219727
+
+Navigate : 1257..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-37.0293350219727
+
+Navigate : 1258..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-37.0293350219727
+
+Navigate : 1259..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1260..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1261..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1262..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1263..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1264..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1265..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1266..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1267..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1268..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1269..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1270..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1271..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1272..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1273..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1274..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1275..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1276..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1277..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1278..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1279..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1280..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1281..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1282..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1283..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1284..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1285..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1286..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1287..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1288..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1289..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1290..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1291..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1292..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1293..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1294..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1295..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1296..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1297..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1298..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1299..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1300..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1301..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1302..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1303..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1304..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1305..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1306..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1307..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1308..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-38.131893157959
+
+Navigate : 1309..
+State: Yawing.
+Dest yaw angle:-43.7985954284668	Crnt yaw angle:-43.3573112487793
+
+Navigate : 1310..
+State: Forward.
+
+Navigate : 1311..
+State: Forward.
+
+Navigate : 1312..
+State: Forward.
+
+Navigate : 1313..
+State: Forward.
+
+Navigate : 1314..
+State: Forward.
+
+Navigate : 1315..
+State: Forward.
+
+Navigate : 1316..
+State: Forward.
+
+Navigate : 1317..
+State: Forward.
+
+Navigate : 1318..
+State: Forward.
+
+Navigate : 1319..
+State: Forward.
+
+Navigate : 1320..
+State: Forward.
+
+Navigate : 1321..
+State: Forward.
+
+Navigate : 1322..
+State: Forward.
+
+Navigate : 1323..
+State: Forward.
+
+Navigate : 1324..
+State: Forward.
+
+Navigate : 1325..
+State: Forward.
+
+Navigate : 1326..
+State: Forward.
+
+Navigate : 1327..
+State: Forward.
+
+Navigate : 1328..
+State: Forward.
+
+Navigate : 1329..
+State: Forward.
+
+Navigate : 1330..
+State: Forward.
+
+Navigate : 1331..
+State: Forward.
+
+Navigate : 1332..
+State: Forward.
+
+Navigate : 1333..
+State: Forward.
+
+Navigate : 1334..
+State: Forward.
+
+Navigate : 1335..
+State: Forward.
+
+Navigate : 1336..
+State: Forward.
+
+Navigate : 1337..
+State: Forward.
+
+Navigate : 1338..
+State: Forward.
+
+Navigate : 1339..
+State: Forward.
+
+Navigate : 1340..
+State: Forward.
+
+Navigate : 1341..
+State: Forward.
+
+Navigate : 1342..
+State: Forward.
+
+Navigate : 1343..
+State: Forward.
+
+Navigate : 1344..
+State: Forward.
+
+Navigate : 1345..
+State: Forward.
+
+Navigate : 1346..
+State: Forward.
+
+Navigate : 1347..
+State: Forward.
+
+Navigate : 1348..
+State: Forward.
+
+Navigate : 1349..
+State: Forward.
+
+Navigate : 1350..
+State: Forward.
+
+Navigate : 1351..
+State: Forward.
+
+Navigate : 1352..
+State: Forward.
+
+Navigate : 1353..
+State: Forward.
+
+Navigate : 1354..
+State: Forward.
+
+Navigate : 1355..
+State: Forward.
+
+Navigate : 1356..
+State: Forward.
+
+Navigate : 1357..
+State: Forward.
+
+Navigate : 1358..
+State: Forward.
+
+Navigate : 1359..
+State: Forward.
+
+Navigate : 1360..
+State: Forward.
+
+Navigate : 1361..
+State: Forward.
+
+Navigate : 1362..
+State: Forward.
+
+Navigate : 1363..
+State: Forward.
+
+Navigate : 1364..
+State: Forward.
+
+Navigate : 1365..
+State: Forward.
+
+Navigate : 1366..
+State: Forward.
+
+Navigate : 1367..
+State: Forward.
+
+Navigate : 1368..
+State: Forward.
+
+Navigate : 1369..
+State: Forward.
+
+Navigate : 1370..
+State: Forward.
+
+Navigate : 1371..
+State: Forward.
+
+Navigate : 1372..
+State: Forward.
+
+Navigate : 1373..
+State: Forward.
+
+Navigate : 1374..
+State: Forward.
+
+Navigate : 1375..
+State: Forward.
+
+Navigate : 1376..
+State: Forward.
+
+Navigate : 1377..
+State: Forward.
+
+Navigate : 1378..
+State: Forward.
+
+Navigate : 1379..
+State: Forward.
+
+Navigate : 1380..
+State: Forward.
+
+Navigate : 1381..
+State: Forward.
+
+Navigate : 1382..
+State: Forward.
+
+Navigate : 1383..
+State: Forward.
+
+Navigate : 1384..
+State: Forward.
+
+Navigate : 1385..
+State: Forward.
+
+Navigate : 1386..
+State: Forward.
+
+Navigate : 1387..
+State: Forward.
+
+Navigate : 1388..
+State: Forward.
+
+Navigate : 1389..
+State: Forward.
+
+Navigate : 1390..
+State: Forward.
+
+Navigate : 1391..
+State: Forward.
+
+Navigate : 1392..
+State: Forward.
+
+Navigate : 1393..
+State: Forward.
+
+Navigate : 1394..
+State: Forward.
+
+Navigate : 1395..
+State: Forward.
+
+Navigate : 1396..
+State: Forward.
+
+Navigate : 1397..
+State: Forward.
+
+Navigate : 1398..
+State: Forward.
+
+Navigate : 1399..
+State: Forward.
+
+Navigate : 1400..
+State: Forward.
+
+Navigate : 1401..
+State: Forward.
+
+Navigate : 1402..
+State: Forward.
+
+Navigate : 1403..
+State: Forward.
+
+Navigate : 1404..
+State: Forward.
+
+Navigate : 1405..
+State: Forward.
+
+Navigate : 1406..
+State: Forward.
+
+Navigate : 1407..
+State: Forward.
+
+Navigate : 1408..
+State: Forward.
+
+Navigate : 1409..
+State: Forward.
+
+Navigate : 1410..
+State: Forward.
+
+Navigate : 1411..
+State: Forward.
+
+Navigate : 1412..
+State: Forward.
+
+Navigate : 1413..
+State: Forward.
+
+Navigate : 1414..
+State: Forward.
+
+Navigate : 1415..
+State: Forward.
+
+Navigate : 1416..
+State: Forward.
+
+Navigate : 1417..
+State: Forward.
+
+Navigate : 1418..
+State: Forward.
+
+Navigate : 1419..
+State: Forward.
+
+Navigate : 1420..
+State: Forward.
+
+Navigate : 1421..
+State: Forward.
+
+Navigate : 1422..
+State: Forward.
+
+Navigate : 1423..
+State: Forward.
+
+Navigate : 1424..
+State: Forward.
+
+Navigate : 1425..
+State: Forward.
+
+Navigate : 1426..
+State: Forward.
+
+Navigate : 1427..
+State: Forward.
+
+Navigate : 1428..
+State: Forward.
+
+Navigate : 1429..
+State: Forward.
+
+Navigate : 1430..
+State: Forward.
+
+Navigate : 1431..
+State: Forward.
+
+Navigate : 1432..
+State: Forward.
+
+Navigate : 1433..
+State: Forward.
+
+Navigate : 1434..
+State: Forward.
+
+Navigate : 1435..
+State: Forward.
+
+Navigate : 1436..
+State: Forward.
+
+Navigate : 1437..
+State: Forward.
+
+Navigate : 1438..
+State: Forward.
+
+Navigate : 1439..
+State: Forward.
+
+Navigate : 1440..
+State: Forward.
+
+Navigate : 1441..
+State: Forward.
+
+Navigate : 1442..
+State: Forward.
+
+Navigate : 1443..
+State: Forward.
+
+Navigate : 1444..
+State: Forward.
+
+Navigate : 1445..
+State: Forward.
+
+Navigate : 1446..
+State: Forward.
+
+Navigate : 1447..
+State: Forward.
+
+Navigate : 1448..
+State: Forward.
+
+Navigate : 1449..
+State: Forward.
+
+Navigate : 1450..
+State: Forward.
+
+Navigate : 1451..
+State: Forward.
+
+Navigate : 1452..
+State: Forward.
+
+Navigate : 1453..
+State: Forward.
+
+Navigate : 1454..
+State: Forward.
+
+Navigate : 1455..
+State: Forward.
+
+Navigate : 1456..
+State: Forward.
+
+Navigate : 1457..
+State: Forward.
+
+Navigate : 1458..
+State: Forward.
+
+Navigate : 1459..
+State: Forward.
+
+Navigate : 1460..
+State: Forward.
+
+Navigate : 1461..
+State: Forward.
+
+Navigate : 1462..
+State: Forward.
+
+Navigate : 1463..
+State: Forward.
+
+Navigate : 1464..
+State: Forward.
+
+Navigate : 1465..
+State: Forward.
+
+Navigate : 1466..
+State: Forward.
+
+Navigate : 1467..
+State: Forward.
+
+Navigate : 1468..
+State: Forward.
+
+Navigate : 1469..
+State: Forward.
+
+Navigate : 1470..
+State: Forward.
+
+Navigate : 1471..
+State: Forward.
+
+Navigate : 1472..
+State: Forward.
+
+Navigate : 1473..
+State: Forward.
+
+Navigate : 1474..
+State: Forward.
+
+Navigate : 1475..
+State: Forward.
+
+Navigate : 1476..
+State: Forward.
+
+Navigate : 1477..
+State: Forward.
+
+Navigate : 1478..
+State: Forward.
+
+Navigate : 1479..
+State: Forward.
+
+Navigate : 1480..
+State: Forward.
+
+Navigate : 1481..
+State: Forward.
+
+Navigate : 1482..
+State: Forward.
+
+Navigate : 1483..
+State: Forward.
+
+Navigate : 1484..
+State: Forward.
+
+Navigate : 1485..
+State: Forward.
+
+Navigate : 1486..
+State: Forward.
+
+Navigate : 1487..
+State: Forward.
+
+Navigate : 1488..
+State: Forward.
+
+Navigate : 1489..
+State: Forward.
+
+Navigate : 1490..
+State: Forward.
+
+Navigate : 1491..
+State: Forward.
+
+Navigate : 1492..
+State: Forward.
+
+Navigate : 1493..
+State: Forward.
+
+Navigate : 1494..
+State: Forward.
+
+Navigate : 1495..
+State: Forward.
+
+Navigate : 1496..
+State: Forward.
+
+Navigate : 1497..
+State: Forward.
+
+Navigate : 1498..
+State: Forward.
+
+Navigate : 1499..
+State: Forward.
+
+Navigate : 1500..
+State: Forward.
+
+Navigate : 1501..
+State: Forward.
+
+Navigate : 1502..
+State: Forward.
+
+Navigate : 1503..
+State: Forward.
+
+Navigate : 1504..
+State: Forward.
+
+Navigate : 1505..
+State: Forward.
+
+Navigate : 1506..
+State: Forward.
+
+Navigate : 1507..
+State: Forward.
+
+Navigate : 1508..
+State: Forward.
+
+Navigate : 1509..
+State: Forward.
+
+Navigate : 1510..
+State: Forward.
+
+Navigate : 1511..
+State: Forward.
+
+Navigate : 1512..
+State: Forward.
+
+Navigate : 1513..
+State: Forward.
+
+Navigate : 1514..
+State: Forward.
+
+Navigate : 1515..
+State: Forward.
+
+Navigate : 1516..
+State: Forward.
+
+Navigate : 1517..
+State: Forward.
+
+Navigate : 1518..
+State: Forward.
+
+Navigate : 1519..
+State: Forward.
+
+Navigate : 1520..
+State: Forward.
+
+Navigate : 1521..
+State: Forward.
+
+Navigate : 1522..
+State: Forward.
+
+Navigate : 1523..
+State: Forward.
+
+Navigate : 1524..
+State: Forward.
+
+Navigate : 1525..
+State: Forward.
+
+Navigate : 1526..
+State: Forward.
+
+Navigate : 1527..
+State: Forward.
+
+Navigate : 1528..
+State: Forward.
+
+Navigate : 1529..
+State: Forward.
+
+Navigate : 1530..
+State: Forward.
+
+Navigate : 1531..
+State: Forward.
+
+Navigate : 1532..
+State: Forward.
+
+Navigate : 1533..
+State: Forward.
+
+Navigate : 1534..
+State: Forward.
+
+Navigate : 1535..
+State: Forward.
+
+Navigate : 1536..
+State: Forward.
+
+Navigate : 1537..
+State: Forward.
+
+Navigate : 1538..
+State: Forward.
+
+Navigate : 1539..
+State: Forward.
+
+Navigate : 1540..
+State: Forward.
+
+Navigate : 1541..
+State: Forward.
+
+Navigate : 1542..
+State: Forward.
+
+Navigate : 1543..
+State: Forward.
+
+Navigate : 1544..
+State: Forward.
+
+Navigate : 1545..
+State: Forward.
+
+Navigate : 1546..
+State: Forward.
+
+Navigate : 1547..
+State: Forward.
+
+Navigate : 1548..
+State: Forward.
+
+Navigate : 1549..
+State: Forward.
+
+Navigate : 1550..
+State: Forward.
+
+Navigate : 1551..
+State: Forward.
+
+Navigate : 1552..
+State: Forward.
+
+Navigate : 1553..
+State: Forward.
+
+Navigate : 1554..
+State: Forward.
+
+Navigate : 1555..
+State: Forward.
+
+Navigate : 1556..
+State: Forward.
+
+Navigate : 1557..
+State: Forward.
+
+Navigate : 1558..
+State: Forward.
+
+Navigate : 1559..
+State: Forward.
+
+Navigate : 1560..
+State: Forward.
+
+Navigate : 1561..
+State: Forward.
+
+Navigate : 1562..
+State: Forward.
+
+Navigate : 1563..
+State: Forward.
+
+Navigate : 1564..
+State: Forward.
+
+Navigate : 1565..
+State: Forward.
+
+Navigate : 1566..
+State: Forward.
+
+Navigate : 1567..
+State: Forward.
+
+Navigate : 1568..
+State: Forward.
+
+Navigate : 1569..
+State: Forward.
+
+Navigate : 1570..
+State: Forward.
+
+Navigate : 1571..
+State: Forward.
+
+Navigate : 1572..
+State: Forward.
+
+Navigate : 1573..
+State: Forward.
+
+Navigate : 1574..
+State: Forward.
+
+Navigate : 1575..
+State: Forward.
+
+Navigate : 1576..
+State: Forward.
+
+Navigate : 1577..
+State: Forward.
+
+Navigate : 1578..
+State: Forward.
+
+Navigate : 1579..
+State: Forward.
+
+Navigate : 1580..
+State: Forward.
+
+Navigate : 1581..
+State: Forward.
+
+Navigate : 1582..
+State: Forward.
+
+Navigate : 1583..
+State: Forward.
+
+Navigate : 1584..
+State: Forward.
+
+Navigate : 1585..
+State: Forward.
+
+Navigate : 1586..
+State: Forward.
+
+Navigate : 1587..
+State: Forward.
+
+Navigate : 1588..
+State: Forward.
+
+Navigate : 1589..
+State: Forward.
+
+Navigate : 1590..
+State: Forward.
+
+Navigate : 1591..
+State: Forward.
+
+Navigate : 1592..
+State: Forward.
+
+Navigate : 1593..
+State: Forward.
+
+Navigate : 1594..
+State: Forward.
+
+Navigate : 1595..
+State: Forward.
+
+Navigate : 1596..
+State: Forward.
+
+Navigate : 1597..
+State: Forward.
+
+Navigate : 1598..
+State: Forward.
+
+Navigate : 1599..
+State: Forward.
+
+Navigate : 1600..
+State: Forward.
+
+Navigate : 1601..
+State: Forward.
+
+Navigate : 1602..
+State: Forward.
+
+Navigate : 1603..
+State: Forward.
+
+Navigate : 1604..
+State: Forward.
+
+Navigate : 1605..
+State: Forward.
+
+Navigate : 1606..
+State: Forward.
+
+Navigate : 1607..
+State: Forward.
+
+Navigate : 1608..
+State: Forward.
+
+Navigate : 1609..
+State: Forward.
+
+Navigate : 1610..
+State: Forward.
+
+Navigate : 1611..
+State: Forward.
+
+Navigate : 1612..
+State: Forward.
+
+Navigate : 1613..
+State: Forward.
+
+Navigate : 1614..
+State: Forward.
+
+Navigate : 1615..
+State: Forward.
+
+Navigate : 1616..
+State: Forward.
+
+Navigate : 1617..
+State: Forward.
+
+Navigate : 1618..
+State: Forward.
+
+Navigate : 1619..
+State: Forward.
+
+Navigate : 1620..
+State: Forward.
+
+Navigate : 1621..
+State: Forward.
+
+Navigate : 1622..
+State: Forward.
+
+Navigate : 1623..
+State: Forward.
+
+Navigate : 1624..
+State: Forward.
+
+Navigate : 1625..
+State: Forward.
+
+Navigate : 1626..
+State: Forward.
+
+Navigate : 1627..
+State: Forward.
+
+Navigate : 1628..
+State: Forward.
+
+Navigate : 1629..
+State: Forward.
+
+Navigate : 1630..
+State: Forward.
+
+Navigate : 1631..
+State: Forward.
+
+Navigate : 1632..
+State: Forward.
+
+Navigate : 1633..
+State: Forward.
+
+Navigate : 1634..
+State: Forward.
+
+Navigate : 1635..
+State: Forward.
+
+Navigate : 1636..
+State: Forward.
+
+Navigate : 1637..
+State: Forward.
+
+Navigate : 1638..
+State: Forward.
+
+Navigate : 1639..
+State: Forward.
+
+Navigate : 1640..
+State: Forward.
+
+Navigate : 1641..
+State: Forward.
+
+Navigate : 1642..
+State: Forward.
+
+Navigate : 1643..
+State: Forward.
+
+Navigate : 1644..
+State: Forward.
+
+Navigate : 1645..
+State: Forward.
+
+Navigate : 1646..
+State: Forward.
+
+Navigate : 1647..
+State: Forward.
+
+Navigate : 1648..
+State: Forward.
+
+Navigate : 1649..
+State: Forward.
+
+Navigate : 1650..
+State: Forward.
+
+Navigate : 1651..
+State: Forward.
+
+Navigate : 1652..
+State: Forward.
+
+Navigate : 1653..
+State: Forward.
+
+Navigate : 1654..
+State: Forward.
+
+Navigate : 1655..
+State: Forward.
+
+Navigate : 1656..
+State: Forward.
+
+Navigate : 1657..
+State: Forward.
+
+Navigate : 1658..
+State: Forward.
+
+Navigate : 1659..
+State: Forward.
+
+Navigate : 1660..
+State: Forward.
+
+Navigate : 1661..
+State: Forward.
+
+Navigate : 1662..
+State: Forward.
+
+Navigate : 1663..
+State: Forward.
+
+Navigate : 1664..
+State: Forward.
+
+Navigate : 1665..
+State: Forward.
+
+Navigate : 1666..
+State: Forward.
+
+Navigate : 1667..
+State: Forward.
+
+Navigate : 1668..
+State: Forward.
+
+Navigate : 1669..
+State: Forward.
+
+Navigate : 1670..
+State: Forward.
+
+Navigate : 1671..
+State: Forward.
+
+Navigate : 1672..
+State: Forward.
+
+Navigate : 1673..
+State: Forward.
+
+Navigate : 1674..
+State: Forward.
+
+Navigate : 1675..
+State: Forward.
+
+Navigate : 1676..
+State: Forward.
+
+Navigate : 1677..
+State: Forward.
+
+Navigate : 1678..
+State: Forward.
+
+Navigate : 1679..
+State: Forward.
+
+Navigate : 1680..
+State: Forward.
+
+Navigate : 1681..
+State: Forward.
+
+Navigate : 1682..
+State: Forward.
+
+Navigate : 1683..
+State: Forward.
+
+Navigate : 1684..
+State: Forward.
+
+Navigate : 1685..
+State: Forward.
+
+Navigate : 1686..
+State: Forward.
+
+Navigate : 1687..
+State: Forward.
+
+Navigate : 1688..
+State: Forward.
+
+Navigate : 1689..
+State: Forward.
+
+Navigate : 1690..
+State: Forward.
+
+Navigate : 1691..
+State: Forward.
+
+Navigate : 1692..
+State: Forward.
+
+Navigate : 1693..
+State: Forward.
+
+Navigate : 1694..
+State: Forward.
+
+Navigate : 1695..
+State: Forward.
+
+Navigate : 1696..
+State: Forward.
+
+Navigate : 1697..
+State: Forward.
+
+Navigate : 1698..
+State: Forward.
+
+Navigate : 1699..
+State: Forward.
+
+Navigate : 1700..
+State: Forward.
+
+Navigate : 1701..
+State: Forward.
+
+Navigate : 1702..
+State: Forward.
+
+Navigate : 1703..
+State: Forward.
+
+Navigate : 1704..
+State: Forward.
+
+Navigate : 1705..
+State: Forward.
+
+Navigate : 1706..
+State: Forward.
+
+Navigate : 1707..
+State: Forward.
+
+Navigate : 1708..
+State: Forward.
+
+Navigate : 1709..
+State: Forward.
+
+Navigate : 1710..
+State: Forward.
+
+Navigate : 1711..
+State: Forward.
+
+Navigate : 1712..
+State: Forward.
+
+Navigate : 1713..
+State: Forward.
+
+Navigate : 1714..
+State: Forward.
+
+Navigate : 1715..
+State: Forward.
+
+Navigate : 1716..
+State: Forward.
+
+Navigate : 1717..
+State: Forward.
+
+Navigate : 1718..
+State: Forward.
+
+Navigate : 1719..
+State: Forward.
+
+Navigate : 1720..
+State: Forward.
+
+Navigate : 1721..
+State: Forward.
+
+Navigate : 1722..
+State: Forward.
+
+Navigate : 1723..
+State: Forward.
+
+Navigate : 1724..
+State: Forward.
+
+Navigate : 1725..
+State: Forward.
+
+Navigate : 1726..
+State: Forward.
+
+Navigate : 1727..
+State: Forward.
+
+Navigate : 1728..
+State: Forward.
+
+Navigate : 1729..
+State: Forward.
+
+Navigate : 1730..
+State: Forward.
+
+Navigate : 1731..
+State: Forward.
+
+Navigate : 1732..
+State: Forward.
+
+Navigate : 1733..
+State: Forward.
+
+Navigate : 1734..
+State: Forward.
+
+Navigate : 1735..
+State: Forward.
+
+Navigate : 1736..
+State: Forward.
+
+Navigate : 1737..
+State: Forward.
+
+Navigate : 1738..
+State: Forward.
+
+Navigate : 1739..
+State: Forward.
+
+Navigate : 1740..
+State: Forward.
+
+Navigate : 1741..
+State: Forward.
+
+Navigate : 1742..
+State: Forward.
+
+Navigate : 1743..
+State: Forward.
+
+Navigate : 1744..
+State: Forward.
+
+Navigate : 1745..
+State: Forward.
+
+Navigate : 1746..
+State: Forward.
+
+Navigate : 1747..
+State: Forward.
+
+Navigate : 1748..
+State: Forward.
+
+Navigate : 1749..
+State: Forward.
+
+Navigate : 1750..
+State: Forward.
+
+Navigate : 1751..
+State: Forward.
+
+Navigate : 1752..
+State: Forward.
+
+Navigate : 1753..
+State: Forward.
+
+Navigate : 1754..
+State: Forward.
+
+Navigate : 1755..
+State: Forward.
+
+Navigate : 1756..
+State: Forward.
+
+Navigate : 1757..
+State: Forward.
+
+Navigate : 1758..
+State: Forward.
+
+Navigate : 1759..
+State: Forward.
+
+Navigate : 1760..
+State: Forward.
+
+Navigate : 1761..
+State: Forward.
+
+Navigate : 1762..
+State: Forward.
+
+Navigate : 1763..
+State: Forward.
+
+Navigate : 1764..
+State: Forward.
+
+Navigate : 1765..
+State: Forward.
+
+Navigate : 1766..
+State: Forward.
+
+Navigate : 1767..
+State: Forward.
+
+Navigate : 1768..
+State: Forward.
+
+Navigate : 1769..
+State: Forward.
+
+Navigate : 1770..
+State: Forward.
+
+Navigate : 1771..
+State: Forward.
+
+Navigate : 1772..
+State: Forward.
+
+Navigate : 1773..
+State: Forward.
+
+Navigate : 1774..
+State: Forward.
+
+Navigate : 1775..
+State: Forward.
+
+Navigate : 1776..
+State: Forward.
+
+Navigate : 1777..
+State: Forward.
+
+Navigate : 1778..
+State: Forward.
+
+Navigate : 1779..
+State: Forward.
+
+Navigate : 1780..
+State: Forward.
+
+Navigate : 1781..
+State: Forward.
+
+Navigate : 1782..
+State: Forward.
+
+Navigate : 1783..
+State: Forward.
+
+Navigate : 1784..
+State: Forward.
+
+Navigate : 1785..
+State: Forward.
+
+Navigate : 1786..
+State: Forward.
+
+Navigate : 1787..
+State: Forward.
+
+Navigate : 1788..
+State: Forward.
+
+Navigate : 1789..
+State: Forward.
+
+Navigate : 1790..
+State: Forward.
+
+Navigate : 1791..
+State: Forward.
+
+Navigate : 1792..
+State: Forward.
+
+Navigate : 1793..
+State: Forward.
+
+Navigate : 1794..
+State: Forward.
+
+Navigate : 1795..
+State: Forward.
+
+Navigate : 1796..
+State: Forward.
+
+Navigate : 1797..
+State: Forward.
+
+Navigate : 1798..
+State: Forward.
+
+Navigate : 1799..
+State: Forward.
+
+Navigate : 1800..
+State: Obstacle Avoidance.
+
+Navigate : 1801..
+State: Obstacle Avoidance.
+
+Navigate : 1802..
+State: Obstacle Avoidance.
+
+Navigate : 1803..
+State: Obstacle Avoidance.
+
+Navigate : 1804..
+State: Obstacle Avoidance.
+
+Navigate : 1805..
+State: Obstacle Avoidance.
+
+Navigate : 1806..
+State: Obstacle Avoidance.
+
+Navigate : 1807..
+State: Obstacle Avoidance.
+
+Navigate : 1808..
+State: Obstacle Avoidance.
+
+Navigate : 1809..
+State: Obstacle Avoidance.
+
+Navigate : 1810..
+State: Obstacle Avoidance.
+
+Navigate : 1811..
+State: Obstacle Avoidance.
+
+Navigate : 1812..
+State: Obstacle Avoidance.
+
+Navigate : 1813..
+State: Obstacle Avoidance.
+
+Navigate : 1814..
+State: Obstacle Avoidance.
+
+Navigate : 1815..
+State: Obstacle Avoidance.
+
+Navigate : 1816..
+State: Obstacle Avoidance.
+
+Navigate : 1817..
+State: Obstacle Avoidance.
+
+Navigate : 1818..
+State: Obstacle Avoidance.
+
+Navigate : 1819..
+State: Obstacle Avoidance.
+
+Navigate : 1820..
+State: Obstacle Avoidance.
+
+Navigate : 1821..
+State: Obstacle Avoidance.
+
+Navigate : 1822..
+State: Obstacle Avoidance.
+
+Navigate : 1823..
+State: Obstacle Avoidance.
+
+Navigate : 1824..
+State: Obstacle Avoidance.
+
+Navigate : 1825..
+State: Obstacle Avoidance.
+
+Navigate : 1826..
+State: Obstacle Avoidance.
+
+Navigate : 1827..
+State: Obstacle Avoidance.
+
+Navigate : 1828..
+State: Obstacle Avoidance.
+
+Navigate : 1829..
+State: Obstacle Avoidance.
+
+Navigate : 1830..
+State: Obstacle Avoidance.
+
+Navigate : 1831..
+State: Back to line.
+Distance:-0.835174071989838
+
+Navigate : 1832..
+State: Back to line.
+Distance:-0.835174071989838
+
+Navigate : 1833..
+State: Back to line.
+Distance:-0.835174071989838
+
+Navigate : 1834..
+State: Back to line.
+Distance:-0.835174071989838
+
+Navigate : 1835..
+State: Back to line.
+Distance:-0.835174071989838
+
+Navigate : 1836..
+State: BTL forward.
+
+Navigate : 1837..
+State: BTL forward.
+
+Navigate : 1838..
+State: BTL forward.
+
+Navigate : 1839..
+State: BTL forward.
+
+Navigate : 1840..
+State: BTL forward.
+
+Navigate : 1841..
+State: BTL forward.
+
+Navigate : 1842..
+State: BTL forward.
+
+Navigate : 1843..
+State: BTL forward.
+
+Navigate : 1844..
+State: BTL forward.
+
+Navigate : 1845..
+State: BTL forward.
+
+Navigate : 1846..
+State: BTL forward.
+
+Navigate : 1847..
+State: BTL forward.
+
+Navigate : 1848..
+State: BTL forward.
+
+Navigate : 1849..
+State: BTL forward.
+
+Navigate : 1850..
+State: BTL forward.
+
+Navigate : 1851..
+State: BTL forward.
+
+Navigate : 1852..
+State: BTL forward.
+
+Navigate : 1853..
+State: BTL forward.
+
+Navigate : 1854..
+State: BTL forward.
+
+Navigate : 1855..
+State: BTL forward.
+
+Navigate : 1856..
+State: BTL forward.
+
+Navigate : 1857..
+State: BTL forward.
+
+Navigate : 1858..
+State: BTL forward.
+
+Navigate : 1859..
+State: BTL forward.
+
+Navigate : 1860..
+State: BTL forward.
+
+Navigate : 1861..
+State: BTL forward.
+
+Navigate : 1862..
+State: BTL forward.
+
+Navigate : 1863..
+State: BTL forward.
+
+Navigate : 1864..
+State: BTL forward.
+
+Navigate : 1865..
+State: BTL forward.
+
+Navigate : 1866..
+State: BTL forward.
+
+Navigate : 1867..
+State: BTL forward.
+
+Navigate : 1868..
+State: BTL forward.
+
+Navigate : 1869..
+State: BTL forward.
+
+Navigate : 1870..
+State: BTL forward.
+
+Navigate : 1871..
+State: BTL forward.
+
+Navigate : 1872..
+State: BTL forward.
+
+Navigate : 1873..
+State: BTL forward.
+
+Navigate : 1874..
+State: BTL forward.
+
+Navigate : 1875..
+State: BTL forward.
+
+Navigate : 1876..
+State: BTL forward.
+
+Navigate : 1877..
+State: BTL forward.
+
+Navigate : 1878..
+State: BTL forward.
+
+Navigate : 1879..
+State: BTL forward.
+
+Navigate : 1880..
+State: BTL forward.
+
+Navigate : 1881..
+State: BTL forward.
+
+Navigate : 1882..
+State: BTL forward.
+
+Navigate : 1883..
+State: BTL forward.
+
+Navigate : 1884..
+State: BTL forward.
+
+Navigate : 1885..
+State: BTL forward.
+
+Navigate : 1886..
+State: BTL forward.
+
+Navigate : 1887..
+State: BTL forward.
+
+Navigate : 1888..
+State: BTL forward.
+
+Navigate : 1889..
+State: BTL forward.
+
+Navigate : 1890..
+State: BTL forward.
+
+Navigate : 1891..
+State: BTL forward.
+
+Navigate : 1892..
+State: BTL forward.
+
+Navigate : 1893..
+State: BTL forward.
+
+Navigate : 1894..
+State: Obstacle Avoidance.
+
+Navigate : 1895..
+State: Obstacle Avoidance.
+
+Navigate : 1896..
+State: Obstacle Avoidance.
+
+Navigate : 1897..
+State: Obstacle Avoidance.
+
+Navigate : 1898..
+State: Obstacle Avoidance.
+
+Navigate : 1899..
+State: Obstacle Avoidance.
+
+Navigate : 1900..
+State: Obstacle Avoidance.
+
+Navigate : 1901..
+State: Obstacle Avoidance.
+
+Navigate : 1902..
+State: Obstacle Avoidance.
+
+Navigate : 1903..
+State: Obstacle Avoidance.
+
+Navigate : 1904..
+State: Obstacle Avoidance.
+
+Navigate : 1905..
+State: Obstacle Avoidance.
+
+Navigate : 1906..
+State: Back to line.
+Distance:-0.86533673324682
+
+Navigate : 1907..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1908..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1909..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1910..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1911..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1912..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1913..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1914..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1915..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1916..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1917..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1918..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1919..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1920..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1921..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1922..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1923..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1924..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1925..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1926..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1927..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1928..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1929..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1930..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1931..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1932..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1933..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1934..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1935..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1936..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1937..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1938..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1939..
+State: Back to line.
+Distance:-0.796968800375513
+
+Navigate : 1940..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1941..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1942..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1943..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1944..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1945..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1946..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1947..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1948..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1949..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1950..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1951..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1952..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1953..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1954..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1955..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1956..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1957..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1958..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1959..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1960..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1961..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1962..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1963..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1964..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1965..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1966..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1967..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1968..
+State: Back to line.
+Distance:-0.303190155007407
+
+Navigate : 1969..
+State: Back to line.
+Distance:0.645071655229539
+
+Navigate : 1970..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1971..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1972..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1973..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1974..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1975..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1976..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1977..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1978..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1979..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1980..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1981..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1982..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1983..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1984..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1985..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1986..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1987..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1988..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1989..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1990..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1991..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1992..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1993..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1994..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1995..
+State: Back to line.
+Distance:0.780813773619083
+
+Navigate : 1996..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 1997..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 1998..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 1999..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2000..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2001..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2002..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2003..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2004..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2005..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2006..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2007..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2008..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2009..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2010..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2011..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2012..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2013..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2014..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2015..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2016..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2017..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2018..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2019..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2020..
+State: Back to line.
+Distance:0.777622094841117
+
+Navigate : 2021..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2022..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2023..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2024..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2025..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2026..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2027..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2028..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2029..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2030..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2031..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2032..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2033..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2034..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2035..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2036..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2037..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2038..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2039..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2040..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2041..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2042..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2043..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2044..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2045..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2046..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2047..
+State: Back to line.
+Distance:-0.409005478001663
+
+Navigate : 2048..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2049..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2050..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2051..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2052..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2053..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2054..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2055..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2056..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2057..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2058..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2059..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2060..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2061..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2062..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2063..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2064..
+State: Back to line.
+Distance:-0.556674863719959
+
+Navigate : 2065..
+State: Back to line.
+Distance:-0.0154689288975812
+
+Navigate : 2066..
+State: Forward.
+
+Navigate : 2067..
+State: Forward.
+
+Navigate : 2068..
+State: Forward.
+
+Navigate : 2069..
+State: Forward.
+
+Navigate : 2070..
+State: Forward.
+
+Navigate : 2071..
+State: Forward.
+
+Navigate : 2072..
+State: Forward.
+
+Navigate : 2073..
+State: Forward.
+
+Navigate : 2074..
+State: Forward.
+
+Navigate : 2075..
+State: Forward.
+
+Navigate : 2076..
+State: Forward.
+
+Navigate : 2077..
+State: Forward.
+
+Navigate : 2078..
+State: Forward.
+
+Navigate : 2079..
+State: Forward.
+
+Navigate : 2080..
+State: Forward.
+
+Navigate : 2081..
+State: Forward.
+
+Navigate : 2082..
+State: Forward.
+
+Navigate : 2083..
+State: Forward.
+
+Navigate : 2084..
+State: Forward.
+
+Navigate : 2085..
+State: Forward.
+
+Navigate : 2086..
+State: Forward.
+
+Navigate : 2087..
+State: Forward.
+
+Navigate : 2088..
+State: Forward.
+
+Navigate : 2089..
+State: Forward.
+
+Navigate : 2090..
+State: Forward.
+
+Navigate : 2091..
+State: Forward.
+
+Navigate : 2092..
+State: Forward.
+
+Navigate : 2093..
+State: Forward.
+
+Navigate : 2094..
+State: Forward.
+
+Navigate : 2095..
+State: Forward.
+
+Navigate : 2096..
+State: Forward.
+
+Navigate : 2097..
+State: Forward.
+
+Navigate : 2098..
+State: Forward.
+
+Navigate : 2099..
+State: Forward.
+
+Navigate : 2100..
+State: Forward.
+
+Navigate : 2101..
+State: Forward.
+
+Navigate : 2102..
+State: Forward.
+
+Navigate : 2103..
+State: Forward.
+
+Navigate : 2104..
+State: Forward.
+
+Navigate : 2105..
+State: Forward.
+
+Navigate : 2106..
+State: Forward.
+
+Navigate : 2107..
+State: Forward.
+
+Navigate : 2108..
+State: Forward.
+
+Navigate : 2109..
+State: Forward.
+
+Navigate : 2110..
+State: Forward.
+
+Navigate : 2111..
+State: Forward.
+
+Navigate : 2112..
+State: Forward.
+
+Navigate : 2113..
+State: Forward.
+
+Navigate : 2114..
+State: Forward.
+
+Navigate : 2115..
+State: Forward.
+
+Navigate : 2116..
+State: Forward.
+
+Navigate : 2117..
+State: Forward.
+
+Navigate : 2118..
+State: Forward.
+
+Navigate : 2119..
+State: Forward.
+
+Navigate : 2120..
+State: Forward.
+
+Navigate : 2121..
+State: Forward.
+
+Navigate : 2122..
+State: Forward.
+
+Navigate : 2123..
+State: Forward.
+
+Navigate : 2124..
+State: Forward.
+
+Navigate : 2125..
+State: Forward.
+
+Navigate : 2126..
+State: Forward.
+
+Navigate : 2127..
+State: Forward.
+
+Navigate : 2128..
+State: Forward.
+
+Navigate : 2129..
+State: Forward.
+
+Navigate : 2130..
+State: Forward.
+
+Navigate : 2131..
+State: Forward.
+
+Navigate : 2132..
+State: Forward.
+
+Navigate : 2133..
+State: Forward.
+
+Navigate : 2134..
+State: Forward.
+
+Navigate : 2135..
+State: Forward.
+
+Navigate : 2136..
+State: Forward.
+
+Navigate : 2137..
+State: Forward.
+
+Navigate : 2138..
+State: Forward.
+
+Navigate : 2139..
+State: Forward.
+
+Navigate : 2140..
+State: Forward.
+
+Navigate : 2141..
+State: Forward.
+
+Navigate : 2142..
+State: Forward.
+
+Navigate : 2143..
+State: Forward.
+
+Navigate : 2144..
+State: Forward.
+
+Navigate : 2145..
+State: Forward.
+
+Navigate : 2146..
+State: Forward.
+
+Navigate : 2147..
+State: Forward.
+
+Navigate : 2148..
+State: Forward.
+
+Navigate : 2149..
+State: Forward.
+
+Navigate : 2150..
+State: Forward.
+
+Navigate : 2151..
+State: Forward.
+
+Navigate : 2152..
+State: Forward.
+
+Navigate : 2153..
+State: Forward.
+
+Navigate : 2154..
+State: Forward.
+
+Navigate : 2155..
+State: Forward.
+
+Navigate : 2156..
+State: Forward.
+
+Navigate : 2157..
+State: Forward.
+
+Navigate : 2158..
+State: Forward.
+
+Navigate : 2159..
+State: Forward.
+
+Navigate : 2160..
+State: Forward.
+
+Navigate : 2161..
+State: Forward.
+
+Navigate : 2162..
+State: Forward.
+
+Navigate : 2163..
+State: Forward.
+
+Navigate : 2164..
+State: Forward.
+
+Navigate : 2165..
+State: Forward.
+
+Navigate : 2166..
+State: Forward.
+
+Navigate : 2167..
+State: Forward.
+
+Navigate : 2168..
+State: Forward.
+
+Navigate : 2169..
+State: Forward.
+
+Navigate : 2170..
+State: Forward.
+
+Navigate : 2171..
+State: Forward.
+
+Navigate : 2172..
+State: Forward.
+
+Navigate : 2173..
+State: Forward.
+
+Navigate : 2174..
+State: Forward.
+
+Navigate : 2175..
+State: Forward.
+
+Navigate : 2176..
+State: Forward.
+
+Navigate : 2177..
+State: Forward.
+
+Navigate : 2178..
+State: Forward.
+
+Navigate : 2179..
+State: Forward.
+
+Navigate : 2180..
+State: Forward.
+
+Navigate : 2181..
+State: Forward.
+
+Navigate : 2182..
+State: Forward.
+
+Navigate : 2183..
+State: Forward.
+
+Navigate : 2184..
+State: Forward.
+
+Navigate : 2185..
+State: Forward.
+
+Navigate : 2186..
+State: Forward.
+
+Navigate : 2187..
+State: Forward.
+
+Navigate : 2188..
+State: Forward.
+
+Navigate : 2189..
+State: Forward.
+
+Navigate : 2190..
+State: Forward.
+
+Navigate : 2191..
+State: Forward.
+
+Navigate : 2192..
+State: Forward.
+
+Navigate : 2193..
+State: Forward.
+
+Navigate : 2194..
+State: Forward.
+
+Navigate : 2195..
+State: Forward.
+
+Navigate : 2196..
+State: Forward.
+
+Navigate : 2197..
+State: Forward.
+
+Navigate : 2198..
+State: Forward.
+
+Navigate : 2199..
+State: Forward.
+
+Navigate : 2200..
+State: Forward.
+
+Navigate : 2201..
+State: Forward.
+
+Navigate : 2202..
+State: Forward.
+
+Navigate : 2203..
+State: Forward.
+
+Navigate : 2204..
+State: Forward.
+
+Navigate : 2205..
+State: Forward.
+
+Navigate : 2206..
+State: Forward.
+
+Navigate : 2207..
+State: Forward.
+
+Navigate : 2208..
+State: Forward.
+
+Navigate : 2209..
+State: Forward.
+
+Navigate : 2210..
+State: Forward.
+
+Navigate : 2211..
+State: Forward.
+
+Navigate : 2212..
+State: Forward.
+
+Navigate : 2213..
+State: Forward.
+
+Navigate : 2214..
+State: Forward.
+
+Navigate : 2215..
+State: Forward.
+
+Navigate : 2216..
+State: Forward.
+
+Navigate : 2217..
+State: Forward.
+
+Navigate : 2218..
+State: Forward.
+
+Navigate : 2219..
+State: Forward.
+
+Navigate : 2220..
+State: Forward.
+
+Navigate : 2221..
+State: Forward.
+
+Navigate : 2222..
+State: Prepare yaw.
+OffsetX:2.1213187917014
+OffsetY:2.12132189541675
+Theoretical Current GPS ->
+Latitude:  0.556548477671287
+Longitude: 2.07366350540411
+Theoretical Next GPS ->
+Latitude:  0.556548810263514
+Longitude: 2.07366389711207
+Base Line K:1.0000000001005
+Yaw:39.8315277099609
+
+Navigate : 2223..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2224..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2225..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2226..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2227..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2228..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2229..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2230..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2231..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2232..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2233..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2234..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2235..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2236..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2237..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2238..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2239..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2240..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2241..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2242..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2243..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2244..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.644088745117
+
+Navigate : 2245..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.62060546875
+
+Navigate : 2246..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:162.62060546875
+
+Navigate : 2247..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2248..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2249..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2250..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2251..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2252..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2253..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2254..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2255..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2256..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2257..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2258..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2259..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2260..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2261..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2262..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2263..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2264..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2265..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2266..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2267..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2268..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2269..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2270..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:155.96630859375
+
+Navigate : 2271..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:78.5079879760742
+
+Navigate : 2272..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:78.5079879760742
+
+Navigate : 2273..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2274..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2275..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2276..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2277..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2278..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2279..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2280..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2281..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2282..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2283..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2284..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2285..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2286..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2287..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2288..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2289..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2290..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2291..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2292..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2293..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2294..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2295..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2296..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2297..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2298..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:62.8374099731445
+
+Navigate : 2299..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:47.6746673583984
+
+Navigate : 2300..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2301..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2302..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2303..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2304..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2305..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2306..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2307..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2308..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2309..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2310..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2311..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2312..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2313..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2314..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2315..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2316..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2317..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2318..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2319..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2320..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2321..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2322..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2323..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2324..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:28.7685546875
+
+Navigate : 2325..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2326..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2327..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2328..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2329..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2330..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2331..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2332..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2333..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2334..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2335..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2336..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2337..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2338..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2339..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2340..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2341..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2342..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2343..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2344..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2345..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2346..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2347..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2348..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2349..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2350..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2351..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:45.3550491333008
+
+Navigate : 2352..
+State: Yawing.
+Dest yaw angle:39.8315277099609	Crnt yaw angle:37.608341217041
+
+Navigate : 2353..
+State: Forward.
+
+Navigate : 2354..
+State: Forward.
+
+Navigate : 2355..
+State: Forward.
+
+Navigate : 2356..
+State: Forward.
+
+Navigate : 2357..
+State: Forward.
+
+Navigate : 2358..
+State: Forward.
+
+Navigate : 2359..
+State: Forward.
+
+Navigate : 2360..
+State: Forward.
+
+Navigate : 2361..
+State: Forward.
+
+Navigate : 2362..
+State: Forward.
+
+Navigate : 2363..
+State: Forward.
+
+Navigate : 2364..
+State: Forward.
+
+Navigate : 2365..
+State: Forward.
+
+Navigate : 2366..
+State: Forward.
+
+Navigate : 2367..
+State: Forward.
+
+Navigate : 2368..
+State: Forward.
+
+Navigate : 2369..
+State: Forward.
+
+Navigate : 2370..
+State: Forward.
+
+Navigate : 2371..
+State: Forward.
+
+Navigate : 2372..
+State: Forward.
+
+Navigate : 2373..
+State: Forward.
+
+Navigate : 2374..
+State: Forward.
+
+Navigate : 2375..
+State: Forward.
+
+Navigate : 2376..
+State: Forward.
+
+Navigate : 2377..
+State: Forward.
+
+Navigate : 2378..
+State: Forward.
+
+Navigate : 2379..
+State: Forward.
+
+Navigate : 2380..
+State: Forward.
+
+Navigate : 2381..
+State: Forward.
+
+Navigate : 2382..
+State: Forward.
+
+Navigate : 2383..
+State: Forward.
+
+Navigate : 2384..
+State: Forward.
+
+Navigate : 2385..
+State: Forward.
+
+Navigate : 2386..
+State: Forward.
+
+Navigate : 2387..
+State: Forward.
+
+Navigate : 2388..
+State: Forward.
+
+Navigate : 2389..
+State: Forward.
+
+Navigate : 2390..
+State: Forward.
+
+Navigate : 2391..
+State: Forward.
+
+Navigate : 2392..
+State: Forward.
+
+Navigate : 2393..
+State: Forward.
+
+Navigate : 2394..
+State: Forward.
+
+Navigate : 2395..
+State: Forward.
+
+Navigate : 2396..
+State: Forward.
+
+Navigate : 2397..
+State: Forward.
+
+Navigate : 2398..
+State: Forward.
+
+Navigate : 2399..
+State: Forward.
+
+Navigate : 2400..
+State: Forward.
+
+Navigate : 2401..
+State: Forward.
+
+Navigate : 2402..
+State: Forward.
+
+Navigate : 2403..
+State: Forward.
+
+Navigate : 2404..
+State: Forward.
+
+Navigate : 2405..
+State: Forward.
+
+Navigate : 2406..
+State: Forward.
+
+Navigate : 2407..
+State: Forward.
+
+Navigate : 2408..
+State: Forward.
+
+Navigate : 2409..
+State: Forward.
+
+Navigate : 2410..
+State: Forward.
+
+Navigate : 2411..
+State: Forward.
+
+Navigate : 2412..
+State: Forward.
+
+Navigate : 2413..
+State: Forward.
+
+Navigate : 2414..
+State: Forward.
+
+Navigate : 2415..
+State: Forward.
+
+Navigate : 2416..
+State: Forward.
+
+Navigate : 2417..
+State: Forward.
+
+Navigate : 2418..
+State: Forward.
+
+Navigate : 2419..
+State: Forward.
+
+Navigate : 2420..
+State: Forward.
+
+Navigate : 2421..
+State: Forward.
+
+Navigate : 2422..
+State: Forward.
+
+Navigate : 2423..
+State: Forward.
+
+Navigate : 2424..
+State: Forward.
+
+Navigate : 2425..
+State: Forward.
+
+Navigate : 2426..
+State: Forward.
+
+Navigate : 2427..
+State: Forward.
+
+Navigate : 2428..
+State: Forward.
+
+Navigate : 2429..
+State: Forward.
+
+Navigate : 2430..
+State: Forward.
+
+Navigate : 2431..
+State: Forward.
+
+Navigate : 2432..
+State: Forward.
+
+Navigate : 2433..
+State: Forward.
+
+Navigate : 2434..
+State: Forward.
+
+Navigate : 2435..
+State: Forward.
+
+Navigate : 2436..
+State: Forward.
+
+Navigate : 2437..
+State: Forward.
+
+Navigate : 2438..
+State: Forward.
+
+Navigate : 2439..
+State: Forward.
+
+Navigate : 2440..
+State: Forward.
+
+Navigate : 2441..
+State: Forward.
+
+Navigate : 2442..
+State: Forward.
+
+Navigate : 2443..
+State: Forward.
+
+Navigate : 2444..
+State: Forward.
+
+Navigate : 2445..
+State: Forward.
+
+Navigate : 2446..
+State: Forward.
+
+Navigate : 2447..
+State: Forward.
+
+Navigate : 2448..
+State: Forward.
+
+Navigate : 2449..
+State: Forward.
+
+Navigate : 2450..
+State: Forward.
+
+Navigate : 2451..
+State: Forward.
+
+Navigate : 2452..
+State: Forward.
+
+Navigate : 2453..
+State: Forward.
+
+Navigate : 2454..
+State: Forward.
+
+Navigate : 2455..
+State: Forward.
+
+Navigate : 2456..
+State: Prepare yaw.
+OffsetX:-14.9999999996637
+OffsetY:15.0000000006479
+Theoretical Current GPS ->
+Latitude:  0.556548810263514
+Longitude: 2.07366389711207
+Theoretical Next GPS ->
+Latitude:  0.5565464584796
+Longitude: 2.07366666690183
+Base Line K:-1.00000000004109
+Yaw:138.122833251953
+
+Navigate : 2457..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2458..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2459..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2460..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2461..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2462..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2463..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2464..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2465..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2466..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2467..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2468..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2469..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2470..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6453170776367
+
+Navigate : 2471..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2472..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2473..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2474..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2475..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2476..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2477..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2478..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2479..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2480..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2481..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2482..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:30.6802024841309
+
+Navigate : 2483..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2484..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2485..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2486..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2487..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2488..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2489..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2490..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2491..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2492..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2493..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2494..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2495..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2496..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2497..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2498..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2499..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2500..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2501..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2502..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2503..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2504..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2505..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2506..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2507..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2508..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2509..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2510..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2511..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:46.8034782409668
+
+Navigate : 2512..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2513..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2514..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2515..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2516..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2517..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2518..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2519..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2520..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2521..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2522..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2523..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2524..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2525..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2526..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2527..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2528..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2529..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2530..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2531..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2532..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2533..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2534..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2535..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2536..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2537..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2538..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2539..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:143.697418212891
+
+Navigate : 2540..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2541..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2542..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2543..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2544..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2545..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2546..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2547..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2548..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2549..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2550..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2551..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2552..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2553..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2554..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2555..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2556..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2557..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2558..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2559..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2560..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2561..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2562..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2563..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2564..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:134.189331054688
+
+Navigate : 2565..
+State: Yawing.
+Dest yaw angle:138.122833251953	Crnt yaw angle:138.798828125
+
+Navigate : 2566..
+State: Forward.
+
+Navigate : 2567..
+State: Forward.
+
+Navigate : 2568..
+State: Forward.
+
+Navigate : 2569..
+State: Forward.
+
+Navigate : 2570..
+State: Forward.
+
+Navigate : 2571..
+State: Forward.
+
+Navigate : 2572..
+State: Forward.
+
+Navigate : 2573..
+State: Forward.
+
+Navigate : 2574..
+State: Forward.
+
+Navigate : 2575..
+State: Forward.
+
+Navigate : 2576..
+State: Forward.
+
+Navigate : 2577..
+State: Forward.
+
+Navigate : 2578..
+State: Forward.
+
+Navigate : 2579..
+State: Forward.
+
+Navigate : 2580..
+State: Forward.
+
+Navigate : 2581..
+State: Forward.
+
+Navigate : 2582..
+State: Forward.
+
+Navigate : 2583..
+State: Forward.
+
+Navigate : 2584..
+State: Forward.
+
+Navigate : 2585..
+State: Forward.
+
+Navigate : 2586..
+State: Forward.
+
+Navigate : 2587..
+State: Forward.
+
+Navigate : 2588..
+State: Forward.
+
+Navigate : 2589..
+State: Forward.
+
+Navigate : 2590..
+State: Forward.
+
+Navigate : 2591..
+State: Forward.
+
+Navigate : 2592..
+State: Forward.
+
+Navigate : 2593..
+State: Forward.
+
+Navigate : 2594..
+State: Forward.
+
+Navigate : 2595..
+State: Forward.
+
+Navigate : 2596..
+State: Forward.
+
+Navigate : 2597..
+State: Forward.
+
+Navigate : 2598..
+State: Forward.
+
+Navigate : 2599..
+State: Forward.
+
+Navigate : 2600..
+State: Forward.
+
+Navigate : 2601..
+State: Forward.
+
+Navigate : 2602..
+State: Forward.
+
+Navigate : 2603..
+State: Forward.
+
+Navigate : 2604..
+State: Forward.
+
+Navigate : 2605..
+State: Forward.
+
+Navigate : 2606..
+State: Forward.
+
+Navigate : 2607..
+State: Forward.
+
+Navigate : 2608..
+State: Forward.
+
+Navigate : 2609..
+State: Forward.
+
+Navigate : 2610..
+State: Forward.
+
+Navigate : 2611..
+State: Forward.
+
+Navigate : 2612..
+State: Forward.
+
+Navigate : 2613..
+State: Forward.
+
+Navigate : 2614..
+State: Forward.
+
+Navigate : 2615..
+State: Forward.
+
+Navigate : 2616..
+State: Forward.
+
+Navigate : 2617..
+State: Forward.
+
+Navigate : 2618..
+State: Forward.
+
+Navigate : 2619..
+State: Forward.
+
+Navigate : 2620..
+State: Forward.
+
+Navigate : 2621..
+State: Forward.
+
+Navigate : 2622..
+State: Forward.
+
+Navigate : 2623..
+State: Forward.
+
+Navigate : 2624..
+State: Forward.
+
+Navigate : 2625..
+State: Forward.
+
+Navigate : 2626..
+State: Forward.
+
+Navigate : 2627..
+State: Forward.
+
+Navigate : 2628..
+State: Forward.
+
+Navigate : 2629..
+State: Forward.
+
+Navigate : 2630..
+State: Forward.
+
+Navigate : 2631..
+State: Forward.
+
+Navigate : 2632..
+State: Forward.
+
+Navigate : 2633..
+State: Forward.
+
+Navigate : 2634..
+State: Forward.
+
+Navigate : 2635..
+State: Forward.
+
+Navigate : 2636..
+State: Forward.
+
+Navigate : 2637..
+State: Forward.
+
+Navigate : 2638..
+State: Forward.
+
+Navigate : 2639..
+State: Forward.
+
+Navigate : 2640..
+State: Forward.
+
+Navigate : 2641..
+State: Forward.
+
+Navigate : 2642..
+State: Forward.
+
+Navigate : 2643..
+State: Forward.
+
+Navigate : 2644..
+State: Forward.
+
+Navigate : 2645..
+State: Forward.
+
+Navigate : 2646..
+State: Forward.
+
+Navigate : 2647..
+State: Forward.
+
+Navigate : 2648..
+State: Forward.
+
+Navigate : 2649..
+State: Forward.
+
+Navigate : 2650..
+State: Forward.
+
+Navigate : 2651..
+State: Forward.
+
+Navigate : 2652..
+State: Forward.
+
+Navigate : 2653..
+State: Forward.
+
+Navigate : 2654..
+State: Forward.
+
+Navigate : 2655..
+State: Forward.
+
+Navigate : 2656..
+State: Forward.
+
+Navigate : 2657..
+State: Forward.
+
+Navigate : 2658..
+State: Forward.
+
+Navigate : 2659..
+State: Forward.
+
+Navigate : 2660..
+State: Forward.
+
+Navigate : 2661..
+State: Forward.
+
+Navigate : 2662..
+State: Forward.
+
+Navigate : 2663..
+State: Forward.
+
+Navigate : 2664..
+State: Forward.
+
+Navigate : 2665..
+State: Forward.
+
+Navigate : 2666..
+State: Forward.
+
+Navigate : 2667..
+State: Forward.
+
+Navigate : 2668..
+State: Forward.
+
+Navigate : 2669..
+State: Forward.
+
+Navigate : 2670..
+State: Forward.
+
+Navigate : 2671..
+State: Forward.
+
+Navigate : 2672..
+State: Forward.
+
+Navigate : 2673..
+State: Forward.
+
+Navigate : 2674..
+State: Forward.
+
+Navigate : 2675..
+State: Forward.
+
+Navigate : 2676..
+State: Forward.
+
+Navigate : 2677..
+State: Forward.
+
+Navigate : 2678..
+State: Forward.
+
+Navigate : 2679..
+State: Forward.
+
+Navigate : 2680..
+State: Forward.
+
+Navigate : 2681..
+State: Forward.
+
+Navigate : 2682..
+State: Forward.
+
+Navigate : 2683..
+State: Forward.
+
+Navigate : 2684..
+State: Forward.
+
+Navigate : 2685..
+State: Forward.
+
+Navigate : 2686..
+State: Forward.
+
+Navigate : 2687..
+State: Forward.
+
+Navigate : 2688..
+State: Forward.
+
+Navigate : 2689..
+State: Forward.
+
+Navigate : 2690..
+State: Forward.
+
+Navigate : 2691..
+State: Forward.
+
+Navigate : 2692..
+State: Forward.
+
+Navigate : 2693..
+State: Forward.
+
+Navigate : 2694..
+State: Forward.
+
+Navigate : 2695..
+State: Forward.
+
+Navigate : 2696..
+State: Forward.
+
+Navigate : 2697..
+State: Forward.
+
+Navigate : 2698..
+State: Forward.
+
+Navigate : 2699..
+State: Forward.
+
+Navigate : 2700..
+State: Forward.
+
+Navigate : 2701..
+State: Forward.
+
+Navigate : 2702..
+State: Forward.
+
+Navigate : 2703..
+State: Forward.
+
+Navigate : 2704..
+State: Forward.
+
+Navigate : 2705..
+State: Forward.
+
+Navigate : 2706..
+State: Forward.
+
+Navigate : 2707..
+State: Forward.
+
+Navigate : 2708..
+State: Forward.
+
+Navigate : 2709..
+State: Forward.
+
+Navigate : 2710..
+State: Forward.
+
+Navigate : 2711..
+State: Forward.
+
+Navigate : 2712..
+State: Forward.
+
+Navigate : 2713..
+State: Forward.
+
+Navigate : 2714..
+State: Forward.
+
+Navigate : 2715..
+State: Forward.
+
+Navigate : 2716..
+State: Forward.
+
+Navigate : 2717..
+State: Forward.
+
+Navigate : 2718..
+State: Forward.
+
+Navigate : 2719..
+State: Forward.
+
+Navigate : 2720..
+State: Forward.
+
+Navigate : 2721..
+State: Forward.
+
+Navigate : 2722..
+State: Forward.
+
+Navigate : 2723..
+State: Forward.
+
+Navigate : 2724..
+State: Forward.
+
+Navigate : 2725..
+State: Forward.
+
+Navigate : 2726..
+State: Forward.
+
+Navigate : 2727..
+State: Forward.
+
+Navigate : 2728..
+State: Forward.
+
+Navigate : 2729..
+State: Forward.
+
+Navigate : 2730..
+State: Forward.
+
+Navigate : 2731..
+State: Forward.
+
+Navigate : 2732..
+State: Forward.
+
+Navigate : 2733..
+State: Forward.
+
+Navigate : 2734..
+State: Forward.
+
+Navigate : 2735..
+State: Forward.
+
+Navigate : 2736..
+State: Forward.
+
+Navigate : 2737..
+State: Forward.
+
+Navigate : 2738..
+State: Forward.
+
+Navigate : 2739..
+State: Forward.
+
+Navigate : 2740..
+State: Forward.
+
+Navigate : 2741..
+State: Forward.
+
+Navigate : 2742..
+State: Forward.
+
+Navigate : 2743..
+State: Forward.
+
+Navigate : 2744..
+State: Forward.
+
+Navigate : 2745..
+State: Forward.
+
+Navigate : 2746..
+State: Forward.
+
+Navigate : 2747..
+State: Forward.
+
+Navigate : 2748..
+State: Forward.
+
+Navigate : 2749..
+State: Forward.
+
+Navigate : 2750..
+State: Forward.
+
+Navigate : 2751..
+State: Forward.
+
+Navigate : 2752..
+State: Forward.
+
+Navigate : 2753..
+State: Forward.
+
+Navigate : 2754..
+State: Forward.
+
+Navigate : 2755..
+State: Forward.
+
+Navigate : 2756..
+State: Forward.
+
+Navigate : 2757..
+State: Forward.
+
+Navigate : 2758..
+State: Forward.
+
+Navigate : 2759..
+State: Forward.
+
+Navigate : 2760..
+State: Forward.
+
+Navigate : 2761..
+State: Forward.
+
+Navigate : 2762..
+State: Forward.
+
+Navigate : 2763..
+State: Forward.
+
+Navigate : 2764..
+State: Forward.
+
+Navigate : 2765..
+State: Forward.
+
+Navigate : 2766..
+State: Forward.
+
+Navigate : 2767..
+State: Forward.
+
+Navigate : 2768..
+State: Forward.
+
+Navigate : 2769..
+State: Forward.
+
+Navigate : 2770..
+State: Forward.
+
+Navigate : 2771..
+State: Forward.
+
+Navigate : 2772..
+State: Forward.
+
+Navigate : 2773..
+State: Forward.
+
+Navigate : 2774..
+State: Forward.
+
+Navigate : 2775..
+State: Forward.
+
+Navigate : 2776..
+State: Forward.
+
+Navigate : 2777..
+State: Forward.
+
+Navigate : 2778..
+State: Forward.
+
+Navigate : 2779..
+State: Forward.
+
+Navigate : 2780..
+State: Forward.
+
+Navigate : 2781..
+State: Forward.
+
+Navigate : 2782..
+State: Forward.
+
+Navigate : 2783..
+State: Forward.
+
+Navigate : 2784..
+State: Forward.
+
+Navigate : 2785..
+State: Forward.
+
+Navigate : 2786..
+State: Forward.
+
+Navigate : 2787..
+State: Forward.
+
+Navigate : 2788..
+State: Forward.
+
+Navigate : 2789..
+State: Forward.
+
+Navigate : 2790..
+State: Forward.
+
+Navigate : 2791..
+State: Forward.
+
+Navigate : 2792..
+State: Forward.
+
+Navigate : 2793..
+State: Forward.
+
+Navigate : 2794..
+State: Forward.
+
+Navigate : 2795..
+State: Forward.
+
+Navigate : 2796..
+State: Forward.
+
+Navigate : 2797..
+State: Forward.
+
+Navigate : 2798..
+State: Forward.
+
+Navigate : 2799..
+State: Forward.
+
+Navigate : 2800..
+State: Forward.
+
+Navigate : 2801..
+State: Forward.
+
+Navigate : 2802..
+State: Forward.
+
+Navigate : 2803..
+State: Forward.
+
+Navigate : 2804..
+State: Forward.
+
+Navigate : 2805..
+State: Forward.
+
+Navigate : 2806..
+State: Forward.
+
+Navigate : 2807..
+State: Forward.
+
+Navigate : 2808..
+State: Forward.
+
+Navigate : 2809..
+State: Forward.
+
+Navigate : 2810..
+State: Forward.
+
+Navigate : 2811..
+State: Forward.
+
+Navigate : 2812..
+State: Forward.
+
+Navigate : 2813..
+State: Forward.
+
+Navigate : 2814..
+State: Forward.
+
+Navigate : 2815..
+State: Forward.
+
+Navigate : 2816..
+State: Forward.
+
+Navigate : 2817..
+State: Forward.
+
+Navigate : 2818..
+State: Forward.
+
+Navigate : 2819..
+State: Forward.
+
+Navigate : 2820..
+State: Forward.
+
+Navigate : 2821..
+State: Forward.
+
+Navigate : 2822..
+State: Forward.
+
+Navigate : 2823..
+State: Forward.
+
+Navigate : 2824..
+State: Forward.
+
+Navigate : 2825..
+State: Forward.
+
+Navigate : 2826..
+State: Forward.
+
+Navigate : 2827..
+State: Forward.
+
+Navigate : 2828..
+State: Forward.
+
+Navigate : 2829..
+State: Forward.
+
+Navigate : 2830..
+State: Forward.
+
+Navigate : 2831..
+State: Forward.
+
+Navigate : 2832..
+State: Forward.
+
+Navigate : 2833..
+State: Forward.
+
+Navigate : 2834..
+State: Forward.
+
+Navigate : 2835..
+State: Forward.
+
+Navigate : 2836..
+State: Forward.
+
+Navigate : 2837..
+State: Forward.
+
+Navigate : 2838..
+State: Forward.
+
+Navigate : 2839..
+State: Forward.
+
+Navigate : 2840..
+State: Forward.
+
+Navigate : 2841..
+State: Forward.
+
+Navigate : 2842..
+State: Forward.
+
+Navigate : 2843..
+State: Forward.
+
+Navigate : 2844..
+State: Forward.
+
+Navigate : 2845..
+State: Forward.
+
+Navigate : 2846..
+State: Forward.
+
+Navigate : 2847..
+State: Forward.
+
+Navigate : 2848..
+State: Forward.
+
+Navigate : 2849..
+State: Forward.
+
+Navigate : 2850..
+State: Forward.
+
+Navigate : 2851..
+State: Forward.
+
+Navigate : 2852..
+State: Forward.
+
+Navigate : 2853..
+State: Forward.
+
+Navigate : 2854..
+State: Forward.
+
+Navigate : 2855..
+State: Forward.
+
+Navigate : 2856..
+State: Forward.
+
+Navigate : 2857..
+State: Forward.
+
+Navigate : 2858..
+State: Forward.
+
+Navigate : 2859..
+State: Forward.
+
+Navigate : 2860..
+State: Forward.
+
+Navigate : 2861..
+State: Forward.
+
+Navigate : 2862..
+State: Forward.
+
+Navigate : 2863..
+State: Forward.
+
+Navigate : 2864..
+State: Forward.
+
+Navigate : 2865..
+State: Forward.
+
+Navigate : 2866..
+State: Forward.
+
+Navigate : 2867..
+State: Forward.
+
+Navigate : 2868..
+State: Forward.
+
+Navigate : 2869..
+State: Forward.
+
+Navigate : 2870..
+State: Forward.
+
+Navigate : 2871..
+State: Forward.
+
+Navigate : 2872..
+State: Forward.
+
+Navigate : 2873..
+State: Forward.
+
+Navigate : 2874..
+State: Forward.
+
+Navigate : 2875..
+State: Forward.
+
+Navigate : 2876..
+State: Forward.
+
+Navigate : 2877..
+State: Forward.
+
+Navigate : 2878..
+State: Forward.
+
+Navigate : 2879..
+State: Forward.
+
+Navigate : 2880..
+State: Forward.
+
+Navigate : 2881..
+State: Forward.
+
+Navigate : 2882..
+State: Forward.
+
+Navigate : 2883..
+State: Forward.
+
+Navigate : 2884..
+State: Forward.
+
+Navigate : 2885..
+State: Forward.
+
+Navigate : 2886..
+State: Forward.
+
+Navigate : 2887..
+State: Forward.
+
+Navigate : 2888..
+State: Forward.
+
+Navigate : 2889..
+State: Forward.
+
+Navigate : 2890..
+State: Forward.
+
+Navigate : 2891..
+State: Forward.
+
+Navigate : 2892..
+State: Forward.
+
+Navigate : 2893..
+State: Forward.
+
+Navigate : 2894..
+State: Forward.
+
+Navigate : 2895..
+State: Forward.
+
+Navigate : 2896..
+State: Forward.
+
+Navigate : 2897..
+State: Forward.
+
+Navigate : 2898..
+State: Forward.
+
+Navigate : 2899..
+State: Forward.
+
+Navigate : 2900..
+State: Forward.
+
+Navigate : 2901..
+State: Forward.
+
+Navigate : 2902..
+State: Forward.
+
+Navigate : 2903..
+State: Forward.
+
+Navigate : 2904..
+State: Forward.
+
+Navigate : 2905..
+State: Forward.
+
+Navigate : 2906..
+State: Forward.
+
+Navigate : 2907..
+State: Forward.
+
+Navigate : 2908..
+State: Forward.
+
+Navigate : 2909..
+State: Forward.
+
+Navigate : 2910..
+State: Forward.
+
+Navigate : 2911..
+State: Forward.
+
+Navigate : 2912..
+State: Forward.
+
+Navigate : 2913..
+State: Forward.
+
+Navigate : 2914..
+State: Forward.
+
+Navigate : 2915..
+State: Forward.
+
+Navigate : 2916..
+State: Forward.
+
+Navigate : 2917..
+State: Forward.
+
+Navigate : 2918..
+State: Forward.
+
+Navigate : 2919..
+State: Forward.
+
+Navigate : 2920..
+State: Forward.
+
+Navigate : 2921..
+State: Forward.
+
+Navigate : 2922..
+State: Forward.
+
+Navigate : 2923..
+State: Forward.
+
+Navigate : 2924..
+State: Forward.
+
+Navigate : 2925..
+State: Forward.
+
+Navigate : 2926..
+State: Forward.
+
+Navigate : 2927..
+State: Forward.
+
+Navigate : 2928..
+State: Forward.
+
+Navigate : 2929..
+State: Forward.
+
+Navigate : 2930..
+State: Forward.
+
+Navigate : 2931..
+State: Forward.
+
+Navigate : 2932..
+State: Forward.
+
+Navigate : 2933..
+State: Forward.
+
+Navigate : 2934..
+State: Forward.
+
+Navigate : 2935..
+State: Forward.
+
+Navigate : 2936..
+State: Forward.
+
+Navigate : 2937..
+State: Forward.
+
+Navigate : 2938..
+State: Forward.
+
+Navigate : 2939..
+State: Forward.
+
+Navigate : 2940..
+State: Forward.
+
+Navigate : 2941..
+State: Forward.
+
+Navigate : 2942..
+State: Forward.
+
+Navigate : 2943..
+State: Forward.
+
+Navigate : 2944..
+State: Forward.
+
+Navigate : 2945..
+State: Forward.
+
+Navigate : 2946..
+State: Forward.
+
+Navigate : 2947..
+State: Forward.
+
+Navigate : 2948..
+State: Forward.
+
+Navigate : 2949..
+State: Forward.
+
+Navigate : 2950..
+State: Forward.
+
+Navigate : 2951..
+State: Forward.
+
+Navigate : 2952..
+State: Forward.
+
+Navigate : 2953..
+State: Forward.
+
+Navigate : 2954..
+State: Forward.
+
+Navigate : 2955..
+State: Forward.
+
+Navigate : 2956..
+State: Forward.
+
+Navigate : 2957..
+State: Forward.
+
+Navigate : 2958..
+State: Forward.
+
+Navigate : 2959..
+State: Forward.
+
+Navigate : 2960..
+State: Forward.
+
+Navigate : 2961..
+State: Forward.
+
+Navigate : 2962..
+State: Forward.
+
+Navigate : 2963..
+State: Forward.
+
+Navigate : 2964..
+State: Forward.
+
+Navigate : 2965..
+State: Forward.
+
+Navigate : 2966..
+State: Forward.
+
+Navigate : 2967..
+State: Forward.
+
+Navigate : 2968..
+State: Forward.
+
+Navigate : 2969..
+State: Forward.
+
+Navigate : 2970..
+State: Forward.
+
+Navigate : 2971..
+State: Forward.
+
+Navigate : 2972..
+State: Forward.
+
+Navigate : 2973..
+State: Forward.
+
+Navigate : 2974..
+State: Forward.
+
+Navigate : 2975..
+State: Forward.
+
+Navigate : 2976..
+State: Forward.
+
+Navigate : 2977..
+State: Forward.
+
+Navigate : 2978..
+State: Forward.
+
+Navigate : 2979..
+State: Forward.
+
+Navigate : 2980..
+State: Forward.
+
+Navigate : 2981..
+State: Forward.
+
+Navigate : 2982..
+State: Forward.
+
+Navigate : 2983..
+State: Forward.
+
+Navigate : 2984..
+State: Forward.
+
+Navigate : 2985..
+State: Forward.
+
+Navigate : 2986..
+State: Forward.
+
+Navigate : 2987..
+State: Forward.
+
+Navigate : 2988..
+State: Forward.
+
+Navigate : 2989..
+State: Forward.
+
+Navigate : 2990..
+State: Forward.
+
+Navigate : 2991..
+State: Forward.
+
+Navigate : 2992..
+State: Forward.
+
+Navigate : 2993..
+State: Forward.
+
+Navigate : 2994..
+State: Forward.
+
+Navigate : 2995..
+State: Forward.
+
+Navigate : 2996..
+State: Forward.
+
+Navigate : 2997..
+State: Forward.
+
+Navigate : 2998..
+State: Forward.
+
+Navigate : 2999..
+State: Forward.
+
+Navigate : 3000..
+State: Forward.
+
+Navigate : 3001..
+State: Forward.
+
+Navigate : 3002..
+State: Forward.
+
+Navigate : 3003..
+State: Forward.
+
+Navigate : 3004..
+State: Forward.
+
+Navigate : 3005..
+State: Forward.
+
+Navigate : 3006..
+State: Forward.
+
+Navigate : 3007..
+State: Forward.
+
+Navigate : 3008..
+State: Forward.
+
+Navigate : 3009..
+State: Forward.
+
+Navigate : 3010..
+State: Forward.
+
+Navigate : 3011..
+State: Forward.
+
+Navigate : 3012..
+State: Forward.
+
+Navigate : 3013..
+State: Forward.
+
+Navigate : 3014..
+State: Forward.
+
+Navigate : 3015..
+State: Forward.
+
+Navigate : 3016..
+State: Forward.
+
+Navigate : 3017..
+State: Forward.
+
+Navigate : 3018..
+State: Forward.
+
+Navigate : 3019..
+State: Forward.
+
+Navigate : 3020..
+State: Forward.
+
+Navigate : 3021..
+State: Forward.
+
+Navigate : 3022..
+State: Forward.
+
+Navigate : 3023..
+State: Forward.
+
+Navigate : 3024..
+State: Forward.
+
+Navigate : 3025..
+State: Forward.
+
+Navigate : 3026..
+State: Forward.
+
+Navigate : 3027..
+State: Forward.
+
+Navigate : 3028..
+State: Forward.
+
+Navigate : 3029..
+State: Forward.
+
+Navigate : 3030..
+State: Forward.
+
+Navigate : 3031..
+State: Forward.
+
+Navigate : 3032..
+State: Forward.
+
+Navigate : 3033..
+State: Forward.
+
+Navigate : 3034..
+State: Forward.
+
+Navigate : 3035..
+State: Forward.
+
+Navigate : 3036..
+State: Forward.
+
+Navigate : 3037..
+State: Forward.
+
+Navigate : 3038..
+State: Forward.
+
+Navigate : 3039..
+State: Forward.
+
+Navigate : 3040..
+State: Forward.
+
+Navigate : 3041..
+State: Forward.
+
+Navigate : 3042..
+State: Forward.
+
+Navigate : 3043..
+State: Forward.
+
+Navigate : 3044..
+State: Forward.
+
+Navigate : 3045..
+State: Forward.
+
+Navigate : 3046..
+State: Forward.
+
+Navigate : 3047..
+State: Forward.
+
+Navigate : 3048..
+State: Forward.
+
+Navigate : 3049..
+State: Forward.
+
+Navigate : 3050..
+State: Forward.
+
+Navigate : 3051..
+State: Forward.
+
+Navigate : 3052..
+State: Forward.
+
+Navigate : 3053..
+State: Forward.
+
+Navigate : 3054..
+State: Forward.
+
+Navigate : 3055..
+State: Forward.
+
+Navigate : 3056..
+State: Forward.
+
+Navigate : 3057..
+State: Forward.
+
+Navigate : 3058..
+State: Forward.
+
+Navigate : 3059..
+State: Forward.
+
+Navigate : 3060..
+State: Forward.
+
+Navigate : 3061..
+State: Forward.
+
+Navigate : 3062..
+State: Forward.
+
+Navigate : 3063..
+State: Forward.
+
+Navigate : 3064..
+State: Forward.
+
+Navigate : 3065..
+State: Forward.
+
+Navigate : 3066..
+State: Forward.
+
+Navigate : 3067..
+State: Forward.
+
+Navigate : 3068..
+State: Forward.
+
+Navigate : 3069..
+State: Obstacle Avoidance.
+
+Navigate : 3070..
+State: Obstacle Avoidance.
+
+Navigate : 3071..
+State: Obstacle Avoidance.
+
+Navigate : 3072..
+State: Obstacle Avoidance.
+
+Navigate : 3073..
+State: Obstacle Avoidance.
+
+Navigate : 3074..
+State: Obstacle Avoidance.
+
+Navigate : 3075..
+State: Obstacle Avoidance.
+
+Navigate : 3076..
+State: Obstacle Avoidance.
+
+Navigate : 3077..
+State: Obstacle Avoidance.
+
+Navigate : 3078..
+State: Obstacle Avoidance.
+
+Navigate : 3079..
+State: Obstacle Avoidance.
+
+Navigate : 3080..
+State: Obstacle Avoidance.
+
+Navigate : 3081..
+State: Obstacle Avoidance.
+
+Navigate : 3082..
+State: Obstacle Avoidance.
+
+Navigate : 3083..
+State: Obstacle Avoidance.
+
+Navigate : 3084..
+State: Obstacle Avoidance.
+
+Navigate : 3085..
+State: Obstacle Avoidance.
+
+Navigate : 3086..
+State: Obstacle Avoidance.
+
+Navigate : 3087..
+State: Obstacle Avoidance.
+
+Navigate : 3088..
+State: Obstacle Avoidance.
+
+Navigate : 3089..
+State: Obstacle Avoidance.
+
+Navigate : 3090..
+State: Obstacle Avoidance.
+
+Navigate : 3091..
+State: Obstacle Avoidance.
+
+Navigate : 3092..
+State: Obstacle Avoidance.
+
+Navigate : 3093..
+State: Obstacle Avoidance.
+
+Navigate : 3094..
+State: Obstacle Avoidance.
+
+Navigate : 3095..
+State: Obstacle Avoidance.
+
+Navigate : 3096..
+State: Obstacle Avoidance.
+
+Navigate : 3097..
+State: Obstacle Avoidance.
+
+Navigate : 3098..
+State: Obstacle Avoidance.
+
+Navigate : 3099..
+State: Obstacle Avoidance.
+
+Navigate : 3100..
+State: Obstacle Avoidance.
+
+Navigate : 3101..
+State: Obstacle Avoidance.
+
+Navigate : 3102..
+State: Obstacle Avoidance.
+
+Navigate : 3103..
+State: Obstacle Avoidance.
+
+Navigate : 3104..
+State: Obstacle Avoidance.
+
+Navigate : 3105..
+State: Obstacle Avoidance.
+
+Navigate : 3106..
+State: Obstacle Avoidance.
+
+Navigate : 3107..
+State: Obstacle Avoidance.
+
+Navigate : 3108..
+State: Obstacle Avoidance.
+
+Navigate : 3109..
+State: Obstacle Avoidance.
+
+Navigate : 3110..
+State: Obstacle Avoidance.
+
+Navigate : 3111..
+State: Obstacle Avoidance.
+
+Navigate : 3112..
+State: Obstacle Avoidance.
+
+Navigate : 3113..
+State: Obstacle Avoidance.
+
+Navigate : 3114..
+State: Obstacle Avoidance.
+
+Navigate : 3115..
+State: Obstacle Avoidance.
+
+Navigate : 3116..
+State: Obstacle Avoidance.
+
+Navigate : 3117..
+State: Obstacle Avoidance.
+
+Navigate : 3118..
+State: Obstacle Avoidance.
+
+Navigate : 3119..
+State: Obstacle Avoidance.
+
+Navigate : 3120..
+State: Obstacle Avoidance.
+
+Navigate : 3121..
+State: Obstacle Avoidance.
+
+Navigate : 3122..
+State: Obstacle Avoidance.
+
+Navigate : 3123..
+State: Obstacle Avoidance.
+
+Navigate : 3124..
+State: Obstacle Avoidance.
+
+Navigate : 3125..
+State: Obstacle Avoidance.
+
+Navigate : 3126..
+State: Obstacle Avoidance.
+
+Navigate : 3127..
+State: Obstacle Avoidance.
+
+Navigate : 3128..
+State: Obstacle Avoidance.
+
+Navigate : 3129..
+State: Obstacle Avoidance.
+
+Navigate : 3130..
+State: Obstacle Avoidance.
+
+Navigate : 3131..
+State: Obstacle Avoidance.
+
+Navigate : 3132..
+State: Obstacle Avoidance.
+
+Navigate : 3133..
+State: Obstacle Avoidance.
+
+Navigate : 3134..
+State: Obstacle Avoidance.
+
+Navigate : 3135..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3136..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3137..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3138..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3139..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3140..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3141..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3142..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3143..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3144..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3145..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3146..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3147..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3148..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3149..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3150..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3151..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3152..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3153..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3154..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3155..
+State: Back to line.
+Distance:0.508690493590711
+
+Navigate : 3156..
+State: Back to line.
+Distance:0.719353799548851
+
+Navigate : 3157..
+State: Back to line.
+Distance:0.719353799548851
+
+Navigate : 3158..
+State: Back to line.
+Distance:0.719353799548851
+
+Navigate : 3159..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3160..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3161..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3162..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3163..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3164..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3165..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3166..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3167..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3168..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3169..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3170..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3171..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3172..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3173..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3174..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3175..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3176..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3177..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3178..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3179..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3180..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3181..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3182..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3183..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3184..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3185..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3186..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3187..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3188..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3189..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3190..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3191..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3192..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3193..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3194..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3195..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3196..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3197..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3198..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3199..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3200..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3201..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3202..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3203..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3204..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3205..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3206..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3207..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3208..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3209..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3210..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3211..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3212..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3213..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3214..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3215..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3216..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3217..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3218..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3219..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3220..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3221..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3222..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3223..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3224..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3225..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3226..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3227..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3228..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3229..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3230..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3231..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3232..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3233..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3234..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3235..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3236..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3237..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3238..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3239..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3240..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3241..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3242..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3243..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3244..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3245..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3246..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3247..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3248..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3249..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3250..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3251..
+State: Back to line.
+Distance:0.748385734807312
+
+Navigate : 3252..
+State: Back to line.
+Distance:1.77255242474578
+
+Navigate : 3253..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3254..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3255..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3256..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3257..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3258..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3259..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3260..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3261..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3262..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3263..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3264..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3265..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3266..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3267..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3268..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3269..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3270..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3271..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3272..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3273..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3274..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3275..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3276..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3277..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3278..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3279..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3280..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3281..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3282..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3283..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3284..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3285..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3286..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3287..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3288..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3289..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3290..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3291..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3292..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3293..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3294..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3295..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3296..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3297..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3298..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3299..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3300..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3301..
+State: Back to line.
+Distance:3.05308441502895
+
+Navigate : 3302..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3303..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3304..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3305..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3306..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3307..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3308..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3309..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3310..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3311..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3312..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3313..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3314..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3315..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3316..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3317..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3318..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3319..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3320..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3321..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3322..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3323..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3324..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3325..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3326..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3327..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3328..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3329..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3330..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3331..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3332..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3333..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3334..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3335..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3336..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3337..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3338..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3339..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3340..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3341..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3342..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3343..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3344..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3345..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3346..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3347..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3348..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3349..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3350..
+State: Back to line.
+Distance:4.17596506426697
+
+Navigate : 3351..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3352..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3353..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3354..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3355..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3356..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3357..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3358..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3359..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3360..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3361..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3362..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3363..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3364..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3365..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3366..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3367..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3368..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3369..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3370..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3371..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3372..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3373..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3374..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3375..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3376..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3377..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3378..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3379..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3380..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3381..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3382..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3383..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3384..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3385..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3386..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3387..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3388..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3389..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3390..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3391..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3392..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3393..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3394..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3395..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3396..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3397..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3398..
+State: Back to line.
+Distance:5.29409438680523
+
+Navigate : 3399..
+State: Back to line.
+Distance:5.29409438680523
+
+
+Received data from moblie : 3
+
+
+Received data from moblie : 3
+
+
+Received data from moblie : 3
+
+Navigate : 3400..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3401..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3402..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3403..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3404..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3405..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3406..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3407..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3408..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3409..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3410..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3411..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3412..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3413..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3414..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3415..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3416..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3417..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3418..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3419..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3420..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3421..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3422..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3423..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3424..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3425..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3426..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3427..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3428..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3429..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3430..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3431..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3432..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3433..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3434..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3435..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3436..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3437..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3438..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3439..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3440..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3441..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3442..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3443..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3444..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3445..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3446..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3447..
+State: Back to line.
+Distance:6.38542546914757
+
+Navigate : 3448..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3449..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3450..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3451..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3452..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3453..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3454..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3455..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3456..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3457..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3458..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3459..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3460..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3461..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3462..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3463..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3464..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3465..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3466..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3467..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3468..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3469..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3470..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3471..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3472..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3473..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3474..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3475..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3476..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3477..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3478..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3479..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3480..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3481..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3482..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3483..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3484..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3485..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3486..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3487..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3488..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3489..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3490..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3491..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3492..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3493..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3494..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3495..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3496..
+State: Back to line.
+Distance:7.48047469880686
+
+Navigate : 3497..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3498..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3499..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3500..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3501..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3502..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3503..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3504..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3505..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3506..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3507..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3508..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3509..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3510..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3511..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3512..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3513..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3514..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3515..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3516..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3517..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3518..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3519..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3520..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3521..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3522..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3523..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3524..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3525..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3526..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3527..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3528..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3529..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3530..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3531..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3532..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3533..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3534..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3535..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3536..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3537..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3538..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3539..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3540..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3541..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3542..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3543..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3544..
+State: Back to line.
+Distance:8.49552625218525
+
+Navigate : 3545..
+State: Back to line.
+Distance:8.49552625218525
+
+
+Received data from moblie : 2
+
+
+Received data from moblie : 2
+
+
+Received data from moblie : 2
+
+Give up misson.
+
+Navigate : SearchInArea Finished..
+
+
+Received data from moblie : 2
+

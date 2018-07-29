@@ -1,0 +1,45 @@
+CC=g++
+TARGET = test
+OBJECTS = test.o
+
+INC = -I./DJIlib/inc -I./DJIlib/DJIscript/inc
+
+APRILINC = -I./AprilTag -I./AprilTag/common
+
+LIBAPRILTAG := libapriltag.a
+
+LIBONBOARD := libonboard.a
+
+CFLAGS = -Wall -O3 `pkg-config --cflags opencv` -I/usr/local/include/opencv2
+LDFLAGS = -Wl,-rpath,./ -ldcam -lpthread -lrt -L./ -L/usr/local/lib/ `pkg-config --libs opencv`
+
+all: $(TARGET) $(LIBAPRILTAG)
+
+$(TARGET) : $(OBJECTS)  AprilTag/getcor.o mainapril.o mainonboard.o $(LIBONBOARD) $(LIBAPRILTAG)
+	$(CC) -o $(TARGET) $(OBJECTS) $(LDFLAGS) AprilTag/getcor.o mainapril.o mainonboard.o -lm `pkg-config --libs opencv` $(LIBONBOARD) $(LIBAPRILTAG) -ldcam 
+
+$(LIBAPRILTAG): 
+	(cd ./AprilTag;$(MAKE))
+
+$(LIBONBOARD): 
+	(cd ./DJIlib;$(MAKE))
+
+$(OBJECTS): test.cpp $(LIBONBOARD)
+	$(CC) $(CFLAGS) -c test.cpp -std=c++11 $(INC) -pthread -I./DJIlib/conboardSDK
+
+AprilTag/getcor.o: AprilTag/getcor.cpp AprilTag/apriltag_demo.h AprilTag/getcor.h
+	$(CC) -c AprilTag/getcor.cpp `pkg-config --cflags opencv`
+	mv ./getcor.o ./AprilTag/getcor.o
+
+mainapril.o: mainapril.cpp
+	$(CC) -c mainapril.cpp -I/usr/include/opencv2 -ldcam -I./AprilTag 
+
+mainonboard.o: mainonboard.cpp $(addprefix objs/, $(OBJS)) AprilTag/getcor.h
+	$(CC) $(CFLAGS) -c mainonboard.cpp $(INC) -pthread -I./DJIlib/conboardSDK -I./AprilTag
+
+.PHONY: clean
+	
+clean:
+	rm -f *.o *~ test $(LIBAPRILTAG) $(LIBONBOARD)
+	
+
